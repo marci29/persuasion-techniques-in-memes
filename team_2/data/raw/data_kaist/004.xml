@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>004.jpg</imageName>
+    <resolution x="413" y="269" />
+    <words>
+      <word x="47" y="33" width="161" height="47">
+        <character x="47" y="33" width="51" height="45" char="M" />
+        <character x="98" y="34" width="37" height="44" char="O" />
+        <character x="139" y="36" width="31" height="44" char="D" />
+        <character x="169" y="34" width="39" height="45" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

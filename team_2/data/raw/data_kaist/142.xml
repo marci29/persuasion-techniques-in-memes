@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>142.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="171" y="193" width="311" height="156">
+        <character x="171" y="193" width="127" height="156" char="M" />
+        <character x="301" y="195" width="87" height="153" char="L" />
+        <character x="388" y="194" width="94" height="149" char="B" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

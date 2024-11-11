@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03229.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="206" y="140" width="431" height="98">
+        <character x="206" y="149" width="116" height="89" char="J" />
+        <character x="298" y="169" width="49" height="54" char="u" />
+        <character x="342" y="165" width="57" height="63" char="a" />
+        <character x="397" y="163" width="49" height="61" char="n" />
+        <character x="444" y="157" width="61" height="68" char="a" />
+        <character x="525" y="149" width="43" height="71" char="B" />
+        <character x="568" y="144" width="38" height="75" char="a" />
+        <character x="601" y="140" width="36" height="75" char="r" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

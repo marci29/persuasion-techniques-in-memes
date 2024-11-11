@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090911070.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="21" y="137" width="551" height="139">
+        <character x="21" y="159" width="113" height="106" char="n" />
+        <character x="130" y="158" width="122" height="108" char="a" />
+        <character x="249" y="161" width="97" height="104" char="v" />
+        <character x="347" y="141" width="48" height="126" char="i" />
+        <character x="392" y="137" width="55" height="136" char="i" />
+        <character x="448" y="168" width="124" height="108" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090903008.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="17" y="22" width="225" height="74">
+        <character x="17" y="22" width="69" height="73" char="V" />
+        <character x="85" y="40" width="44" height="51" char="o" />
+        <character x="128" y="27" width="26" height="68" char="i" />
+        <character x="154" y="35" width="44" height="61" char="c" />
+        <character x="198" y="37" width="44" height="56" char="e" />
+      </word>
+      <word x="259" y="31" width="357" height="68">
+        <character x="259" y="31" width="36" height="64" char="I" />
+        <character x="294" y="36" width="53" height="57" char="n" />
+        <character x="349" y="32" width="30" height="65" char="t" />
+        <character x="378" y="39" width="41" height="58" char="e" />
+        <character x="419" y="40" width="44" height="55" char="r" />
+        <character x="462" y="37" width="26" height="62" char="f" />
+        <character x="488" y="46" width="47" height="53" char="a" />
+        <character x="535" y="43" width="41" height="53" char="c" />
+        <character x="578" y="44" width="38" height="51" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

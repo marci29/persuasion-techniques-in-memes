@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04087.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="214" y="120" width="258" height="75">
+        <character x="214" y="124" width="50" height="68" char="S" />
+        <character x="261" y="120" width="22" height="75" char="I" />
+        <character x="285" y="128" width="60" height="67" char="M" />
+        <character x="409" y="132" width="36" height="61" char="J" />
+        <character x="446" y="133" width="26" height="61" char="I" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

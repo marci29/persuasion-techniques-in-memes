@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03911.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="37" y="315" width="587" height="131">
+        <character x="37" y="316" width="72" height="130" char="F" />
+        <character x="110" y="322" width="90" height="124" char="R" />
+        <character x="200" y="322" width="69" height="121" char="E" />
+        <character x="272" y="322" width="73" height="120" char="E" />
+        <character x="397" y="322" width="56" height="104" char="C" />
+        <character x="450" y="322" width="70" height="108" char="O" />
+        <character x="520" y="320" width="53" height="104" char="P" />
+        <character x="570" y="315" width="54" height="111" char="Y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

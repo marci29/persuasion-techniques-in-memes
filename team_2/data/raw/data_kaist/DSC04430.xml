@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04430.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="36" y="132" width="515" height="271">
+        <character x="36" y="266" width="131" height="130" char="S" />
+        <character x="167" y="300" width="94" height="93" char="e" />
+        <character x="261" y="298" width="99" height="99" char="n" />
+        <character x="359" y="297" width="97" height="99" char="s" />
+        <character x="456" y="305" width="95" height="98" char="e" />
+      </word>
+      <word x="61" y="132" width="476" height="142">
+        <character x="61" y="132" width="136" height="129" char="B" />
+        <character x="196" y="167" width="93" height="94" char="a" />
+        <character x="288" y="167" width="100" height="101" char="s" />
+        <character x="389" y="142" width="52" height="125" char="i" />
+        <character x="442" y="169" width="95" height="105" char="c" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

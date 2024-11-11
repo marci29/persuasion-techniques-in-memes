@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>129.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="103" y="173" width="523" height="137">
+        <character x="103" y="174" width="91" height="136" char="S" />
+        <character x="198" y="173" width="94" height="130" char="K" />
+        <character x="300" y="193" width="46" height="102" char="T" />
+        <character x="347" y="224" width="44" height="69" char="e" />
+        <character x="390" y="200" width="20" height="107" char="l" />
+        <character x="410" y="213" width="50" height="80" char="e" />
+        <character x="460" y="213" width="45" height="81" char="c" />
+        <character x="506" y="215" width="46" height="80" char="o" />
+        <character x="550" y="217" width="76" height="77" char="m" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

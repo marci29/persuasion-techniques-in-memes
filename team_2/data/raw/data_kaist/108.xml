@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>108.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="176" y="195" width="357" height="135">
+        <character x="176" y="200" width="142" height="130" char="M" />
+        <character x="381" y="198" width="84" height="128" char="2" />
+        <character x="466" y="195" width="67" height="127" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

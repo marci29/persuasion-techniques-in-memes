@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02690.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="186" y="153" width="278" height="126">
+        <character x="190" y="176" width="48" height="50" char="D" />
+        <character x="239" y="167" width="42" height="52" char="U" />
+        <character x="281" y="164" width="48" height="59" char="N" />
+        <character x="329" y="162" width="44" height="48" char="K" />
+        <character x="372" y="162" width="26" height="51" char="I" />
+        <character x="397" y="153" width="51" height="56" char="N" />
+      </word>
+      <word x="186" y="209" width="278" height="70">
+        <character x="186" y="229" width="49" height="50" char="D" />
+        <character x="235" y="226" width="48" height="48" char="O" />
+        <character x="283" y="219" width="44" height="55" char="N" />
+        <character x="327" y="209" width="49" height="63" char="U" />
+        <character x="378" y="212" width="33" height="54" char="I" />
+        <character x="413" y="209" width="51" height="50" char="S" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

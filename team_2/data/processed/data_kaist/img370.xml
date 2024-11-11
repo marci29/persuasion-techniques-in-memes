@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>v.jpg</imageName>
+    <resolution x="320" y="240" />
+    <words>
+      <word x="24" y="48" width="245" height="39">
+        <character x="24" y="50" width="27" height="32" char="T" />
+        <character x="54" y="48" width="17" height="36" char="H" />
+        <character x="74" y="50" width="19" height="32" char="D" />
+        <character x="99" y="55" width="19" height="31" char="B" />
+        <character x="119" y="57" width="23" height="30" char="O" />
+        <character x="144" y="60" width="18" height="26" char="D" />
+        <character x="163" y="58" width="21" height="24" char="Y" />
+        <character x="187" y="56" width="16" height="25" char="S" />
+        <character x="205" y="59" width="19" height="22" char="H" />
+        <character x="224" y="60" width="24" height="21" char="O" />
+        <character x="247" y="61" width="22" height="22" char="P" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

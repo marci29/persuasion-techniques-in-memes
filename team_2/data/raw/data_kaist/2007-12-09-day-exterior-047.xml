@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\2007-12-09-day-exterior-047.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="616" y="428" width="678" height="252">
+        <character x="616" y="428" width="176" height="215" char="B" />
+        <character x="790" y="456" width="149" height="192" char="O" />
+        <character x="940" y="471" width="112" height="187" char="S" />
+        <character x="1048" y="490" width="119" height="177" char="C" />
+        <character x="1167" y="517" width="127" height="163" char="O" />
+      </word>
+      <word x="214" y="425" width="351" height="152">
+        <character x="214" y="425" width="129" height="134" char="B" />
+        <character x="344" y="440" width="102" height="126" char="A" />
+        <character x="447" y="453" width="118" height="124" char="R" />
+      </word>
+      <word x="637" y="1069" width="123" height="43">
+        <character x="637" y="1069" width="25" height="41" char="B" />
+        <character x="663" y="1070" width="27" height="42" char="O" />
+        <character x="690" y="1070" width="21" height="39" char="S" />
+        <character x="713" y="1070" width="19" height="41" char="C" />
+        <character x="732" y="1071" width="28" height="38" char="O" />
+      </word>
+      <word x="23" y="151" width="88" height="304">
+        <character x="34" y="151" width="77" height="174" char="피" />
+        <character x="23" y="284" width="84" height="171" char="자" />
+      </word>
+      <word x="23" y="458" width="94" height="111">
+        <character x="23" y="458" width="32" height="91" char="U" />
+        <character x="52" y="477" width="34" height="79" char="N" />
+        <character x="84" y="492" width="33" height="77" char="E" />
+      </word>
+      <word x="3" y="565" width="97" height="77">
+        <character x="3" y="565" width="12" height="47" char="6" />
+        <character x="18" y="572" width="11" height="42" char="1" />
+        <character x="32" y="587" width="13" height="21" char="-" />
+        <character x="44" y="578" width="14" height="52" char="3" />
+        <character x="58" y="587" width="14" height="47" char="3" />
+        <character x="74" y="594" width="12" height="46" char="6" />
+        <character x="87" y="601" width="13" height="41" char="3" />
+      </word>
+      <word x="1361" y="537" width="98" height="65">
+        <character x="1361" y="541" width="46" height="61" char="A" />
+        <character x="1408" y="537" width="51" height="54" char="N" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>korean,english,number</tag>
+  </image>
+</images>

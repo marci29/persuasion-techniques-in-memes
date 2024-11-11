@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080119-0015.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="516" y="491" width="481" height="142">
+        <character x="516" y="520" width="134" height="113" char="B" />
+        <character x="652" y="509" width="139" height="116" char="O" />
+        <character x="792" y="500" width="103" height="115" char="S" />
+        <character x="895" y="491" width="102" height="120" char="S" />
+      </word>
+      <word x="536" y="635" width="200" height="50">
+        <character x="536" y="643" width="34" height="42" char="H" />
+        <character x="593" y="642" width="34" height="32" char="U" />
+        <character x="653" y="637" width="33" height="37" char="G" />
+        <character x="703" y="635" width="33" height="30" char="O" />
+      </word>
+      <word x="796" y="613" width="186" height="49">
+        <character x="796" y="628" width="29" height="34" char="B" />
+        <character x="845" y="625" width="36" height="30" char="O" />
+        <character x="902" y="619" width="30" height="34" char="S" />
+        <character x="957" y="613" width="25" height="36" char="S" />
+      </word>
+    </words>
+    <illumination>yes</illumination>
+    <difficulty>4</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>033.jpg</imageName>
+    <resolution x="354" y="232" />
+    <words>
+      <word x="69" y="58" width="210" height="97">
+        <character x="69" y="58" width="47" height="60" char="e" />
+        <character x="115" y="58" width="25" height="59" char="i" />
+        <character x="138" y="60" width="44" height="59" char="g" />
+        <character x="181" y="62" width="47" height="54" char="e" />
+        <character x="227" y="61" width="52" height="56" char="n" />
+      </word>
+      <word x="105" y="118" width="149" height="37">
+        <character x="105" y="122" width="23" height="33" char="p" />
+        <character x="145" y="120" width="26" height="30" char="o" />
+        <character x="184" y="120" width="28" height="31" char="s" />
+        <character x="221" y="118" width="33" height="35" char="t" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080119-0036.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="116" y="298" width="436" height="302">
+        <character x="116" y="298" width="193" height="284" char="F" />
+        <character x="308" y="307" width="80" height="253" char="l" />
+        <character x="378" y="339" width="174" height="261" char="y" />
+      </word>
+      <word x="612" y="309" width="951" height="261">
+        <character x="612" y="309" width="182" height="259" char="E" />
+        <character x="793" y="344" width="223" height="226" char="m" />
+        <character x="1013" y="319" width="64" height="221" char="i" />
+        <character x="1078" y="354" width="99" height="212" char="r" />
+        <character x="1164" y="367" width="117" height="181" char="a" />
+        <character x="1280" y="345" width="84" height="198" char="t" />
+        <character x="1363" y="367" width="100" height="194" char="e" />
+        <character x="1462" y="367" width="101" height="173" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

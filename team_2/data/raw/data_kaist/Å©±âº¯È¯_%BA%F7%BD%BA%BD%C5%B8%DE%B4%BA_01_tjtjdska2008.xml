@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>크기변환_%BA%F7%BD%BA%BD%C5%B8%DE%B4%BA_01_tjtjdska2008.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="194" y="141" width="254" height="129">
+        <character x="194" y="141" width="65" height="123" char="V" />
+        <character x="262" y="154" width="49" height="107" char="I" />
+        <character x="313" y="153" width="61" height="109" char="P" />
+        <character x="378" y="156" width="70" height="114" char="S" />
+      </word>
+      <word x="241" y="274" width="160" height="31">
+        <character x="241" y="274" width="22" height="28" char="S" />
+        <character x="263" y="274" width="13" height="27" char="I" />
+        <character x="277" y="274" width="15" height="28" char="N" />
+        <character x="290" y="275" width="19" height="26" char="C" />
+        <character x="312" y="274" width="17" height="29" char="E" />
+        <character x="335" y="277" width="18" height="24" char="1" />
+        <character x="354" y="277" width="14" height="28" char="9" />
+        <character x="368" y="275" width="14" height="28" char="9" />
+        <character x="381" y="277" width="20" height="25" char="7" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>068.jpg</imageName>
+    <resolution x="742" y="519" />
+    <words>
+      <word x="96" y="260" width="408" height="154">
+        <character x="96" y="268" width="102" height="140" char="E" />
+        <character x="201" y="278" width="69" height="133" char="x" />
+        <character x="271" y="273" width="54" height="138" char="f" />
+        <character x="329" y="285" width="53" height="122" char="e" />
+        <character x="381" y="282" width="59" height="126" char="e" />
+        <character x="440" y="260" width="64" height="154" char="l" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

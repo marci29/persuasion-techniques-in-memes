@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02914.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="61" y="174" width="228" height="127">
+        <character x="61" y="185" width="74" height="116" char="c" />
+        <character x="127" y="183" width="53" height="107" char="a" />
+        <character x="179" y="178" width="50" height="100" char="s" />
+        <character x="229" y="174" width="60" height="99" char="s" />
+      </word>
+      <word x="354" y="183" width="262" height="132">
+        <character x="354" y="183" width="105" height="132" char="h" />
+        <character x="458" y="186" width="42" height="116" char="i" />
+        <character x="491" y="192" width="42" height="96" char="t" />
+        <character x="521" y="196" width="95" height="84" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

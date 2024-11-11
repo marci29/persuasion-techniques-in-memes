@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>027.jpg</imageName>
+    <resolution x="472" y="300" />
+    <words>
+      <word x="0" y="95" width="460" height="96">
+        <character x="0" y="117" width="50" height="73" char="B" />
+        <character x="52" y="118" width="31" height="73" char="l" />
+        <character x="88" y="132" width="58" height="55" char="u" />
+        <character x="146" y="123" width="51" height="57" char="e" />
+        <character x="203" y="95" width="94" height="80" char="w" />
+        <character x="300" y="105" width="43" height="67" char="a" />
+        <character x="345" y="100" width="55" height="67" char="v" />
+        <character x="400" y="109" width="60" height="56" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

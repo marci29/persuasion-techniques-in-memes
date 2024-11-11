@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>086.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="169" y="280" width="245" height="100">
+        <character x="169" y="280" width="31" height="54" char="H" />
+        <character x="197" y="287" width="25" height="49" char="O" />
+        <character x="223" y="297" width="21" height="47" char="N" />
+        <character x="243" y="296" width="23" height="55" char="A" />
+        <character x="266" y="301" width="17" height="53" char="E" />
+        <character x="283" y="306" width="20" height="49" char="T" />
+        <character x="310" y="315" width="25" height="45" char="C" />
+        <character x="337" y="314" width="16" height="55" char="O" />
+        <character x="352" y="319" width="16" height="49" char="F" />
+        <character x="365" y="326" width="16" height="45" char="F" />
+        <character x="382" y="325" width="15" height="49" char="E" />
+        <character x="397" y="330" width="17" height="50" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

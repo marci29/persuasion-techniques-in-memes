@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>t.jpg</imageName>
+    <resolution x="320" y="240" />
+    <words>
+      <word x="54" y="65" width="135" height="42">
+        <character x="54" y="66" width="31" height="41" char="D" />
+        <character x="88" y="70" width="20" height="37" char="R" />
+        <character x="110" y="66" width="18" height="39" char="E" />
+        <character x="129" y="69" width="24" height="34" char="A" />
+        <character x="154" y="65" width="35" height="37" char="M" />
+      </word>
+      <word x="198" y="58" width="88" height="42">
+        <character x="198" y="64" width="26" height="36" char="E" />
+        <character x="224" y="60" width="29" height="35" char="Y" />
+        <character x="253" y="58" width="33" height="42" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

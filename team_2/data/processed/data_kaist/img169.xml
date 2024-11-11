@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03053.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="31" y="126" width="510" height="57">
+        <character x="31" y="135" width="28" height="41" char="P" />
+        <character x="57" y="137" width="22" height="38" char="a" />
+        <character x="77" y="139" width="20" height="38" char="r" />
+        <character x="97" y="133" width="19" height="40" char="t" />
+        <character x="117" y="142" width="25" height="41" char="y" />
+        <character x="236" y="126" width="27" height="45" char="T" />
+        <character x="264" y="139" width="24" height="33" char="e" />
+        <character x="289" y="128" width="17" height="49" char="l" />
+        <character x="335" y="128" width="27" height="44" char="8" />
+        <character x="361" y="128" width="29" height="43" char="6" />
+        <character x="391" y="127" width="22" height="47" char="1" />
+        <character x="436" y="131" width="20" height="42" char="1" />
+        <character x="457" y="129" width="30" height="41" char="4" />
+        <character x="487" y="126" width="25" height="46" char="0" />
+        <character x="513" y="128" width="28" height="42" char="8" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

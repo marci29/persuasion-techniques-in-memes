@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02675.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="51" y="173" width="542" height="108">
+        <character x="51" y="177" width="82" height="90" char="B" />
+        <character x="132" y="176" width="72" height="92" char="A" />
+        <character x="204" y="173" width="74" height="95" char="G" />
+        <character x="278" y="179" width="71" height="90" char="U" />
+        <character x="349" y="182" width="68" height="93" char="E" />
+        <character x="420" y="190" width="54" height="82" char="T" />
+        <character x="474" y="186" width="59" height="87" char="T" />
+        <character x="533" y="184" width="60" height="97" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

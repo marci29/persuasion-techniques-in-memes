@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03192.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="211" y="154" width="272" height="81">
+        <character x="211" y="158" width="74" height="71" char="N" />
+        <character x="276" y="171" width="42" height="46" char="a" />
+        <character x="315" y="161" width="45" height="74" char="p" />
+        <character x="358" y="154" width="25" height="68" char="i" />
+        <character x="383" y="163" width="44" height="55" char="e" />
+        <character x="429" y="159" width="54" height="60" char="r" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02619.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="37" y="208" width="550" height="83">
+        <character x="37" y="223" width="41" height="68" char="B" />
+        <character x="78" y="220" width="43" height="65" char="U" />
+        <character x="120" y="219" width="36" height="67" char="S" />
+        <character x="157" y="219" width="24" height="67" char="I" />
+        <character x="182" y="219" width="50" height="61" char="N" />
+        <character x="233" y="219" width="37" height="61" char="E" />
+        <character x="271" y="215" width="42" height="68" char="S" />
+        <character x="310" y="213" width="51" height="69" char="S" />
+        <character x="385" y="211" width="63" height="66" char="C" />
+        <character x="446" y="212" width="47" height="59" char="L" />
+        <character x="493" y="210" width="45" height="65" char="U" />
+        <character x="538" y="208" width="49" height="67" char="B" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

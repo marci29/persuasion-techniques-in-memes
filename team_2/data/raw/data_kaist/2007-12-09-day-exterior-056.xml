@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0623\2007-12-09-day-exterior-056.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="737" y="174" width="74" height="107">
+        <character x="737" y="174" width="74" height="107" char="7" />
+      </word>
+      <word x="473" y="504" width="570" height="123">
+        <character x="473" y="513" width="92" height="110" char="7" />
+        <character x="559" y="559" width="47" height="35" char="-" />
+        <character x="604" y="507" width="68" height="114" char="E" />
+        <character x="674" y="504" width="61" height="123" char="L" />
+        <character x="735" y="507" width="63" height="117" char="E" />
+        <character x="800" y="505" width="87" height="119" char="V" />
+        <character x="886" y="505" width="68" height="121" char="E" />
+        <character x="955" y="507" width="88" height="118" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

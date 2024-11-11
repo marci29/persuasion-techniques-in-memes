@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>110.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="148" y="191" width="419" height="87">
+        <character x="148" y="193" width="60" height="75" char="A" />
+        <character x="209" y="191" width="52" height="81" char="N" />
+        <character x="261" y="191" width="50" height="87" char="Y" />
+        <character x="320" y="195" width="57" height="77" char="T" />
+        <character x="377" y="193" width="49" height="83" char="O" />
+        <character x="435" y="191" width="67" height="83" char="G" />
+        <character x="503" y="192" width="64" height="80" char="O" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

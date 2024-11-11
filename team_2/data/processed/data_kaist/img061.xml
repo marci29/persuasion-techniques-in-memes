@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>138.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="194" y="255" width="253" height="56">
+        <character x="194" y="258" width="26" height="47" char="f" />
+        <character x="221" y="256" width="31" height="49" char="o" />
+        <character x="253" y="257" width="27" height="54" char="r" />
+        <character x="279" y="255" width="31" height="53" char="e" />
+        <character x="310" y="258" width="35" height="50" char="n" />
+        <character x="344" y="264" width="32" height="42" char="c" />
+        <character x="377" y="268" width="35" height="39" char="o" />
+        <character x="411" y="264" width="36" height="40" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>031.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="134" y="188" width="362" height="61">
+        <character x="134" y="188" width="44" height="60" char="T" />
+        <character x="201" y="188" width="49" height="60" char="H" />
+        <character x="274" y="190" width="45" height="58" char="E" />
+        <character x="367" y="201" width="40" height="47" char="B" />
+        <character x="421" y="201" width="40" height="48" char="a" />
+        <character x="473" y="207" width="23" height="38" char="r" />
+      </word>
+      <word x="103" y="317" width="41" height="26">
+        <character x="103" y="318" width="17" height="24" char="T" />
+        <character x="121" y="318" width="12" height="25" char="H" />
+        <character x="131" y="317" width="13" height="25" char="E" />
+      </word>
+      <word x="495" y="320" width="41" height="22">
+        <character x="495" y="320" width="16" height="22" char="T" />
+        <character x="511" y="321" width="13" height="21" char="H" />
+        <character x="524" y="320" width="12" height="21" char="E" />
+      </word>
+      <word x="302" y="351" width="44" height="115">
+        <character x="303" y="351" width="37" height="45" char="T" />
+        <character x="302" y="397" width="40" height="39" char="h" />
+        <character x="302" y="435" width="44" height="31" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

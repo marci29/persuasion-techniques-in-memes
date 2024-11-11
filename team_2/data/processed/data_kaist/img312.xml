@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831037.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="60" y="50" width="541" height="141">
+        <character x="492" y="62" width="109" height="129" char="R" />
+        <character x="60" y="50" width="108" height="133" char="A" />
+        <character x="167" y="53" width="105" height="126" char="F" />
+        <character x="275" y="60" width="111" height="126" char="T" />
+        <character x="382" y="62" width="111" height="127" char="E" />
+      </word>
+      <word x="9" y="186" width="612" height="148">
+        <character x="9" y="190" width="112" height="129" char="V" />
+        <character x="120" y="194" width="71" height="132" char="I" />
+        <character x="188" y="189" width="109" height="133" char="R" />
+        <character x="295" y="190" width="102" height="135" char="T" />
+        <character x="392" y="187" width="126" height="141" char="U" />
+        <character x="512" y="186" width="109" height="148" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

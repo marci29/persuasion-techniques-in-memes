@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02410.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="23" y="115" width="574" height="99">
+        <character x="23" y="115" width="86" height="97" char="A" />
+        <character x="113" y="120" width="85" height="92" char="R" />
+        <character x="203" y="122" width="27" height="92" char="I" />
+        <character x="239" y="120" width="74" height="87" char="T" />
+        <character x="314" y="117" width="79" height="86" char="A" />
+        <character x="402" y="121" width="78" height="82" char="U" />
+        <character x="494" y="118" width="103" height="92" char="M" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

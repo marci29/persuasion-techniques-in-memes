@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02853.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="192" y="126" width="309" height="92">
+        <character x="192" y="126" width="69" height="92" char="A" />
+        <character x="264" y="143" width="61" height="69" char="w" />
+        <character x="324" y="139" width="43" height="77" char="a" />
+        <character x="365" y="136" width="42" height="76" char="r" />
+        <character x="405" y="129" width="50" height="81" char="d" />
+        <character x="456" y="144" width="45" height="73" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

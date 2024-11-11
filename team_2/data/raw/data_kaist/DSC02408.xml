@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02408.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="58" y="260" width="511" height="90">
+        <character x="58" y="260" width="85" height="81" char="M" />
+        <character x="145" y="264" width="40" height="78" char="I" />
+        <character x="185" y="265" width="73" height="82" char="N" />
+        <character x="257" y="261" width="42" height="87" char="I" />
+        <character x="306" y="264" width="64" height="81" char="S" />
+        <character x="370" y="265" width="56" height="81" char="T" />
+        <character x="429" y="273" width="74" height="70" char="O" />
+        <character x="504" y="272" width="65" height="78" char="P" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

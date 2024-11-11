@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="640" y="480" />
+    <all_chars><character x="154" y="320" width="67" height="101" char="S" />
+        <character x="221" y="352" width="49" height="62" char="u" />
+        <character x="269" y="351" width="54" height="60" char="n" />
+        <character x="322" y="332" width="49" height="81" char="k" />
+        <character x="371" y="329" width="22" height="84" char="i" />
+        <character x="393" y="343" width="40" height="66" char="s" />
+        <character x="433" y="342" width="35" height="67" char="t" />
+      </all_chars></root>

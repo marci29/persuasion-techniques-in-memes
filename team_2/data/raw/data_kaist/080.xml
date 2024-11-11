@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>080.jpg</imageName>
+    <resolution x="350" y="253" />
+    <words>
+      <word x="72" y="77" width="191" height="78">
+        <character x="72" y="79" width="45" height="68" char="L" />
+        <character x="119" y="77" width="22" height="70" char="I" />
+        <character x="140" y="80" width="48" height="65" char="V" />
+        <character x="184" y="79" width="18" height="72" char="I" />
+        <character x="200" y="81" width="40" height="70" char="N" />
+        <character x="238" y="91" width="25" height="64" char="A" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03081.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="237" y="255" width="164" height="212">
+        <character x="292" y="255" width="63" height="66" char="B" />
+        <character x="237" y="397" width="45" height="60" char="H" />
+        <character x="282" y="400" width="12" height="56" char="i" />
+        <character x="293" y="412" width="21" height="42" char="s" />
+        <character x="314" y="405" width="17" height="52" char="t" />
+        <character x="329" y="415" width="25" height="40" char="o" />
+        <character x="352" y="413" width="24" height="41" char="r" />
+        <character x="376" y="413" width="25" height="54" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

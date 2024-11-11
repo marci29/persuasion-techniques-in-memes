@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04464.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="15" y="317" width="571" height="80">
+        <character x="15" y="317" width="58" height="62" char="D" />
+        <character x="68" y="317" width="40" height="73" char="R" />
+        <character x="107" y="318" width="28" height="59" char="E" />
+        <character x="131" y="317" width="38" height="61" char="A" />
+        <character x="171" y="326" width="42" height="58" char="M" />
+        <character x="210" y="324" width="47" height="60" char="S" />
+        <character x="263" y="332" width="46" height="56" char="C" />
+        <character x="304" y="330" width="45" height="57" char="O" />
+        <character x="345" y="329" width="49" height="56" char="M" />
+        <character x="393" y="328" width="34" height="65" char="E" />
+        <character x="436" y="328" width="47" height="58" char="T" />
+        <character x="478" y="328" width="45" height="69" char="R" />
+        <character x="519" y="322" width="37" height="64" char="U" />
+        <character x="553" y="331" width="33" height="56" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

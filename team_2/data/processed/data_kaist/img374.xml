@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>크기변환_%B0%A3%C6%C718_m_starfirm.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="161" y="190" width="404" height="88">
+        <character x="161" y="207" width="68" height="71" char="T" />
+        <character x="227" y="218" width="46" height="55" char="H" />
+        <character x="272" y="216" width="56" height="56" char="E" />
+        <character x="336" y="190" width="81" height="82" char="B" />
+        <character x="414" y="203" width="51" height="59" char="A" />
+        <character x="465" y="204" width="41" height="57" char="L" />
+        <character x="506" y="204" width="59" height="57" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

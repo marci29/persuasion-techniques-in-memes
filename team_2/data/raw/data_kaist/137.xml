@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>137.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="222" y="262" width="192" height="38">
+        <character x="222" y="263" width="31" height="37" char="R" />
+        <character x="254" y="262" width="18" height="38" char="e" />
+        <character x="272" y="263" width="17" height="36" char="s" />
+        <character x="289" y="264" width="15" height="34" char="t" />
+        <character x="315" y="262" width="24" height="34" char="R" />
+        <character x="340" y="262" width="19" height="38" char="o" />
+        <character x="360" y="262" width="19" height="37" char="o" />
+        <character x="380" y="262" width="34" height="36" char="m" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

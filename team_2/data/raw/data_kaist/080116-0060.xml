@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080116-0060.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="9" y="462" width="370" height="176">
+        <character x="9" y="473" width="186" height="165" char="D" />
+        <character x="193" y="462" width="186" height="166" char="O" />
+      </word>
+      <word x="410" y="425" width="358" height="175">
+        <character x="410" y="441" width="133" height="159" char="T" />
+        <character x="544" y="440" width="129" height="146" char="H" />
+        <character x="676" y="425" width="92" height="149" char="E" />
+      </word>
+      <word x="776" y="368" width="795" height="197">
+        <character x="776" y="419" width="139" height="146" char="D" />
+        <character x="918" y="406" width="56" height="146" char="I" />
+        <character x="977" y="399" width="78" height="151" char="S" />
+        <character x="1058" y="398" width="127" height="135" char="C" />
+        <character x="1185" y="389" width="119" height="134" char="O" />
+        <character x="1304" y="378" width="95" height="137" char="U" />
+        <character x="1387" y="368" width="90" height="138" char="n" />
+        <character x="1478" y="372" width="93" height="120" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

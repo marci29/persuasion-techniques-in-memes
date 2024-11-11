@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04255.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="144" y="280" width="375" height="100">
+        <character x="144" y="280" width="72" height="86" char="F" />
+        <character x="215" y="301" width="90" height="76" char="O" />
+        <character x="302" y="298" width="71" height="82" char="C" />
+        <character x="368" y="298" width="74" height="80" char="U" />
+        <character x="442" y="298" width="77" height="82" char="S" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

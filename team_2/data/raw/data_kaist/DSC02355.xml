@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02355.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="39" y="211" width="567" height="186">
+        <character x="39" y="298" width="31" height="51" char="F" />
+        <character x="69" y="304" width="22" height="43" char="a" />
+        <character x="91" y="304" width="18" height="45" char="s" />
+        <character x="105" y="297" width="25" height="54" char="h" />
+        <character x="130" y="294" width="10" height="53" char="i" />
+        <character x="140" y="300" width="21" height="44" char="o" />
+        <character x="160" y="305" width="27" height="34" char="n" />
+        <character x="188" y="301" width="28" height="47" char="L" />
+        <character x="216" y="306" width="21" height="39" char="e" />
+        <character x="235" y="310" width="19" height="35" char="a" />
+        <character x="255" y="300" width="22" height="52" char="d" />
+        <character x="277" y="308" width="17" height="34" char="e" />
+        <character x="292" y="305" width="24" height="35" char="r" />
+        <character x="314" y="211" width="135" height="186" char="A" />
+        <character x="458" y="286" width="67" height="84" char="n" />
+        <character x="527" y="284" width="79" height="87" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

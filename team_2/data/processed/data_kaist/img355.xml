@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010044.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="19" y="348" width="549" height="51">
+        <character x="19" y="354" width="36" height="45" char="N" />
+        <character x="54" y="353" width="31" height="46" char="E" />
+        <character x="85" y="351" width="30" height="44" char="V" />
+        <character x="114" y="353" width="30" height="41" char="E" />
+        <character x="144" y="358" width="34" height="39" char="R" />
+        <character x="188" y="358" width="31" height="38" char="S" />
+        <character x="219" y="357" width="26" height="41" char="T" />
+        <character x="245" y="357" width="31" height="40" char="O" />
+        <character x="276" y="358" width="30" height="40" char="P" />
+        <character x="319" y="352" width="26" height="45" char="E" />
+        <character x="343" y="351" width="35" height="45" char="X" />
+        <character x="378" y="356" width="27" height="38" char="P" />
+        <character x="403" y="355" width="29" height="38" char="L" />
+        <character x="433" y="352" width="28" height="44" char="O" />
+        <character x="460" y="352" width="31" height="44" char="R" />
+        <character x="491" y="348" width="16" height="45" char="I" />
+        <character x="509" y="353" width="29" height="40" char="N" />
+        <character x="536" y="353" width="32" height="37" char="G" />
+      </word>
+      <word x="217" y="120" width="117" height="66">
+        <character x="250" y="120" width="27" height="34" char="T" />
+        <character x="277" y="120" width="29" height="35" char="H" />
+        <character x="307" y="121" width="27" height="36" char="E" />
+      </word>
+      <word x="185" y="149" width="147" height="39">
+        <character x="185" y="149" width="32" height="37" char="N" />
+        <character x="277" y="153" width="26" height="35" char="T" />
+        <character x="217" y="151" width="33" height="35" char="O" />
+        <character x="250" y="152" width="27" height="33" char="R" />
+        <character x="303" y="156" width="29" height="28" char="H" />
+      </word>
+      <word x="227" y="184" width="107" height="36">
+        <character x="227" y="185" width="28" height="34" char="F" />
+        <character x="255" y="185" width="24" height="35" char="A" />
+        <character x="282" y="186" width="25" height="31" char="C" />
+        <character x="307" y="184" width="27" height="35" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

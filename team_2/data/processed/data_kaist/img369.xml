@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>u.jpg</imageName>
+    <resolution x="320" y="240" />
+    <words>
+      <word x="32" y="64" width="213" height="90">
+        <character x="32" y="64" width="67" height="90" char="A" />
+        <character x="107" y="75" width="51" height="61" char="R" />
+        <character x="163" y="92" width="34" height="35" char="O" />
+        <character x="202" y="96" width="43" height="36" char="O" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

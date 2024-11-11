@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03026.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="67" y="123" width="482" height="105">
+        <character x="67" y="163" width="66" height="65" char="c" />
+        <character x="130" y="163" width="43" height="53" char="a" />
+        <character x="173" y="162" width="47" height="51" char="s" />
+        <character x="219" y="159" width="52" height="51" char="u" />
+        <character x="274" y="164" width="41" height="47" char="a" />
+        <character x="315" y="154" width="35" height="56" char="l" />
+        <character x="368" y="123" width="63" height="90" char="P" />
+        <character x="431" y="146" width="59" height="61" char="u" />
+        <character x="489" y="124" width="60" height="82" char="b" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04313.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="73" y="109" width="496" height="80">
+        <character x="73" y="113" width="44" height="64" char="J" />
+        <character x="118" y="112" width="23" height="66" char="I" />
+        <character x="142" y="113" width="49" height="69" char="N" />
+        <character x="209" y="116" width="57" height="64" char="M" />
+        <character x="266" y="116" width="44" height="64" char="E" />
+        <character x="308" y="117" width="49" height="61" char="D" />
+        <character x="355" y="115" width="26" height="66" char="I" />
+        <character x="381" y="114" width="45" height="68" char="T" />
+        <character x="426" y="111" width="44" height="78" char="E" />
+        <character x="469" y="112" width="49" height="75" char="C" />
+        <character x="516" y="109" width="53" height="75" char="H" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

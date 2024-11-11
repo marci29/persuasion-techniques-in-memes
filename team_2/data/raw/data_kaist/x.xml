@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>x.jpg</imageName>
+    <resolution x="320" y="240" />
+    <words>
+      <word x="84" y="59" width="183" height="66">
+        <character x="84" y="71" width="39" height="41" char="R" />
+        <character x="128" y="71" width="39" height="34" char="A" />
+        <character x="172" y="64" width="40" height="38" char="D" />
+        <character x="216" y="59" width="51" height="40" char="D" />
+      </word>
+      <word x="81" y="103" width="182" height="31">
+        <character x="81" y="116" width="16" height="18" char="S" />
+        <character x="98" y="115" width="17" height="17" char="W" />
+        <character x="115" y="115" width="9" height="17" char="I" />
+        <character x="123" y="108" width="16" height="25" char="T" />
+        <character x="138" y="110" width="17" height="19" char="Z" />
+        <character x="157" y="109" width="11" height="23" char="E" />
+        <character x="168" y="104" width="18" height="26" char="R" />
+        <character x="186" y="104" width="17" height="25" char="L" />
+        <character x="203" y="103" width="18" height="22" char="A" />
+        <character x="223" y="103" width="18" height="20" char="N" />
+        <character x="242" y="103" width="21" height="19" char="D" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

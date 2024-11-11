@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02587.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="139" y="178" width="358" height="109">
+        <character x="139" y="178" width="63" height="101" char="H" />
+        <character x="200" y="198" width="60" height="81" char="e" />
+        <character x="258" y="199" width="32" height="82" char="r" />
+        <character x="289" y="201" width="42" height="75" char="z" />
+        <character x="330" y="188" width="27" height="90" char="l" />
+        <character x="354" y="186" width="24" height="94" char="i" />
+        <character x="375" y="198" width="59" height="88" char="c" />
+        <character x="434" y="195" width="63" height="92" char="h" />
+      </word>
+      <word x="36" y="314" width="563" height="113">
+        <character x="36" y="317" width="86" height="103" char="W" />
+        <character x="120" y="316" width="24" height="101" char="i" />
+        <character x="142" y="317" width="27" height="102" char="l" />
+        <character x="168" y="315" width="23" height="110" char="l" />
+        <character x="187" y="314" width="57" height="112" char="k" />
+        <character x="242" y="335" width="61" height="86" char="o" />
+        <character x="301" y="339" width="85" height="84" char="m" />
+        <character x="388" y="340" width="82" height="87" char="m" />
+        <character x="467" y="338" width="70" height="85" char="e" />
+        <character x="540" y="342" width="59" height="83" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

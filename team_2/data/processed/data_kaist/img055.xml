@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>109.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="208" y="167" width="246" height="129">
+        <character x="208" y="172" width="56" height="66" char="M" />
+        <character x="265" y="189" width="38" height="44" char="e" />
+        <character x="305" y="172" width="24" height="64" char="l" />
+        <character x="330" y="172" width="25" height="63" char="t" />
+        <character x="354" y="167" width="21" height="70" char="i" />
+        <character x="376" y="182" width="34" height="61" char="n" />
+        <character x="409" y="187" width="45" height="71" char="g" />
+        <character x="262" y="231" width="51" height="58" char="p" />
+        <character x="315" y="239" width="43" height="51" char="o" />
+        <character x="358" y="238" width="41" height="58" char="t" />
+      </word>
+      <word x="19" y="191" width="55" height="46">
+        <character x="19" y="191" width="31" height="42" char="돈" />
+        <character x="46" y="198" width="28" height="39" char="보" />
+      </word>
+      <word x="17" y="245" width="58" height="33">
+        <character x="17" y="245" width="30" height="29" char="주" />
+        <character x="47" y="245" width="28" height="33" char="점" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

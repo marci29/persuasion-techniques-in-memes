@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02395.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="101" y="210" width="468" height="158">
+        <character x="110" y="298" width="53" height="65" char="B" />
+        <character x="184" y="296" width="64" height="72" char="A" />
+        <character x="268" y="299" width="71" height="65" char="K" />
+        <character x="354" y="295" width="77" height="72" char="E" />
+        <character x="438" y="296" width="51" height="69" char="R" />
+        <character x="495" y="295" width="73" height="57" char="Y" />
+        <character x="101" y="216" width="78" height="84" char="C" />
+        <character x="193" y="216" width="62" height="88" char="R" />
+        <character x="263" y="217" width="82" height="77" char="O" />
+        <character x="357" y="211" width="99" height="85" char="W" />
+        <character x="470" y="210" width="99" height="97" char="N" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

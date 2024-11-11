@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02868.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="231" y="220" width="149" height="233">
+        <character x="231" y="220" width="149" height="233" char="P" />
+        <character x="271" y="402" width="19" height="41" char="a" />
+        <character x="290" y="400" width="10" height="41" char="r" />
+        <character x="300" y="393" width="13" height="49" char="k" />
+        <character x="314" y="391" width="8" height="51" char="i" />
+        <character x="323" y="403" width="13" height="38" char="n" />
+        <character x="339" y="399" width="22" height="52" char="g" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

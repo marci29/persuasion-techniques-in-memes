@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03052.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="76" y="119" width="37" height="57">
+        <character x="76" y="119" width="37" height="57" char="" />
+      </word>
+      <word x="113" y="121" width="15" height="54">
+        <character x="113" y="121" width="15" height="54" char="" />
+      </word>
+      <word x="128" y="118" width="33" height="55">
+        <character x="128" y="118" width="33" height="55" char="" />
+      </word>
+      <word x="224" y="124" width="48" height="51">
+        <character x="224" y="124" width="48" height="51" char="" />
+      </word>
+      <word x="272" y="134" width="31" height="37">
+        <character x="272" y="134" width="31" height="37" char="" />
+      </word>
+      <word x="301" y="133" width="51" height="39">
+        <character x="301" y="133" width="51" height="39" char="" />
+      </word>
+      <word x="478" y="118" width="35" height="54">
+        <character x="478" y="118" width="35" height="54" char="" />
+      </word>
+      <word x="510" y="120" width="18" height="52">
+        <character x="510" y="120" width="18" height="52" char="" />
+      </word>
+      <word x="526" y="126" width="31" height="41">
+        <character x="526" y="126" width="31" height="41" char="" />
+      </word>
+      <word x="555" y="128" width="36" height="52">
+        <character x="555" y="128" width="36" height="52" char="" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

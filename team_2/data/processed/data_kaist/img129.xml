@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02719.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="87" y="107" width="467" height="242">
+        <character x="116" y="281" width="49" height="63" char="H" />
+        <character x="165" y="299" width="38" height="43" char="o" />
+        <character x="202" y="299" width="65" height="47" char="w" />
+        <character x="268" y="289" width="33" height="55" char="t" />
+        <character x="302" y="294" width="39" height="51" char="o" />
+        <character x="348" y="276" width="52" height="68" char="C" />
+        <character x="401" y="284" width="21" height="59" char="r" />
+        <character x="424" y="287" width="35" height="55" char="e" />
+        <character x="459" y="286" width="32" height="63" char="a" />
+        <character x="493" y="285" width="25" height="61" char="t" />
+        <character x="518" y="290" width="36" height="52" char="e" />
+      </word>
+      <word x="87" y="107" width="341" height="162">
+        <character x="87" y="128" width="133" height="141" char="H" />
+        <character x="223" y="168" width="76" height="98" char="2" />
+        <character x="298" y="107" width="130" height="153" char="C" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

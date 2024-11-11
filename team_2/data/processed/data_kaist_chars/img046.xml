@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="1600" y="1200" />
+    <all_chars><character x="234" y="869" width="63" height="65" char="by" />
+      <character x="308" y="865" width="107" height="69" char="Gisli" />
+      <character x="458" y="886" width="49" height="43" char="rn" />
+      <character x="519" y="869" width="85" height="64" char="Gar" />
+      <character x="633" y="889" width="150" height="40" char="arsson" />
+      <character x="796" y="871" width="38" height="57" char="&amp;" />
+      <character x="845" y="869" width="193" height="61" char="Vikingur" />
+      <character x="1047" y="870" width="280" height="53" char="Kristjansson" />
+      <character x="46" y="475" width="362" height="385" char="L" />
+        <character x="404" y="486" width="392" height="370" char="O" />
+        <character x="745" y="507" width="360" height="364" char="V" />
+        <character x="1103" y="491" width="393" height="356" char="E" />
+      <character x="357" y="331" width="41" height="33" char="&quot;" />
+        <character x="397" y="346" width="56" height="57" char="생" />
+        <character x="456" y="346" width="52" height="62" char="애" />
+        <character x="520" y="336" width="88" height="97" char="최" />
+        <character x="609" y="355" width="93" height="84" char="고" />
+        <character x="693" y="353" width="69" height="82" char="의" />
+        <character x="775" y="353" width="64" height="60" char="로" />
+        <character x="830" y="358" width="62" height="60" char="맨" />
+        <character x="891" y="348" width="62" height="65" char="스" />
+        <character x="956" y="377" width="44" height="52" char="&quot;" />
+      </all_chars></root>

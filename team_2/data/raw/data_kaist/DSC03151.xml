@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03151.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="74" y="101" width="547" height="59">
+        <character x="74" y="106" width="46" height="53" char="K" />
+        <character x="119" y="114" width="32" height="42" char="o" />
+        <character x="149" y="111" width="27" height="48" char="r" />
+        <character x="175" y="108" width="33" height="47" char="e" />
+        <character x="209" y="116" width="32" height="44" char="a" />
+        <character x="241" y="113" width="35" height="39" char="n" />
+        <character x="288" y="101" width="52" height="52" char="M" />
+        <character x="339" y="110" width="33" height="41" char="a" />
+        <character x="373" y="110" width="29" height="44" char="s" />
+        <character x="403" y="109" width="32" height="45" char="k" />
+        <character x="453" y="105" width="40" height="47" char="D" />
+        <character x="495" y="114" width="30" height="40" char="a" />
+        <character x="524" y="110" width="38" height="44" char="n" />
+        <character x="563" y="110" width="26" height="47" char="c" />
+        <character x="589" y="111" width="32" height="43" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02725.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="167" y="167" width="308" height="208">
+        <character x="167" y="170" width="116" height="204" char="1" />
+        <character x="321" y="167" width="154" height="208" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03440.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="147" y="13" width="354" height="187">
+        <character x="147" y="13" width="16" height="60" char="l" />
+        <character x="163" y="29" width="37" height="50" char="o" />
+        <character x="203" y="27" width="25" height="43" char="v" />
+        <character x="234" y="26" width="10" height="51" char="i" />
+        <character x="245" y="35" width="34" height="37" char="n" />
+        <character x="279" y="32" width="34" height="58" char="g" />
+        <character x="344" y="20" width="39" height="57" char="h" />
+        <character x="387" y="33" width="27" height="43" char="o" />
+        <character x="415" y="34" width="48" height="43" char="m" />
+        <character x="462" y="34" width="39" height="50" char="e" />
+      </word>
+      <word x="203" y="126" width="259" height="74">
+        <character x="203" y="126" width="53" height="74" char="D" />
+        <character x="257" y="141" width="35" height="50" char="a" />
+        <character x="295" y="135" width="16" height="60" char="i" />
+        <character x="311" y="153" width="33" height="39" char="z" />
+        <character x="349" y="147" width="29" height="48" char="b" />
+        <character x="376" y="151" width="28" height="41" char="a" />
+        <character x="406" y="146" width="27" height="46" char="b" />
+        <character x="434" y="154" width="28" height="46" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>
