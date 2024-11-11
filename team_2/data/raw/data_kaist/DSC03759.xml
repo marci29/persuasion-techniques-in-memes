@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03759.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="44" y="112" width="506" height="158">
+        <character x="63" y="192" width="113" height="71" char="B" />
+        <character x="177" y="194" width="105" height="66" char="O" />
+        <character x="281" y="197" width="112" height="64" char="O" />
+        <character x="394" y="195" width="122" height="75" char="K" />
+        <character x="44" y="113" width="104" height="64" char="V" />
+        <character x="147" y="112" width="66" height="68" char="I" />
+        <character x="213" y="116" width="105" height="61" char="D" />
+        <character x="318" y="118" width="105" height="66" char="E" />
+        <character x="424" y="124" width="126" height="60" char="O" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

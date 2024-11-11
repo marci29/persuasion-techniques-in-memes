@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03150.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="31" y="13" width="565" height="75">
+        <character x="31" y="22" width="52" height="66" char="K" />
+        <character x="81" y="39" width="39" height="45" char="o" />
+        <character x="120" y="41" width="29" height="41" char="r" />
+        <character x="153" y="40" width="35" height="42" char="e" />
+        <character x="188" y="38" width="37" height="46" char="a" />
+        <character x="225" y="35" width="42" height="45" char="n" />
+        <character x="288" y="19" width="43" height="60" char="F" />
+        <character x="327" y="26" width="40" height="56" char="o" />
+        <character x="364" y="17" width="26" height="63" char="l" />
+        <character x="388" y="18" width="43" height="60" char="k" />
+        <character x="430" y="17" width="32" height="60" char="t" />
+        <character x="464" y="22" width="31" height="52" char="a" />
+        <character x="493" y="13" width="28" height="62" char="l" />
+        <character x="520" y="25" width="40" height="51" char="e" />
+        <character x="558" y="15" width="38" height="65" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

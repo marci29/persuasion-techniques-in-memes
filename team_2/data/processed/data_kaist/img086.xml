@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02387.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="90" y="108" width="438" height="230">
+        <character x="90" y="123" width="94" height="123" char="B" />
+        <character x="149" y="230" width="61" height="80" char="u" />
+        <character x="209" y="191" width="35" height="110" char="l" />
+        <character x="247" y="213" width="59" height="113" char="g" />
+        <character x="308" y="210" width="69" height="82" char="e" />
+        <character x="378" y="209" width="106" height="77" char="m" />
+        <character x="477" y="108" width="51" height="179" char="i" />
+      </word>
+      <word x="312" y="290" width="202" height="48">
+        <character x="312" y="299" width="21" height="36" char="b" />
+        <character x="333" y="298" width="17" height="35" char="u" />
+        <character x="350" y="297" width="11" height="32" char="l" />
+        <character x="361" y="301" width="14" height="37" char="g" />
+        <character x="374" y="303" width="20" height="23" char="e" />
+        <character x="393" y="300" width="26" height="29" char="m" />
+        <character x="421" y="292" width="8" height="39" char="i" />
+        <character x="435" y="301" width="16" height="23" char="c" />
+        <character x="453" y="300" width="20" height="24" char="o" />
+        <character x="477" y="290" width="19" height="38" char="k" />
+        <character x="499" y="297" width="15" height="30" char="r" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

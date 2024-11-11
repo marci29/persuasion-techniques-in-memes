@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03145.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="144" y="119" width="261" height="97">
+        <character x="144" y="171" width="31" height="44" char="J" />
+        <character x="175" y="179" width="22" height="37" char="e" />
+        <character x="196" y="179" width="21" height="37" char="o" />
+        <character x="218" y="177" width="9" height="36" char="l" />
+        <character x="227" y="176" width="9" height="35" char="l" />
+        <character x="237" y="184" width="23" height="28" char="a" />
+        <character x="260" y="181" width="23" height="29" char="n" />
+        <character x="282" y="178" width="27" height="35" char="a" />
+        <character x="310" y="180" width="29" height="33" char="m" />
+        <character x="358" y="176" width="24" height="36" char="d" />
+        <character x="383" y="185" width="22" height="25" char="o" />
+      </word>
+      <word x="157" y="119" width="243" height="41">
+        <character x="157" y="119" width="22" height="41" char="j" />
+        <character x="179" y="127" width="22" height="29" char="e" />
+        <character x="203" y="125" width="20" height="34" char="o" />
+        <character x="222" y="123" width="9" height="35" char="l" />
+        <character x="231" y="122" width="10" height="36" char="l" />
+        <character x="240" y="128" width="24" height="27" char="a" />
+        <character x="263" y="123" width="27" height="34" char="b" />
+        <character x="290" y="127" width="21" height="28" char="u" />
+        <character x="311" y="120" width="21" height="37" char="k" />
+        <character x="351" y="119" width="27" height="41" char="d" />
+        <character x="378" y="130" width="22" height="28" char="o" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

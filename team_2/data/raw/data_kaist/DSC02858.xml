@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02858.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="3" y="297" width="607" height="103">
+        <character x="3" y="297" width="61" height="95" char="C" />
+        <character x="62" y="311" width="49" height="77" char="a" />
+        <character x="112" y="306" width="31" height="84" char="l" />
+        <character x="140" y="303" width="33" height="88" char="l" />
+        <character x="190" y="301" width="42" height="97" char="f" />
+        <character x="229" y="318" width="56" height="74" char="o" />
+        <character x="285" y="316" width="42" height="77" char="r" />
+        <character x="356" y="304" width="61" height="94" char="p" />
+        <character x="417" y="319" width="49" height="77" char="a" />
+        <character x="464" y="320" width="54" height="80" char="p" />
+        <character x="519" y="318" width="51" height="81" char="e" />
+        <character x="570" y="315" width="40" height="85" char="r" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

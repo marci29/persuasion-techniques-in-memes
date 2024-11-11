@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03276.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="85" y="310" width="505" height="111">
+        <character x="85" y="327" width="93" height="94" char="C" />
+        <character x="177" y="348" width="56" height="72" char="a" />
+        <character x="234" y="347" width="50" height="71" char="r" />
+        <character x="292" y="345" width="98" height="68" char="W" />
+        <character x="391" y="342" width="63" height="71" char="a" />
+        <character x="455" y="341" width="56" height="69" char="s" />
+        <character x="512" y="310" width="78" height="101" char="h" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

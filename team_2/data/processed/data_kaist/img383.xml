@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>크기변환_%C4%BF%C7%C7%B5%B9%C3%E2%B0%A3%C6%C7_%281%29_alto99kr.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="271" y="192" width="217" height="46">
+        <character x="271" y="197" width="42" height="33" char="B" />
+        <character x="313" y="196" width="15" height="32" char="l" />
+        <character x="330" y="204" width="24" height="26" char="a" />
+        <character x="354" y="204" width="23" height="28" char="c" />
+        <character x="377" y="192" width="26" height="40" char="k" />
+        <character x="404" y="200" width="27" height="38" char="p" />
+        <character x="432" y="203" width="25" height="25" char="a" />
+        <character x="459" y="204" width="29" height="26" char="n" />
+      </word>
+      <word x="101" y="218" width="520" height="160">
+        <character x="101" y="282" width="93" height="96" char="C" />
+        <character x="200" y="278" width="72" height="80" char="O" />
+        <character x="274" y="262" width="69" height="86" char="F" />
+        <character x="352" y="253" width="72" height="85" char="F" />
+        <character x="435" y="242" width="84" height="84" char="E" />
+        <character x="518" y="218" width="103" height="88" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>5</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

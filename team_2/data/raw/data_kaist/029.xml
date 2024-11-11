@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>029.jpg</imageName>
+    <resolution x="472" y="250" />
+    <words>
+      <word x="27" y="54" width="427" height="109">
+        <character x="27" y="61" width="128" height="102" char="W" />
+        <character x="159" y="61" width="101" height="96" char="A" />
+        <character x="261" y="62" width="93" height="94" char="V" />
+        <character x="358" y="54" width="96" height="105" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

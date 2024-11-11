@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>ktx.jpg</imageName>
+    <resolution x="320" y="240" />
+    <words>
+      <word x="59" y="52" width="202" height="96">
+        <character x="59" y="55" width="62" height="93" char="K" />
+        <character x="120" y="52" width="74" height="92" char="T" />
+        <character x="169" y="64" width="92" height="83" char="X" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

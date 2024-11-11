@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02606.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="61" y="187" width="538" height="122">
+        <character x="61" y="202" width="109" height="103" char="V" />
+        <character x="170" y="199" width="52" height="110" char="I" />
+        <character x="219" y="197" width="107" height="110" char="O" />
+        <character x="325" y="194" width="84" height="103" char="L" />
+        <character x="411" y="187" width="92" height="110" char="E" />
+        <character x="505" y="187" width="94" height="106" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

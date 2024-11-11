@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080116-0056.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="539" y="512" width="637" height="168">
+        <character x="749" y="524" width="100" height="123" char="C" />
+        <character x="852" y="516" width="83" height="132" char="h" />
+        <character x="936" y="527" width="93" height="101" char="e" />
+        <character x="1031" y="512" width="145" height="104" char="m" />
+      </word>
+      <word x="539" y="556" width="188" height="124">
+        <character x="539" y="561" width="80" height="119" char="L" />
+        <character x="620" y="556" width="107" height="112" char="G" />
+      </word>
+    </words>
+    <illumination>yes</illumination>
+    <difficulty>1</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

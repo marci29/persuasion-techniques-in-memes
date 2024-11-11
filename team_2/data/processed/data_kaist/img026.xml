@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080116-0058.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="307" y="170" width="330" height="297">
+        <character x="307" y="170" width="117" height="227" char="T" />
+        <character x="426" y="222" width="107" height="202" char="H" />
+        <character x="539" y="275" width="98" height="192" char="E" />
+      </word>
+      <word x="670" y="332" width="283" height="232">
+        <character x="670" y="332" width="79" height="168" char="B" />
+        <character x="750" y="361" width="85" height="160" char="O" />
+        <character x="833" y="399" width="66" height="154" char="D" />
+        <character x="889" y="429" width="64" height="135" char="Y" />
+      </word>
+      <word x="955" y="459" width="181" height="169">
+        <character x="955" y="459" width="46" height="135" char="S" />
+        <character x="1001" y="473" width="45" height="142" char="H" />
+        <character x="1048" y="498" width="47" height="127" char="O" />
+        <character x="1093" y="520" width="43" height="108" char="P" />
+      </word>
+      <word x="782" y="580" width="144" height="147">
+        <character x="782" y="580" width="46" height="130" char="M" />
+        <character x="828" y="594" width="35" height="122" char="A" />
+        <character x="864" y="603" width="31" height="111" char="D" />
+        <character x="895" y="609" width="31" height="118" char="E" />
+      </word>
+      <word x="931" y="621" width="104" height="124">
+        <character x="931" y="621" width="42" height="110" char="W" />
+        <character x="973" y="630" width="9" height="105" char="I" />
+        <character x="982" y="636" width="22" height="103" char="T" />
+        <character x="1003" y="643" width="32" height="102" char="H" />
+      </word>
+      <word x="782" y="717" width="249" height="163">
+        <character x="782" y="717" width="46" height="156" char="P" />
+        <character x="815" y="724" width="54" height="148" char="A" />
+        <character x="868" y="725" width="37" height="151" char="S" />
+        <character x="907" y="735" width="35" height="143" char="S" />
+        <character x="944" y="740" width="16" height="140" char="!" />
+        <character x="962" y="742" width="30" height="137" char="O" />
+        <character x="994" y="746" width="37" height="134" char="N" />
+      </word>
+      <word x="27" y="624" width="110" height="57">
+        <character x="27" y="624" width="24" height="47" char="f" />
+        <character x="52" y="635" width="26" height="40" char="a" />
+        <character x="81" y="636" width="23" height="41" char="c" />
+        <character x="105" y="640" width="32" height="41" char="e" />
+      </word>
+      <word x="1230" y="1019" width="73" height="57">
+        <character x="1230" y="1019" width="24" height="56" char="2" />
+        <character x="1255" y="1019" width="16" height="56" char="0" />
+        <character x="1271" y="1019" width="32" height="57" char="%" />
+      </word>
+    </words>
+    <illumination>yes</illumination>
+    <difficulty>4</difficulty>
+    <tag>korean,english,number</tag>
+  </image>
+</images>

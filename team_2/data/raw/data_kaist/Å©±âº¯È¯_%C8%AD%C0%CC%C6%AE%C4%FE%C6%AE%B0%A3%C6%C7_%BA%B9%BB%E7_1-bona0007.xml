@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>크기변환_%C8%AD%C0%CC%C6%AE%C4%FE%C6%AE%B0%A3%C6%C7_%BA%B9%BB%E7_1-bona0007.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="223" y="196" width="346" height="149">
+        <character x="223" y="196" width="88" height="68" char="W" />
+        <character x="314" y="197" width="62" height="63" char="H" />
+        <character x="380" y="199" width="32" height="61" char="I" />
+        <character x="416" y="201" width="50" height="59" char="T" />
+        <character x="469" y="197" width="56" height="61" char="E" />
+        <character x="307" y="274" width="62" height="71" char="Q" />
+        <character x="372" y="274" width="51" height="65" char="U" />
+        <character x="427" y="277" width="32" height="65" char="I" />
+        <character x="461" y="280" width="50" height="59" char="L" />
+        <character x="512" y="276" width="57" height="65" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

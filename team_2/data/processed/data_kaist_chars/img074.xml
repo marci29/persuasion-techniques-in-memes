@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="680" y="574" />
+    <all_chars><character x="556" y="257" width="56" height="83" char="?" />
+      <character x="145" y="105" width="14" height="18" char="R" />
+        <character x="160" y="108" width="11" height="10" char="o" />
+        <character x="171" y="109" width="12" height="12" char="o" />
+        <character x="183" y="109" width="18" height="9" char="m" />
+      <character x="202" y="104" width="11" height="17" char="B" />
+        <character x="214" y="108" width="10" height="13" char="a" />
+        <character x="225" y="107" width="7" height="13" char="r" />
+      <character x="170" y="248" width="93" height="80" char="W" />
+        <character x="261" y="250" width="54" height="81" char="h" />
+        <character x="315" y="261" width="59" height="89" char="y" />
+      <character x="393" y="264" width="56" height="78" char="n" />
+        <character x="449" y="267" width="61" height="68" char="o" />
+        <character x="510" y="255" width="37" height="86" char="t" />
+      </all_chars></root>

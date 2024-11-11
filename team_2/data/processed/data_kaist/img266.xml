@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03865.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="2147483647" y="2147483647" width="-2147483647" height="-2147483647" />
+      <word x="10" y="89" width="257" height="54">
+        <character x="10" y="89" width="40" height="49" char="R" />
+        <character x="50" y="102" width="26" height="33" char="e" />
+        <character x="77" y="100" width="27" height="35" char="s" />
+        <character x="103" y="95" width="16" height="44" char="t" />
+        <character x="120" y="98" width="25" height="42" char="a" />
+        <character x="144" y="102" width="28" height="38" char="u" />
+        <character x="173" y="101" width="17" height="37" char="r" />
+        <character x="191" y="106" width="27" height="35" char="a" />
+        <character x="217" y="103" width="27" height="40" char="n" />
+        <character x="245" y="100" width="22" height="43" char="t" />
+      </word>
+      <word x="9" y="45" width="169" height="54">
+        <character x="9" y="45" width="41" height="47" char="K" />
+        <character x="50" y="55" width="26" height="41" char="o" />
+        <character x="73" y="56" width="22" height="36" char="r" />
+        <character x="98" y="55" width="24" height="40" char="e" />
+        <character x="122" y="62" width="28" height="33" char="a" />
+        <character x="150" y="61" width="28" height="38" char="n" />
+      </word>
+      <word x="285" y="82" width="346" height="81">
+        <character x="285" y="82" width="55" height="71" char="G" />
+        <character x="340" y="87" width="47" height="69" char="A" />
+        <character x="385" y="91" width="65" height="67" char="M" />
+        <character x="450" y="95" width="45" height="67" char="A" />
+        <character x="493" y="93" width="39" height="65" char="S" />
+        <character x="533" y="97" width="49" height="65" char="O" />
+        <character x="582" y="96" width="49" height="67" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

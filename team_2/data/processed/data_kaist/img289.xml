@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04120.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="36" y="138" width="529" height="70">
+        <character x="36" y="143" width="50" height="65" char="M" />
+        <character x="85" y="146" width="35" height="59" char="A" />
+        <character x="120" y="147" width="37" height="59" char="D" />
+        <character x="155" y="144" width="37" height="60" char="E" />
+        <character x="258" y="145" width="43" height="61" char="H" />
+        <character x="301" y="149" width="37" height="54" char="A" />
+        <character x="338" y="145" width="20" height="57" char="I" />
+        <character x="359" y="146" width="36" height="56" char="R" />
+        <character x="422" y="142" width="36" height="58" char="S" />
+        <character x="456" y="138" width="36" height="62" char="H" />
+        <character x="492" y="139" width="40" height="63" char="O" />
+        <character x="531" y="138" width="34" height="60" char="P" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

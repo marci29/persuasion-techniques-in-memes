@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>139.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="82" y="245" width="459" height="77">
+        <character x="83" y="252" width="50" height="63" char="B" />
+        <character x="134" y="255" width="45" height="59" char="U" />
+        <character x="82" y="251" width="49" height="63" char="B" />
+        <character x="179" y="256" width="43" height="60" char="R" />
+        <character x="222" y="254" width="51" height="60" char="G" />
+        <character x="271" y="253" width="40" height="60" char="E" />
+        <character x="310" y="253" width="48" height="62" char="R" />
+        <character x="366" y="249" width="49" height="66" char="K" />
+        <character x="415" y="245" width="18" height="70" char="I" />
+        <character x="436" y="249" width="51" height="69" char="N" />
+        <character x="487" y="249" width="54" height="73" char="G" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

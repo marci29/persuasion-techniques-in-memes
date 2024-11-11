@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04035.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="53" y="187" width="566" height="72">
+        <character x="53" y="189" width="40" height="57" char="C" />
+        <character x="93" y="187" width="34" height="58" char="h" />
+        <character x="130" y="197" width="30" height="47" char="u" />
+        <character x="159" y="193" width="33" height="51" char="n" />
+        <character x="192" y="200" width="35" height="59" char="g" />
+        <character x="227" y="190" width="31" height="55" char="d" />
+        <character x="258" y="200" width="29" height="44" char="a" />
+        <character x="289" y="192" width="32" height="51" char="h" />
+        <character x="320" y="201" width="52" height="44" char="m" />
+        <character x="379" y="188" width="17" height="57" char="l" />
+        <character x="396" y="200" width="34" height="43" char="n" />
+        <character x="430" y="200" width="27" height="44" char="s" />
+        <character x="457" y="192" width="23" height="57" char="t" />
+        <character x="480" y="190" width="13" height="57" char="i" />
+        <character x="496" y="193" width="25" height="56" char="t" />
+        <character x="523" y="202" width="32" height="44" char="u" />
+        <character x="554" y="196" width="25" height="53" char="t" />
+        <character x="579" y="204" width="40" height="46" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

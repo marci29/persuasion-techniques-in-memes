@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02590.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="32" y="122" width="560" height="126">
+        <character x="32" y="122" width="63" height="110" char="I" />
+        <character x="94" y="125" width="89" height="107" char="N" />
+        <character x="177" y="126" width="78" height="103" char="T" />
+        <character x="231" y="139" width="82" height="89" char="E" />
+        <character x="303" y="131" width="82" height="114" char="R" />
+        <character x="387" y="128" width="37" height="105" char="I" />
+        <character x="424" y="126" width="70" height="103" char="O" />
+        <character x="494" y="124" width="98" height="124" char="R" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

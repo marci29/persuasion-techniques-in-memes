@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>1.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="269" y="111" width="303" height="91">
+        <character x="269" y="126" width="69" height="61" char="P" />
+        <character x="328" y="123" width="23" height="65" char="i" />
+        <character x="343" y="145" width="32" height="42" char="z" />
+        <character x="369" y="132" width="38" height="50" char="z" />
+        <character x="405" y="142" width="37" height="41" char="a" />
+        <character x="445" y="111" width="51" height="76" char="h" />
+        <character x="491" y="150" width="38" height="36" char="u" />
+        <character x="531" y="122" width="41" height="80" char="t" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

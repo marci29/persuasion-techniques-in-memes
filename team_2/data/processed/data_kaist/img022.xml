@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>077.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="144" y="194" width="370" height="76">
+        <character x="144" y="199" width="53" height="49" char="G" />
+        <character x="198" y="216" width="38" height="30" char="o" />
+        <character x="235" y="203" width="17" height="44" char="l" />
+        <character x="250" y="203" width="40" height="43" char="d" />
+        <character x="290" y="209" width="35" height="33" char="e" />
+        <character x="324" y="209" width="40" height="33" char="n" />
+        <character x="364" y="194" width="52" height="51" char="t" />
+        <character x="416" y="201" width="24" height="41" char="r" />
+        <character x="440" y="207" width="36" height="34" char="e" />
+        <character x="475" y="206" width="39" height="35" char="e" />
+      </word>
+      <word x="227" y="247" width="208" height="36">
+        <character x="354" y="247" width="20" height="27" char="W" />
+        <character x="416" y="247" width="19" height="26" char="Y" />
+        <character x="268" y="250" width="9" height="33" char="1" />
+        <character x="276" y="248" width="17" height="32" char="8" />
+        <character x="325" y="250" width="13" height="27" char="J" />
+        <character x="339" y="249" width="14" height="25" char="E" />
+        <character x="375" y="250" width="14" height="23" char="E" />
+        <character x="404" y="250" width="13" height="20" char="R" />
+        <character x="227" y="253" width="14" height="23" char="1" />
+        <character x="240" y="252" width="16" height="27" char="4" />
+        <character x="257" y="265" width="9" height="15" char="." />
+        <character x="294" y="251" width="15" height="24" char="K" />
+        <character x="389" y="253" width="14" height="22" char="L" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

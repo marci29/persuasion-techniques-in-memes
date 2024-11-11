@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03410.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="9" y="45" width="568" height="392">
+        <character x="9" y="45" width="147" height="143" char="E" />
+        <character x="166" y="56" width="130" height="129" char="V" />
+        <character x="293" y="59" width="136" height="127" char="E" />
+        <character x="428" y="61" width="149" height="141" char="R" />
+      </word>
+      <word x="56" y="287" width="470" height="150">
+        <character x="56" y="287" width="152" height="135" char="S" />
+        <character x="210" y="306" width="154" height="121" char="K" />
+        <character x="370" y="304" width="156" height="133" char="Y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

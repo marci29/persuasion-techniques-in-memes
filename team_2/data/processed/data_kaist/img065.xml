@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\2007-12-08-day-098.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="102" y="463" width="538" height="230">
+        <character x="102" y="474" width="121" height="182" char="b" />
+        <character x="225" y="519" width="102" height="146" char="a" />
+        <character x="329" y="505" width="51" height="164" char="s" />
+        <character x="383" y="463" width="92" height="230" char="k" />
+        <character x="478" y="486" width="48" height="164" char="i" />
+        <character x="526" y="485" width="114" height="196" char="N" />
+      </word>
+      <word x="641" y="420" width="343" height="286">
+        <character x="641" y="423" width="173" height="268" char="B" />
+        <character x="818" y="420" width="166" height="286" char="R" />
+      </word>
+      <word x="986" y="453" width="613" height="227">
+        <character x="986" y="484" width="100" height="172" char="r" />
+        <character x="1053" y="521" width="104" height="133" char="o" />
+        <character x="1145" y="494" width="120" height="180" char="b" />
+        <character x="1246" y="470" width="128" height="169" char="b" />
+        <character x="1361" y="468" width="66" height="168" char="i" />
+        <character x="1409" y="453" width="134" height="222" char="N" />
+        <character x="1533" y="487" width="66" height="193" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>z.jpg</imageName>
+    <resolution x="320" y="240" />
+    <words>
+      <word x="86" y="64" width="103" height="37">
+        <character x="86" y="72" width="21" height="18" char="K" />
+        <character x="111" y="64" width="18" height="33" char="O" />
+        <character x="131" y="74" width="13" height="20" char="R" />
+        <character x="144" y="75" width="14" height="20" char="A" />
+        <character x="159" y="74" width="9" height="24" char="I" />
+        <character x="169" y="72" width="20" height="29" char="L" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02676.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="10" y="188" width="168" height="121">
+        <character x="10" y="188" width="56" height="105" char="C" />
+        <character x="66" y="216" width="39" height="74" char="a" />
+        <character x="106" y="192" width="33" height="117" char="f" />
+        <character x="139" y="231" width="39" height="61" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

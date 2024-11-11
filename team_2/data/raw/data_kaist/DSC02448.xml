@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02448.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="125" y="34" width="413" height="137">
+        <character x="125" y="36" width="92" height="131" char="L" />
+        <character x="217" y="35" width="82" height="136" char="U" />
+        <character x="299" y="35" width="82" height="126" char="C" />
+        <character x="380" y="36" width="85" height="128" char="K" />
+        <character x="464" y="34" width="74" height="133" char="Y" />
+      </word>
+      <word x="106" y="189" width="457" height="137">
+        <character x="106" y="189" width="89" height="137" char="S" />
+        <character x="196" y="192" width="64" height="134" char="T" />
+        <character x="264" y="195" width="82" height="130" char="R" />
+        <character x="351" y="196" width="39" height="130" char="I" />
+        <character x="399" y="191" width="86" height="128" char="K" />
+        <character x="488" y="193" width="75" height="132" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

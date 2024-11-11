@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0623\2007-12-08-day-117.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="455" y="505" width="649" height="216">
+        <character x="455" y="519" width="157" height="202" char="O" />
+        <character x="615" y="513" width="152" height="205" char="P" />
+        <character x="772" y="508" width="157" height="207" char="E" />
+        <character x="932" y="505" width="172" height="213" char="N" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

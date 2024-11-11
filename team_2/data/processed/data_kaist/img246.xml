@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03413.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="41" y="110" width="484" height="153">
+        <character x="41" y="186" width="52" height="68" char="D" />
+        <character x="95" y="188" width="20" height="71" char="I" />
+        <character x="115" y="186" width="53" height="71" char="G" />
+        <character x="168" y="183" width="26" height="79" char="I" />
+        <character x="191" y="195" width="40" height="62" char="T" />
+        <character x="232" y="192" width="49" height="69" char="A" />
+        <character x="282" y="201" width="42" height="61" char="L" />
+        <character x="335" y="205" width="46" height="58" char="S" />
+        <character x="380" y="206" width="48" height="55" char="H" />
+        <character x="428" y="210" width="53" height="53" char="O" />
+        <character x="479" y="209" width="46" height="54" char="P" />
+      </word>
+      <word x="115" y="110" width="334" height="84">
+        <character x="115" y="110" width="67" height="72" char="H" />
+        <character x="180" y="110" width="27" height="72" char="I" />
+        <character x="235" y="130" width="88" height="63" char="m" />
+        <character x="321" y="130" width="52" height="64" char="a" />
+        <character x="370" y="128" width="40" height="66" char="r" />
+        <character x="411" y="127" width="38" height="66" char="t" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

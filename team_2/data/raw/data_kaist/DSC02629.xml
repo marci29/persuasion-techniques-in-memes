@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02629.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="32" y="301" width="561" height="120">
+        <character x="32" y="306" width="35" height="107" char="I" />
+        <character x="65" y="301" width="70" height="109" char="C" />
+        <character x="130" y="303" width="67" height="118" char="E" />
+        <character x="236" y="304" width="67" height="103" char="C" />
+        <character x="301" y="304" width="70" height="101" char="O" />
+        <character x="373" y="306" width="53" height="90" char="F" />
+        <character x="423" y="303" width="55" height="93" char="F" />
+        <character x="478" y="304" width="56" height="93" char="E" />
+        <character x="532" y="306" width="61" height="88" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

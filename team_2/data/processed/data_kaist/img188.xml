@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03136.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="116" y="245" width="427" height="82">
+        <character x="116" y="245" width="37" height="82" char="B" />
+        <character x="152" y="258" width="31" height="59" char="o" />
+        <character x="182" y="260" width="32" height="56" char="o" />
+        <character x="216" y="252" width="27" height="67" char="k" />
+        <character x="243" y="263" width="30" height="57" char="s" />
+        <character x="294" y="261" width="33" height="57" char="o" />
+        <character x="327" y="260" width="33" height="58" char="n" />
+        <character x="376" y="252" width="42" height="67" char="K" />
+        <character x="418" y="265" width="29" height="53" char="o" />
+        <character x="444" y="263" width="28" height="58" char="r" />
+        <character x="473" y="264" width="32" height="59" char="e" />
+        <character x="504" y="265" width="39" height="56" char="a" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

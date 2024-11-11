@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03168.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="218" y="291" width="197" height="58">
+        <character x="218" y="291" width="49" height="51" char="T" />
+        <character x="267" y="307" width="37" height="34" char="o" />
+        <character x="304" y="303" width="40" height="45" char="k" />
+        <character x="344" y="301" width="33" height="46" char="y" />
+        <character x="377" y="307" width="38" height="42" char="o" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

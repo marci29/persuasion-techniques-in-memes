@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\1-1\080116-0053.jpg</imageName>
+    <resolution x="800" y="600" />
+    <words>
+      <word x="14" y="209" width="369" height="140">
+        <character x="14" y="209" width="89" height="127" char="B" />
+        <character x="114" y="211" width="75" height="126" char="E" />
+        <character x="190" y="213" width="89" height="130" char="A" />
+        <character x="289" y="212" width="94" height="137" char="N" />
+      </word>
+      <word x="422" y="217" width="319" height="120">
+        <character x="422" y="217" width="81" height="116" char="P" />
+        <character x="511" y="224" width="89" height="113" char="O" />
+        <character x="608" y="224" width="62" height="106" char="L" />
+        <character x="670" y="220" width="71" height="112" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

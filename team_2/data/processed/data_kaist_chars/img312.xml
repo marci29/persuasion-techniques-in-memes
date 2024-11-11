@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="640" y="480" />
+    <all_chars><character x="492" y="62" width="109" height="129" char="R" />
+        <character x="60" y="50" width="108" height="133" char="A" />
+        <character x="167" y="53" width="105" height="126" char="F" />
+        <character x="275" y="60" width="111" height="126" char="T" />
+        <character x="382" y="62" width="111" height="127" char="E" />
+      <character x="9" y="190" width="112" height="129" char="V" />
+        <character x="120" y="194" width="71" height="132" char="I" />
+        <character x="188" y="189" width="109" height="133" char="R" />
+        <character x="295" y="190" width="102" height="135" char="T" />
+        <character x="392" y="187" width="126" height="141" char="U" />
+        <character x="512" y="186" width="109" height="148" char="E" />
+      </all_chars></root>

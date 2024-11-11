@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03200.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="52" y="221" width="424" height="126">
+        <character x="52" y="229" width="108" height="91" char="O" />
+        <character x="160" y="221" width="65" height="93" char="d" />
+        <character x="223" y="251" width="55" height="96" char="y" />
+        <character x="276" y="249" width="45" height="66" char="s" />
+        <character x="320" y="247" width="45" height="64" char="s" />
+        <character x="363" y="246" width="50" height="66" char="e" />
+        <character x="413" y="245" width="63" height="99" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

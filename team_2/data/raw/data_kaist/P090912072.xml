@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090912072.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="21" y="21" width="314" height="222">
+        <character x="21" y="27" width="50" height="63" char="s" />
+        <character x="69" y="28" width="35" height="61" char="a" />
+        <character x="104" y="28" width="21" height="67" char="l" />
+        <character x="127" y="34" width="33" height="59" char="a" />
+        <character x="159" y="21" width="46" height="69" char="d" />
+        <character x="211" y="23" width="46" height="75" char="b" />
+        <character x="256" y="37" width="41" height="60" char="a" />
+        <character x="295" y="43" width="40" height="56" char="r" />
+      </word>
+      <word x="39" y="107" width="215" height="65">
+        <character x="39" y="109" width="33" height="44" char="c" />
+        <character x="72" y="113" width="43" height="49" char="o" />
+        <character x="116" y="108" width="30" height="55" char="f" />
+        <character x="144" y="107" width="28" height="62" char="f" />
+        <character x="173" y="127" width="36" height="45" char="e" />
+        <character x="209" y="127" width="45" height="45" char="e" />
+      </word>
+      <word x="37" y="171" width="167" height="72">
+        <character x="37" y="171" width="49" height="61" char="b" />
+        <character x="87" y="187" width="37" height="48" char="e" />
+        <character x="126" y="195" width="34" height="48" char="e" />
+        <character x="161" y="196" width="43" height="45" char="r" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

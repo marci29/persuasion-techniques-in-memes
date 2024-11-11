@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02850.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="91" y="146" width="461" height="165">
+        <character x="91" y="151" width="80" height="89" char="H" />
+        <character x="168" y="150" width="34" height="93" char="I" />
+        <character x="200" y="146" width="61" height="93" char="L" />
+        <character x="259" y="149" width="61" height="91" char="F" />
+        <character x="320" y="152" width="27" height="87" char="I" />
+        <character x="346" y="147" width="76" height="92" char="G" />
+        <character x="422" y="160" width="60" height="85" char="E" />
+        <character x="480" y="158" width="72" height="87" char="R" />
+      </word>
+      <word x="280" y="240" width="266" height="71">
+        <character x="280" y="240" width="61" height="67" char="D" />
+        <character x="342" y="240" width="49" height="67" char="E" />
+        <character x="391" y="240" width="61" height="68" char="N" />
+        <character x="452" y="244" width="23" height="63" char="I" />
+        <character x="474" y="244" width="72" height="67" char="M" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

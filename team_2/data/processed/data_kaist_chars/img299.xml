@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="640" y="480" />
+    <all_chars><character x="213" y="128" width="77" height="87" char="V" />
+        <character x="273" y="148" width="64" height="69" char="A" />
+        <character x="335" y="144" width="62" height="69" char="N" />
+        <character x="396" y="144" width="63" height="69" char="D" />
+        <character x="458" y="143" width="60" height="89" char="Y" />
+      </all_chars></root>

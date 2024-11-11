@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03941.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="178" y="220" width="256" height="88">
+        <character x="178" y="220" width="40" height="69" char="P" />
+        <character x="216" y="222" width="49" height="69" char="H" />
+        <character x="263" y="226" width="23" height="71" char="I" />
+        <character x="287" y="233" width="32" height="66" char="L" />
+        <character x="316" y="235" width="24" height="66" char="I" />
+        <character x="338" y="233" width="49" height="74" char="P" />
+        <character x="384" y="228" width="50" height="80" char="S" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

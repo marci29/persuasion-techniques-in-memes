@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02613.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="50" y="164" width="582" height="110">
+        <character x="50" y="177" width="109" height="88" char="E" />
+        <character x="161" y="172" width="124" height="91" char="V" />
+        <character x="281" y="171" width="115" height="103" char="E" />
+        <character x="394" y="167" width="120" height="101" char="N" />
+        <character x="514" y="164" width="118" height="106" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

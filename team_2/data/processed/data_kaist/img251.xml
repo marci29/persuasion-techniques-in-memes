@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03441.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="207" y="377" width="217" height="72">
+        <character x="207" y="377" width="32" height="69" char="f" />
+        <character x="246" y="392" width="31" height="49" char="r" />
+        <character x="282" y="390" width="43" height="59" char="e" />
+        <character x="330" y="387" width="41" height="58" char="s" />
+        <character x="379" y="378" width="45" height="66" char="h" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

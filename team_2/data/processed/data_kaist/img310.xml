@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831011.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="9" y="109" width="315" height="109">
+        <character x="9" y="109" width="64" height="96" char="G" />
+        <character x="72" y="137" width="46" height="69" char="e" />
+        <character x="115" y="136" width="51" height="73" char="o" />
+        <character x="164" y="133" width="30" height="64" char="r" />
+        <character x="192" y="137" width="49" height="81" char="g" />
+        <character x="237" y="139" width="44" height="66" char="e" />
+        <character x="281" y="144" width="43" height="56" char="s" />
+      </word>
+      <word x="341" y="116" width="273" height="106">
+        <character x="341" y="116" width="61" height="92" char="B" />
+        <character x="398" y="125" width="34" height="79" char="r" />
+        <character x="435" y="143" width="37" height="66" char="a" />
+        <character x="470" y="140" width="51" height="82" char="q" />
+        <character x="521" y="138" width="43" height="68" char="u" />
+        <character x="566" y="139" width="48" height="65" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

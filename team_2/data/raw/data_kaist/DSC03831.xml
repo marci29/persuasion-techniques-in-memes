@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03831.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="199" y="13" width="344" height="160">
+        <character x="199" y="19" width="87" height="154" char="Q" />
+        <character x="283" y="16" width="67" height="98" char="U" />
+        <character x="349" y="16" width="64" height="95" char="E" />
+        <character x="415" y="13" width="60" height="100" char="E" />
+        <character x="473" y="22" width="70" height="99" char="N" />
+      </word>
+      <word x="309" y="123" width="187" height="45">
+        <character x="309" y="125" width="30" height="41" char="H" />
+        <character x="340" y="124" width="22" height="39" char="O" />
+        <character x="362" y="123" width="22" height="43" char="F" />
+        <character x="406" y="128" width="23" height="36" char="S" />
+        <character x="429" y="128" width="23" height="39" char="O" />
+        <character x="451" y="130" width="21" height="38" char="J" />
+        <character x="471" y="125" width="25" height="42" char="U" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

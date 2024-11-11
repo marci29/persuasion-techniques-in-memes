@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\1-2\080116-0064.jpg</imageName>
+    <resolution x="800" y="600" />
+    <words>
+      <word x="311" y="225" width="230" height="112">
+        <character x="311" y="225" width="43" height="85" char="L" />
+        <character x="356" y="252" width="33" height="58" char="e" />
+        <character x="389" y="226" width="32" height="85" char="S" />
+        <character x="422" y="227" width="41" height="110" char="h" />
+        <character x="463" y="248" width="37" height="65" char="o" />
+        <character x="502" y="252" width="39" height="76" char="p" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>크기변환_%B0%A3%C6%C72_ktimt007.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="34" y="171" width="573" height="160">
+        <character x="385" y="171" width="49" height="130" char="f" />
+        <character x="34" y="230" width="52" height="101" char="P" />
+        <character x="87" y="228" width="48" height="101" char="h" />
+        <character x="135" y="242" width="48" height="87" char="o" />
+        <character x="186" y="239" width="52" height="83" char="n" />
+        <character x="242" y="229" width="50" height="82" char="e" />
+        <character x="436" y="203" width="71" height="95" char="u" />
+        <character x="508" y="189" width="99" height="95" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

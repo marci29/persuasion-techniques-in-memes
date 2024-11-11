@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03165.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="195" y="237" width="234" height="47">
+        <character x="195" y="237" width="47" height="47" char="L" />
+        <character x="242" y="245" width="35" height="38" char="o" />
+        <character x="276" y="245" width="35" height="39" char="n" />
+        <character x="313" y="238" width="36" height="45" char="d" />
+        <character x="351" y="246" width="33" height="35" char="o" />
+        <character x="387" y="246" width="42" height="38" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

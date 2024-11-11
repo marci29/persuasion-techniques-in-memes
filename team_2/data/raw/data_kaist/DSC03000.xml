@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03000.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="158" y="280" width="292" height="76">
+        <character x="158" y="287" width="33" height="62" char="i" />
+        <character x="191" y="291" width="38" height="52" char="n" />
+        <character x="227" y="290" width="40" height="50" char="n" />
+        <character x="265" y="290" width="26" height="53" char="i" />
+        <character x="291" y="296" width="27" height="48" char="s" />
+        <character x="316" y="280" width="37" height="76" char="f" />
+        <character x="351" y="293" width="29" height="46" char="r" />
+        <character x="381" y="288" width="30" height="50" char="e" />
+        <character x="412" y="292" width="38" height="49" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010060.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="107" y="127" width="452" height="112">
+        <character x="107" y="127" width="130" height="112" char="v" />
+        <character x="237" y="137" width="104" height="100" char="o" />
+        <character x="342" y="133" width="113" height="101" char="n" />
+        <character x="454" y="131" width="105" height="106" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

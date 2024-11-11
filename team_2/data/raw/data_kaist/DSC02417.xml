@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02417.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="51" y="129" width="394" height="85">
+        <character x="51" y="129" width="65" height="81" char="T" />
+        <character x="117" y="138" width="75" height="69" char="O" />
+        <character x="197" y="135" width="81" height="71" char="M" />
+        <character x="280" y="132" width="91" height="79" char="M" />
+        <character x="377" y="131" width="68" height="83" char="Y" />
+      </word>
+      <word x="455" y="131" width="105" height="78">
+        <character x="455" y="131" width="27" height="37" char="C" />
+        <character x="481" y="136" width="19" height="34" char="a" />
+        <character x="499" y="144" width="18" height="29" char="s" />
+        <character x="517" y="143" width="18" height="26" char="u" />
+        <character x="534" y="142" width="17" height="25" char="a" />
+        <character x="551" y="141" width="9" height="26" char="l" />
+        <character x="469" y="179" width="30" height="29" char="W" />
+        <character x="501" y="186" width="20" height="23" char="e" />
+        <character x="522" y="183" width="15" height="23" char="a" />
+        <character x="539" y="181" width="13" height="27" char="r" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

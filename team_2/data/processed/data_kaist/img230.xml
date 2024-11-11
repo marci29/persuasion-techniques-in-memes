@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03345.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="72" y="87" width="529" height="75">
+        <character x="72" y="92" width="63" height="60" char="M" />
+        <character x="135" y="104" width="35" height="46" char="a" />
+        <character x="170" y="95" width="38" height="53" char="d" />
+        <character x="208" y="108" width="36" height="44" char="e" />
+        <character x="257" y="87" width="22" height="64" char="i" />
+        <character x="276" y="107" width="41" height="42" char="n" />
+        <character x="328" y="89" width="52" height="59" char="G" />
+        <character x="380" y="102" width="34" height="46" char="e" />
+        <character x="417" y="100" width="24" height="45" char="r" />
+        <character x="441" y="103" width="49" height="47" char="m" />
+        <character x="492" y="105" width="35" height="42" char="a" />
+        <character x="530" y="104" width="32" height="40" char="n" />
+        <character x="562" y="104" width="39" height="58" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

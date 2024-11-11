@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080119-0014.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="139" y="246" width="555" height="399">
+        <character x="139" y="246" width="213" height="291" char="C" />
+        <character x="319" y="390" width="154" height="190" char="A" />
+        <character x="482" y="420" width="103" height="190" char="F" />
+        <character x="583" y="461" width="111" height="184" char="E" />
+      </word>
+      <word x="769" y="512" width="215" height="220">
+        <character x="769" y="512" width="93" height="197" char="d" />
+        <character x="862" y="594" width="64" height="125" char="e" />
+        <character x="925" y="613" width="59" height="119" char="s" />
+      </word>
+      <word x="1048" y="557" width="392" height="322">
+        <character x="1158" y="677" width="82" height="148" char="E" />
+        <character x="1222" y="706" width="95" height="144" char="R" />
+        <character x="1294" y="739" width="75" height="137" char="T" />
+        <character x="1372" y="765" width="68" height="114" char="S" />
+        <character x="1048" y="557" width="112" height="263" char="V" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

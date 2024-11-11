@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02524.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="31" y="306" width="241" height="99">
+        <character x="31" y="306" width="72" height="94" char="S" />
+        <character x="103" y="327" width="52" height="73" char="a" />
+        <character x="160" y="330" width="54" height="69" char="n" />
+        <character x="217" y="307" width="55" height="98" char="d" />
+      </word>
+      <word x="337" y="296" width="296" height="112">
+        <character x="337" y="303" width="69" height="97" char="C" />
+        <character x="407" y="326" width="51" height="69" char="o" />
+        <character x="453" y="299" width="45" height="109" char="f" />
+        <character x="495" y="296" width="34" height="112" char="f" />
+        <character x="530" y="335" width="52" height="66" char="e" />
+        <character x="579" y="330" width="54" height="76" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

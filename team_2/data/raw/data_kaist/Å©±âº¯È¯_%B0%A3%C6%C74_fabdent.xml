@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>크기변환_%B0%A3%C6%C74_fabdent.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="159" y="147" width="258" height="88">
+        <character x="159" y="155" width="59" height="80" char="N" />
+        <character x="220" y="151" width="55" height="83" char="A" />
+        <character x="279" y="148" width="64" height="80" char="M" />
+        <character x="351" y="147" width="66" height="80" char="U" />
+      </word>
+      <word x="166" y="246" width="227" height="50">
+        <character x="166" y="246" width="30" height="50" char="f" />
+        <character x="196" y="251" width="11" height="45" char="l" />
+        <character x="208" y="257" width="12" height="33" char="o" />
+        <character x="220" y="262" width="22" height="27" char="w" />
+        <character x="242" y="261" width="14" height="28" char="e" />
+        <character x="257" y="263" width="15" height="26" char="r" />
+        <character x="334" y="257" width="21" height="27" char="a" />
+        <character x="355" y="258" width="17" height="28" char="r" />
+        <character x="374" y="247" width="19" height="39" char="t" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

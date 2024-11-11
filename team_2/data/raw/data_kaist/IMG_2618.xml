@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>IMG_2618.JPG</imageName>
+    <resolution x="640" y="279" />
+    <words>
+      <word x="15" y="155" width="603" height="115">
+        <character x="15" y="183" width="32" height="74" char="s" />
+        <character x="49" y="183" width="46" height="77" char="e" />
+        <character x="93" y="181" width="90" height="81" char="m" />
+        <character x="182" y="161" width="40" height="107" char="l" />
+        <character x="238" y="180" width="52" height="81" char="s" />
+        <character x="291" y="155" width="59" height="109" char="k" />
+        <character x="350" y="161" width="32" height="102" char="i" />
+        <character x="382" y="183" width="94" height="86" char="m" />
+        <character x="474" y="186" width="85" height="80" char="m" />
+        <character x="560" y="183" width="27" height="81" char="e" />
+        <character x="588" y="164" width="30" height="106" char="d" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

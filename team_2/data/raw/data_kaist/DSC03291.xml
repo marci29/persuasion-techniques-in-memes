@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03291.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="122" y="156" width="460" height="171">
+        <character x="122" y="156" width="69" height="98" char="H" />
+        <character x="192" y="170" width="48" height="88" char="A" />
+        <character x="239" y="176" width="43" height="93" char="P" />
+        <character x="281" y="184" width="46" height="92" char="P" />
+        <character x="325" y="202" width="49" height="84" char="Y" />
+        <character x="396" y="215" width="50" height="86" char="T" />
+        <character x="442" y="220" width="58" height="87" char="R" />
+        <character x="491" y="237" width="45" height="79" char="E" />
+        <character x="535" y="247" width="47" height="80" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

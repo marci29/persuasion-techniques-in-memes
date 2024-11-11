@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080119-0004.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="257" y="454" width="1032" height="309">
+        <character x="257" y="454" width="327" height="309" char="M" />
+        <character x="617" y="513" width="96" height="241" char="i" />
+        <character x="743" y="520" width="273" height="241" char="G" />
+        <character x="1032" y="520" width="257" height="235" char="O" />
+      </word>
+    </words>
+    <illumination>yes</illumination>
+    <difficulty>4</difficulty>
+    <tag>english</tag>
+  </image>
+</images>

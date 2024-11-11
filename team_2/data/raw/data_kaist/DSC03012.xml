@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03012.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="28" y="208" width="609" height="79">
+        <character x="28" y="212" width="46" height="69" char="S" />
+        <character x="73" y="212" width="54" height="67" char="C" />
+        <character x="129" y="211" width="37" height="72" char="R" />
+        <character x="165" y="210" width="37" height="76" char="E" />
+        <character x="201" y="210" width="36" height="74" char="E" />
+        <character x="236" y="209" width="47" height="73" char="N" />
+        <character x="295" y="215" width="43" height="63" char="S" />
+        <character x="336" y="215" width="43" height="67" char="H" />
+        <character x="374" y="211" width="62" height="68" char="O" />
+        <character x="437" y="208" width="53" height="79" char="O" />
+        <character x="491" y="215" width="32" height="67" char="T" />
+        <character x="521" y="214" width="18" height="66" char="I" />
+        <character x="539" y="212" width="47" height="70" char="N" />
+        <character x="584" y="210" width="53" height="72" char="G" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0622\080119-0020.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="816" y="466" width="467" height="169">
+        <character x="816" y="468" width="194" height="165" char="W" />
+        <character x="980" y="471" width="78" height="163" char="I" />
+        <character x="1032" y="478" width="128" height="157" char="S" />
+        <character x="1125" y="466" width="158" height="168" char="H" />
+      </word>
+      <word x="953" y="640" width="98" height="48">
+        <character x="953" y="645" width="38" height="35" char="레" />
+        <character x="989" y="644" width="27" height="38" char="이" />
+        <character x="1017" y="640" width="34" height="48" char="저" />
+      </word>
+      <word x="1052" y="645" width="120" height="45">
+        <character x="1052" y="645" width="31" height="36" char="스" />
+        <character x="1081" y="645" width="35" height="38" char="퀘" />
+        <character x="1116" y="645" width="27" height="45" char="어" />
+        <character x="1142" y="645" width="30" height="39" char="드" />
+      </word>
+      <word x="1177" y="646" width="76" height="42">
+        <character x="1177" y="646" width="40" height="39" char="위" />
+        <character x="1216" y="646" width="37" height="42" char="시" />
+      </word>
+      <word x="335" y="418" width="475" height="240">
+        <character x="762" y="418" width="48" height="73" char="2" />
+        <character x="335" y="462" width="98" height="196" char="R" />
+        <character x="432" y="468" width="122" height="175" char="A" />
+        <character x="552" y="466" width="114" height="176" char="Z" />
+        <character x="659" y="464" width="106" height="181" char="R" />
+      </word>
+    </words>
+    <illumination>yes</illumination>
+    <difficulty>3</difficulty>
+    <tag>korean,english,number</tag>
+  </image>
+</images>

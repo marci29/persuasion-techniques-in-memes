@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831039.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="80" y="18" width="186" height="95">
+        <character x="80" y="18" width="62" height="95" char="T" />
+        <character x="143" y="20" width="63" height="90" char="h" />
+        <character x="207" y="42" width="59" height="68" char="e" />
+      </word>
+      <word x="8" y="103" width="630" height="102">
+        <character x="8" y="108" width="47" height="97" char="I" />
+        <character x="54" y="122" width="60" height="81" char="n" />
+        <character x="114" y="127" width="52" height="73" char="v" />
+        <character x="166" y="131" width="60" height="69" char="e" />
+        <character x="225" y="130" width="61" height="72" char="n" />
+        <character x="284" y="128" width="39" height="74" char="t" />
+        <character x="325" y="114" width="33" height="86" char="i" />
+        <character x="358" y="128" width="59" height="69" char="o" />
+        <character x="418" y="128" width="67" height="66" char="n" />
+      </word>
+      <word x="20" y="216" width="553" height="132">
+        <character x="20" y="216" width="116" height="132" char="A" />
+        <character x="138" y="233" width="51" height="73" char="u" />
+        <character x="192" y="233" width="36" height="65" char="t" />
+        <character x="231" y="237" width="55" height="65" char="o" />
+        <character x="287" y="236" width="65" height="74" char="n" />
+        <character x="353" y="239" width="60" height="62" char="o" />
+        <character x="414" y="238" width="91" height="65" char="m" />
+        <character x="506" y="237" width="67" height="90" char="y" />
+      </word>
+      <word x="522" y="103" width="116" height="93">
+        <character x="522" y="125" width="63" height="71" char="o" />
+        <character x="582" y="103" width="56" height="91" char="f" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

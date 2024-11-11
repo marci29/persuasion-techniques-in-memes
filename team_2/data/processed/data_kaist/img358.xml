@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010064.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="28" y="303" width="570" height="106">
+        <character x="28" y="303" width="61" height="84" char="V" />
+        <character x="87" y="304" width="55" height="83" char="E" />
+        <character x="140" y="308" width="48" height="81" char="R" />
+        <character x="190" y="313" width="54" height="82" char="O" />
+        <character x="263" y="311" width="54" height="78" char="E" />
+        <character x="319" y="329" width="35" height="63" char="s" />
+        <character x="351" y="327" width="51" height="82" char="p" />
+        <character x="401" y="324" width="36" height="69" char="r" />
+        <character x="436" y="331" width="43" height="62" char="e" />
+        <character x="480" y="333" width="37" height="62" char="s" />
+        <character x="512" y="331" width="39" height="59" char="s" />
+        <character x="549" y="335" width="49" height="62" char="o" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

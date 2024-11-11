@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>IMG_2481.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="222" y="188" width="253" height="129">
+        <character x="222" y="261" width="64" height="53" char="O" />
+        <character x="287" y="257" width="31" height="56" char="F" />
+        <character x="321" y="255" width="35" height="59" char="F" />
+        <character x="354" y="255" width="20" height="60" char="I" />
+        <character x="373" y="254" width="48" height="63" char="C" />
+        <character x="424" y="249" width="51" height="64" char="E" />
+      </word>
+      <word x="247" y="188" width="196" height="64">
+        <character x="247" y="194" width="52" height="58" char="P" />
+        <character x="296" y="192" width="61" height="57" char="O" />
+        <character x="356" y="188" width="33" height="63" char="S" />
+        <character x="388" y="194" width="55" height="54" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

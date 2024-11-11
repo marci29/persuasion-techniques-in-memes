@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03050.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="83" y="208" width="400" height="77">
+        <character x="83" y="210" width="87" height="75" char="F" />
+        <character x="171" y="211" width="72" height="73" char="E" />
+        <character x="241" y="211" width="80" height="73" char="S" />
+        <character x="320" y="210" width="78" height="64" char="T" />
+        <character x="397" y="208" width="86" height="75" char="D" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

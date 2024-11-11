@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02317.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="101" y="202" width="501" height="135">
+        <character x="101" y="225" width="63" height="105" char="T" />
+        <character x="165" y="231" width="59" height="94" char="R" />
+        <character x="218" y="228" width="58" height="109" char="E" />
+        <character x="271" y="227" width="64" height="97" char="N" />
+        <character x="328" y="223" width="79" height="89" char="D" />
+        <character x="405" y="224" width="35" height="93" char="I" />
+        <character x="439" y="202" width="75" height="105" char="C" />
+        <character x="518" y="205" width="84" height="113" char="A" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

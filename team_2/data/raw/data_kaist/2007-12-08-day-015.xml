@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>image\0623\2007-12-08-day-015.jpg</imageName>
+    <resolution x="1600" y="1200" />
+    <words>
+      <word x="1189" y="451" width="215" height="200">
+        <character x="1189" y="451" width="215" height="200" char="d" />
+      </word>
+      <word x="188" y="445" width="866" height="215">
+        <character x="188" y="445" width="181" height="188" char="S" />
+        <character x="369" y="500" width="182" height="133" char="a" />
+        <character x="542" y="460" width="119" height="188" char="l" />
+        <character x="659" y="511" width="172" height="123" char="o" />
+        <character x="832" y="500" width="222" height="160" char="n" />
+      </word>
+      <word x="192" y="627" width="1093" height="163">
+        <character x="192" y="647" width="288" height="124" char="m" />
+        <character x="465" y="651" width="209" height="122" char="u" />
+        <character x="670" y="647" width="145" height="129" char="s" />
+        <character x="816" y="627" width="114" height="148" char="i" />
+        <character x="931" y="651" width="155" height="133" char="c" />
+        <character x="1089" y="651" width="196" height="139" char="a" />
+      </word>
+      <word x="637" y="804" width="155" height="60">
+        <character x="637" y="805" width="35" height="46" char="B" />
+        <character x="672" y="817" width="24" height="35" char="u" />
+        <character x="695" y="808" width="10" height="45" char="l" />
+        <character x="706" y="805" width="7" height="47" char="l" />
+        <character x="714" y="804" width="26" height="50" char="d" />
+        <character x="741" y="819" width="25" height="37" char="o" />
+        <character x="767" y="820" width="25" height="44" char="g" />
+      </word>
+      <word x="793" y="814" width="240" height="50">
+        <character x="793" y="819" width="45" height="35" char="m" />
+        <character x="838" y="819" width="30" height="37" char="a" />
+        <character x="868" y="820" width="31" height="39" char="n" />
+        <character x="899" y="820" width="28" height="40" char="s" />
+        <character x="927" y="815" width="15" height="43" char="i" />
+        <character x="943" y="827" width="31" height="33" char="o" />
+        <character x="974" y="827" width="31" height="37" char="n" />
+        <character x="1007" y="814" width="26" height="33" char="2" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

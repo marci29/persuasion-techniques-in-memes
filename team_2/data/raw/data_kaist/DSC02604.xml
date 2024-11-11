@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02604.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="51" y="220" width="524" height="150">
+        <character x="51" y="220" width="134" height="150" char="Q" />
+        <character x="187" y="230" width="86" height="123" char="u" />
+        <character x="268" y="240" width="103" height="98" char="e" />
+        <character x="369" y="239" width="90" height="99" char="e" />
+        <character x="464" y="236" width="111" height="100" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>
