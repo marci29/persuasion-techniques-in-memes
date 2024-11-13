@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010008.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="96" y="82" width="243" height="133">
+        <character x="96" y="82" width="124" height="133" char="N" />
+        <character x="221" y="113" width="48" height="87" char="e" />
+        <character x="269" y="115" width="70" height="88" char="o" />
+      </word>
+      <word x="213" y="198" width="363" height="142">
+        <character x="213" y="219" width="111" height="121" char="A" />
+        <character x="323" y="237" width="54" height="87" char="r" />
+        <character x="375" y="253" width="55" height="68" char="o" />
+        <character x="429" y="250" width="82" height="69" char="m" />
+        <character x="512" y="250" width="64" height="67" char="a" />
+      </word>
+      <word x="456" y="198" width="110" height="38">
+        <character x="456" y="201" width="23" height="35" char="네" />
+        <character x="480" y="200" width="19" height="31" char="오" />
+        <character x="501" y="198" width="20" height="32" char="아" />
+        <character x="521" y="199" width="20" height="32" char="로" />
+        <character x="541" y="203" width="25" height="23" char="마" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

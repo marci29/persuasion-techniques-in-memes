@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03666.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="26" y="116" width="512" height="139">
+        <character x="92" y="160" width="71" height="95" char="C" />
+        <character x="161" y="162" width="68" height="85" char="O" />
+        <character x="227" y="160" width="63" height="81" char="U" />
+        <character x="290" y="156" width="63" height="82" char="N" />
+        <character x="351" y="159" width="64" height="83" char="T" />
+        <character x="413" y="161" width="59" height="81" char="R" />
+        <character x="470" y="157" width="68" height="94" char="Y" />
+      </word>
+      <word x="26" y="116" width="121" height="80">
+        <character x="26" y="143" width="39" height="53" char="A" />
+        <character x="58" y="140" width="27" height="35" char="N" />
+        <character x="83" y="134" width="30" height="31" char="N" />
+        <character x="114" y="116" width="33" height="36" char="S" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

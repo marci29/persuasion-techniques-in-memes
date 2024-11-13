@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04129.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="53" y="408" width="89" height="43">
+        <character x="53" y="416" width="35" height="35" char="G" />
+        <character x="87" y="411" width="24" height="36" char="e" />
+        <character x="111" y="408" width="31" height="36" char="o" />
+      </word>
+      <word x="185" y="368" width="251" height="54">
+        <character x="185" y="373" width="38" height="49" char="G" />
+        <character x="221" y="370" width="25" height="51" char="E" />
+        <character x="243" y="368" width="40" height="51" char="O" />
+        <character x="284" y="372" width="39" height="46" char="c" />
+        <character x="322" y="372" width="25" height="47" char="Y" />
+        <character x="346" y="379" width="33" height="40" char="C" />
+        <character x="377" y="378" width="29" height="41" char="L" />
+        <character x="403" y="375" width="33" height="45" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

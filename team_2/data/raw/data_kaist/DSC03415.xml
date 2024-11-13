@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03415.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="36" y="144" width="436" height="95">
+        <character x="36" y="144" width="67" height="95" char="이" />
+        <character x="117" y="148" width="66" height="90" char="마" />
+        <character x="191" y="151" width="64" height="83" char="트" />
+        <character x="258" y="157" width="46" height="75" char="E" />
+        <character x="316" y="158" width="48" height="73" char="M" />
+        <character x="363" y="160" width="36" height="72" char="A" />
+        <character x="399" y="165" width="41" height="71" char="R" />
+        <character x="438" y="162" width="34" height="76" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

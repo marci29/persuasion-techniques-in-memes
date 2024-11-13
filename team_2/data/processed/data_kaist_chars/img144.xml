@@ -1,11 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="640" y="480" />
-    <all_chars><character x="83" y="109" width="45" height="48" char="H" />
-        <character x="147" y="99" width="35" height="49" char="A" />
-        <character x="208" y="90" width="25" height="47" char="I" />
-        <character x="256" y="75" width="34" height="54" char="R" />
-        <character x="329" y="61" width="29" height="48" char="F" />
-        <character x="381" y="54" width="40" height="43" char="A" />
-        <character x="458" y="34" width="47" height="49" char="C" />
-        <character x="540" y="18" width="41" height="49" char="E" />
+<root><resolution x="1600" y="1200" />
+    <all_chars><character x="205" y="450" width="173" height="274" char="신" />
+        <character x="424" y="482" width="142" height="208" char="당" />
+        <character x="617" y="466" width="138" height="209" char="즉" />
+        <character x="787" y="492" width="129" height="193" char="석" />
+      <character x="948" y="445" width="195" height="244" char="떡" />
+        <character x="1188" y="482" width="166" height="192" char="볶" />
+        <character x="1413" y="479" width="151" height="227" char="이" />
+      <character x="574" y="726" width="87" height="63" char="T" />
+        <character x="660" y="755" width="28" height="41" char="." />
+        <character x="688" y="718" width="68" height="71" char="8" />
+        <character x="764" y="713" width="65" height="77" char="6" />
+        <character x="832" y="721" width="76" height="71" char="4" />
+        <character x="910" y="740" width="69" height="40" char="-" />
+        <character x="980" y="721" width="50" height="75" char="1" />
+        <character x="1032" y="725" width="65" height="66" char="2" />
+        <character x="1096" y="723" width="72" height="63" char="5" />
+        <character x="1167" y="724" width="73" height="65" char="0" />
+      <character x="1481" y="1064" width="34" height="75" char="떡" />
+        <character x="1515" y="1072" width="34" height="79" char="볶" />
+        <character x="1539" y="1082" width="42" height="82" char="이" />
+      <character x="1360" y="1105" width="62" height="74" char="신" />
+        <character x="1383" y="1089" width="56" height="67" char="당" />
+        <character x="1419" y="1076" width="45" height="66" char="즉" />
+        <character x="1451" y="1066" width="36" height="71" char="석" />
       </all_chars></root>

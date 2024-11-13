@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010012.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="75" y="117" width="544" height="171">
+        <character x="75" y="119" width="70" height="95" char="위" />
+        <character x="144" y="119" width="90" height="97" char="수" />
+        <character x="233" y="117" width="86" height="100" char="영" />
+        <character x="351" y="129" width="67" height="72" char="뷰" />
+        <character x="420" y="128" width="66" height="71" char="티" />
+        <character x="483" y="128" width="72" height="71" char="라" />
+        <character x="554" y="127" width="65" height="74" char="인" />
+      </word>
+      <word x="223" y="231" width="332" height="57">
+        <character x="223" y="235" width="37" height="51" char="T" />
+        <character x="286" y="236" width="41" height="47" char="4" />
+        <character x="328" y="234" width="31" height="51" char="8" />
+        <character x="359" y="234" width="30" height="50" char="7" />
+        <character x="426" y="231" width="30" height="57" char="8" />
+        <character x="456" y="235" width="33" height="52" char="4" />
+        <character x="489" y="235" width="33" height="49" char="2" />
+        <character x="521" y="231" width="34" height="57" char="5" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

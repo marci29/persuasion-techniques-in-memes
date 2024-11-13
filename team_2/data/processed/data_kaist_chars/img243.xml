@@ -1,10 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="9" y="45" width="147" height="143" char="E" />
-        <character x="166" y="56" width="130" height="129" char="V" />
-        <character x="293" y="59" width="136" height="127" char="E" />
-        <character x="428" y="61" width="149" height="141" char="R" />
-      <character x="56" y="287" width="152" height="135" char="S" />
-        <character x="210" y="306" width="154" height="121" char="K" />
-        <character x="370" y="304" width="156" height="133" char="Y" />
+    <all_chars><character x="82" y="350" width="46" height="68" char="8" />
+        <character x="128" y="346" width="37" height="72" char="6" />
+        <character x="166" y="348" width="31" height="70" char="1" />
+        <character x="228" y="344" width="40" height="68" char="0" />
+        <character x="268" y="346" width="41" height="65" char="9" />
+        <character x="307" y="345" width="30" height="60" char="1" />
+        <character x="336" y="345" width="32" height="65" char="1" />
+        <character x="415" y="335" width="76" height="75" char="3" />
+        <character x="488" y="340" width="71" height="63" char="F" />
+      <character x="9" y="138" width="102" height="151" char="분" />
+        <character x="130" y="135" width="101" height="136" char="석" />
+        <character x="235" y="137" width="112" height="151" char="수" />
+        <character x="350" y="133" width="115" height="129" char="학" />
+        <character x="475" y="136" width="69" height="61" char="학" />
+        <character x="478" y="200" width="69" height="71" char="원" />
+      <character x="22" y="88" width="51" height="50" char="M" />
+        <character x="72" y="87" width="37" height="50" char="P" />
+        <character x="109" y="83" width="34" height="52" char="D" />
+        <character x="141" y="81" width="41" height="50" char="A" />
       </all_chars></root>

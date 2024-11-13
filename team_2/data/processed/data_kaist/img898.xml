@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04160.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="12" y="320" width="515" height="141">
+        <character x="12" y="347" width="105" height="114" char="C" />
+        <character x="116" y="345" width="58" height="93" char="h" />
+        <character x="175" y="364" width="50" height="75" char="r" />
+        <character x="225" y="341" width="39" height="97" char="i" />
+        <character x="262" y="347" width="46" height="83" char="s" />
+        <character x="308" y="343" width="54" height="79" char="t" />
+        <character x="361" y="343" width="73" height="66" char="m" />
+        <character x="430" y="337" width="55" height="53" char="a" />
+        <character x="484" y="320" width="43" height="70" char="s" />
+      </word>
+      <word x="22" y="241" width="357" height="107">
+        <character x="22" y="241" width="134" height="107" char="M" />
+        <character x="157" y="276" width="49" height="61" char="e" />
+        <character x="197" y="266" width="55" height="68" char="r" />
+        <character x="248" y="256" width="61" height="73" char="r" />
+        <character x="303" y="245" width="76" height="97" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

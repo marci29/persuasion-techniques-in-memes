@@ -1,11 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="640" y="480" />
-    <all_chars><character x="51" y="177" width="82" height="90" char="B" />
-        <character x="132" y="176" width="72" height="92" char="A" />
-        <character x="204" y="173" width="74" height="95" char="G" />
-        <character x="278" y="179" width="71" height="90" char="U" />
-        <character x="349" y="182" width="68" height="93" char="E" />
-        <character x="420" y="190" width="54" height="82" char="T" />
-        <character x="474" y="186" width="59" height="87" char="T" />
-        <character x="533" y="184" width="60" height="97" char="E" />
+<root><resolution x="1600" y="1200" />
+    <all_chars><character x="102" y="474" width="121" height="182" char="b" />
+        <character x="225" y="519" width="102" height="146" char="a" />
+        <character x="329" y="505" width="51" height="164" char="s" />
+        <character x="383" y="463" width="92" height="230" char="k" />
+        <character x="478" y="486" width="48" height="164" char="i" />
+        <character x="526" y="485" width="114" height="196" char="N" />
+      <character x="641" y="423" width="173" height="268" char="B" />
+        <character x="818" y="420" width="166" height="286" char="R" />
+      <character x="986" y="484" width="100" height="172" char="r" />
+        <character x="1053" y="521" width="104" height="133" char="o" />
+        <character x="1145" y="494" width="120" height="180" char="b" />
+        <character x="1246" y="470" width="128" height="169" char="b" />
+        <character x="1361" y="468" width="66" height="168" char="i" />
+        <character x="1409" y="453" width="134" height="222" char="N" />
+        <character x="1533" y="487" width="66" height="193" char="s" />
       </all_chars></root>

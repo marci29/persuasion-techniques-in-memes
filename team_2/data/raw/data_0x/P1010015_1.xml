@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010015.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="19" y="128" width="604" height="99">
+        <character x="19" y="132" width="64" height="85" char="O" />
+        <character x="83" y="131" width="74" height="88" char="W" />
+        <character x="155" y="129" width="59" height="89" char="N" />
+        <character x="213" y="129" width="57" height="98" char="E" />
+        <character x="268" y="138" width="61" height="81" char="R" />
+        <character x="344" y="139" width="65" height="78" char="S" />
+        <character x="439" y="130" width="65" height="91" char="C" />
+        <character x="502" y="128" width="29" height="99" char="l" />
+        <character x="530" y="149" width="49" height="73" char="u" />
+        <character x="577" y="145" width="46" height="77" char="b" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

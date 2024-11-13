@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03785.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="156" y="15" width="349" height="416">
+        <character x="198" y="166" width="77" height="215" char="동" />
+        <character x="278" y="128" width="86" height="131" char="아" />
+        <character x="349" y="239" width="69" height="114" char="스" />
+        <character x="420" y="172" width="85" height="259" char="쿨" />
+      </word>
+      <word x="156" y="15" width="267" height="74">
+        <character x="156" y="22" width="49" height="60" char="명" />
+        <character x="216" y="24" width="51" height="65" char="문" />
+        <character x="275" y="17" width="54" height="59" char="의" />
+        <character x="366" y="15" width="57" height="60" char="힘" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

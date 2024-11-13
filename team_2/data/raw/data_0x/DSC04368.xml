@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04368.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="137" y="30" width="342" height="324">
+        <character x="137" y="35" width="157" height="179" char="예" />
+        <character x="308" y="30" width="171" height="182" char="솜" />
+      </word>
+      <word x="169" y="267" width="264" height="87">
+        <character x="169" y="269" width="46" height="85" char="Y" />
+        <character x="215" y="267" width="41" height="82" char="E" />
+        <character x="273" y="277" width="51" height="72" char="S" />
+        <character x="321" y="274" width="49" height="73" char="O" />
+        <character x="371" y="272" width="62" height="75" char="M" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

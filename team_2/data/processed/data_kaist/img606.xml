@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03311.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="16" y="296" width="603" height="110">
+        <character x="16" y="308" width="77" height="76" char="S" />
+        <character x="92" y="304" width="75" height="79" char="V" />
+        <character x="169" y="312" width="53" height="66" char="라" />
+        <character x="220" y="311" width="54" height="65" char="인" />
+        <character x="289" y="303" width="80" height="64" char="피" />
+        <character x="368" y="299" width="85" height="66" char="부" />
+        <character x="453" y="296" width="89" height="74" char="관" />
+        <character x="543" y="296" width="76" height="69" char="리" />
+      </word>
+      <word x="285" y="367" width="168" height="39">
+        <character x="285" y="372" width="19" height="34" char="0" />
+        <character x="305" y="371" width="16" height="34" char="4" />
+        <character x="320" y="370" width="14" height="33" char="2" />
+        <character x="343" y="373" width="16" height="25" char="4" />
+        <character x="357" y="368" width="15" height="33" char="7" />
+        <character x="372" y="367" width="11" height="35" char="1" />
+        <character x="391" y="367" width="17" height="34" char="7" />
+        <character x="407" y="371" width="17" height="28" char="0" />
+        <character x="425" y="370" width="12" height="30" char="1" />
+        <character x="437" y="369" width="16" height="29" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

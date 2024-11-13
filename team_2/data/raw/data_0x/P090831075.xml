@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831075.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="81" y="149" width="529" height="84">
+        <character x="81" y="153" width="53" height="80" char="P" />
+        <character x="133" y="149" width="45" height="75" char="R" />
+        <character x="176" y="157" width="60" height="64" char="O" />
+        <character x="234" y="160" width="34" height="65" char="F" />
+        <character x="268" y="159" width="39" height="68" char="E" />
+        <character x="307" y="159" width="31" height="67" char="S" />
+        <character x="340" y="160" width="34" height="63" char="S" />
+        <character x="374" y="161" width="18" height="64" char="I" />
+        <character x="390" y="161" width="64" height="65" char="O" />
+        <character x="452" y="160" width="58" height="65" char="N" />
+        <character x="509" y="158" width="58" height="65" char="A" />
+        <character x="570" y="162" width="40" height="65" char="L" />
+      </word>
+      <word x="214" y="279" width="393" height="69">
+        <character x="214" y="279" width="57" height="69" char="C" />
+        <character x="270" y="280" width="42" height="63" char="R" />
+        <character x="313" y="282" width="35" height="63" char="E" />
+        <character x="348" y="282" width="52" height="63" char="A" />
+        <character x="398" y="279" width="38" height="62" char="T" />
+        <character x="434" y="279" width="24" height="65" char="I" />
+        <character x="456" y="279" width="50" height="63" char="V" />
+        <character x="507" y="280" width="21" height="60" char="I" />
+        <character x="527" y="285" width="39" height="53" char="T" />
+        <character x="567" y="284" width="40" height="62" char="Y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

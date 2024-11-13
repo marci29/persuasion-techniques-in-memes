@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03003.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="109" y="147" width="419" height="152">
+        <character x="109" y="147" width="183" height="140" char="M" />
+        <character x="295" y="159" width="93" height="140" char="I" />
+        <character x="387" y="154" width="141" height="145" char="X" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

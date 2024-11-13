@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03119.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="141" y="155" width="350" height="131">
+        <character x="141" y="155" width="31" height="58" char="S" />
+        <character x="171" y="167" width="30" height="47" char="o" />
+        <character x="200" y="168" width="28" height="47" char="o" />
+        <character x="228" y="169" width="28" height="43" char="n" />
+        <character x="257" y="169" width="30" height="51" char="g" />
+        <character x="289" y="167" width="15" height="42" char="r" />
+        <character x="305" y="168" width="29" height="41" char="a" />
+        <character x="332" y="168" width="30" height="41" char="e" />
+        <character x="361" y="168" width="41" height="42" char="m" />
+        <character x="402" y="169" width="28" height="43" char="o" />
+        <character x="429" y="168" width="27" height="40" char="o" />
+        <character x="457" y="169" width="34" height="38" char="n" />
+      </word>
+      <word x="249" y="231" width="131" height="55">
+        <character x="249" y="231" width="43" height="55" char="숭" />
+        <character x="292" y="233" width="45" height="51" char="례" />
+        <character x="337" y="231" width="43" height="50" char="문" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

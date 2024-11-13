@@ -1,12 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="640" y="480" />
-    <all_chars><character x="30" y="272" width="59" height="98" char="C" />
-        <character x="86" y="274" width="59" height="99" char="R" />
-        <character x="144" y="270" width="54" height="92" char="E" />
-        <character x="197" y="268" width="58" height="90" char="A" />
-        <character x="256" y="268" width="70" height="101" char="M" />
-        <character x="350" y="269" width="59" height="96" char="B" />
-        <character x="408" y="267" width="48" height="97" char="E" />
-        <character x="456" y="268" width="49" height="97" char="E" />
-        <character x="507" y="268" width="53" height="93" char="R" />
+<root><resolution x="1200" y="1600" />
+    <all_chars><character x="1016" y="1" width="65" height="77" char="7" />
+      <character x="520" y="356" width="128" height="182" char="문" />
+        <character x="512" y="536" width="131" height="190" char="화" />
+      <character x="522" y="735" width="119" height="149" char="교" />
+        <character x="513" y="903" width="132" height="241" char="실" />
+      <character x="440" y="957" width="47" height="37" char="e" />
+        <character x="438" y="928" width="51" height="25" char="r" />
+        <character x="441" y="891" width="50" height="35" char="u" />
+        <character x="440" y="866" width="59" height="21" char="t" />
+        <character x="440" y="846" width="60" height="20" char="l" />
+        <character x="443" y="806" width="50" height="40" char="u" />
+        <character x="445" y="764" width="57" height="42" char="C" />
+      <character x="428" y="1226" width="57" height="25" char="r" />
+        <character x="430" y="1189" width="53" height="34" char="e" />
+        <character x="430" y="1160" width="59" height="27" char="t" />
+        <character x="427" y="1116" width="61" height="44" char="n" />
+        <character x="430" y="1080" width="55" height="36" char="e" />
+        <character x="436" y="1032" width="60" height="48" char="C" />
       </all_chars></root>

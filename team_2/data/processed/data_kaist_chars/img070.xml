@@ -1,12 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="1600" y="1200" />
-    <all_chars><character x="737" y="174" width="74" height="107" char="7" />
-      <character x="473" y="513" width="92" height="110" char="7" />
-        <character x="559" y="559" width="47" height="35" char="-" />
-        <character x="604" y="507" width="68" height="114" char="E" />
-        <character x="674" y="504" width="61" height="123" char="L" />
-        <character x="735" y="507" width="63" height="117" char="E" />
-        <character x="800" y="505" width="87" height="119" char="V" />
-        <character x="886" y="505" width="68" height="121" char="E" />
-        <character x="955" y="507" width="88" height="118" char="n" />
+    <all_chars><character x="208" y="460" width="129" height="130" char="K" />
+        <character x="338" y="471" width="121" height="110" char="E" />
+        <character x="459" y="475" width="133" height="117" char="B" />
+      <character x="484" y="713" width="50" height="89" char="3" />
+        <character x="535" y="712" width="46" height="95" char="6" />
+        <character x="582" y="710" width="45" height="97" char="5" />
+      <character x="640" y="720" width="57" height="80" char="C" />
+        <character x="697" y="720" width="55" height="80" char="A" />
+        <character x="753" y="720" width="45" height="81" char="S" />
+        <character x="796" y="718" width="55" height="88" char="H" />
+      <character x="868" y="720" width="53" height="75" char="C" />
+        <character x="923" y="720" width="51" height="72" char="O" />
+        <character x="976" y="720" width="48" height="75" char="R" />
+        <character x="1025" y="718" width="47" height="79" char="N" />
+        <character x="1073" y="718" width="44" height="77" char="E" />
+        <character x="1118" y="716" width="57" height="85" char="R" />
+      <character x="941" y="1056" width="36" height="46" char="S" />
+        <character x="976" y="1055" width="28" height="45" char="E" />
+        <character x="1005" y="1051" width="34" height="49" char="C" />
+        <character x="1038" y="1050" width="38" height="50" char="O" />
+        <character x="1069" y="1050" width="41" height="50" char="M" />
+      <character x="952" y="1002" width="28" height="37" char="세" />
+        <character x="980" y="1005" width="25" height="31" char="콤" />
+        <character x="1004" y="1005" width="26" height="31" char="경" />
+        <character x="1028" y="1002" width="24" height="35" char="비" />
+        <character x="1051" y="1001" width="24" height="37" char="구" />
+        <character x="1077" y="1003" width="21" height="35" char="역" />
+      <character x="829" y="473" width="147" height="127" char="외" />
+        <character x="980" y="471" width="166" height="127" char="환" />
+        <character x="1144" y="473" width="132" height="132" char="은" />
+        <character x="1264" y="483" width="141" height="128" char="행" />
       </all_chars></root>

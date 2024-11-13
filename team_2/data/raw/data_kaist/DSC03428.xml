@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03428.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="52" y="146" width="547" height="225">
+        <character x="52" y="146" width="78" height="96" char="충" />
+        <character x="145" y="147" width="83" height="99" char="청" />
+        <character x="234" y="148" width="81" height="89" char="영" />
+        <character x="317" y="150" width="93" height="91" char="업" />
+        <character x="406" y="154" width="98" height="82" char="본" />
+        <character x="502" y="147" width="97" height="91" char="부" />
+      </word>
+      <word x="115" y="314" width="90" height="57">
+        <character x="115" y="318" width="40" height="48" char="K" />
+        <character x="155" y="314" width="26" height="57" char="E" />
+        <character x="181" y="323" width="24" height="42" char="B" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

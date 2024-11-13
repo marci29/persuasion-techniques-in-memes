@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03613.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="46" y="20" width="575" height="62">
+        <character x="46" y="27" width="40" height="50" char="대" />
+        <character x="88" y="22" width="42" height="55" char="청" />
+        <character x="129" y="23" width="49" height="59" char="경" />
+        <character x="178" y="23" width="45" height="55" char="비" />
+        <character x="222" y="24" width="40" height="54" char="구" />
+        <character x="262" y="25" width="55" height="49" char="역" />
+        <character x="340" y="20" width="29" height="55" char="T" />
+        <character x="377" y="26" width="21" height="48" char="0" />
+        <character x="399" y="25" width="19" height="52" char="4" />
+        <character x="417" y="26" width="19" height="46" char="2" />
+        <character x="445" y="21" width="28" height="55" char="4" />
+        <character x="473" y="25" width="21" height="50" char="8" />
+        <character x="494" y="24" width="22" height="51" char="6" />
+        <character x="528" y="23" width="25" height="55" char="4" />
+        <character x="554" y="28" width="21" height="50" char="9" />
+        <character x="572" y="28" width="24" height="48" char="7" />
+        <character x="596" y="31" width="25" height="49" char="4" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

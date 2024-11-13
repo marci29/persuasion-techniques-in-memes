@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02910.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="265" y="51" width="268" height="350">
+        <character x="265" y="322" width="92" height="74" char="우" />
+        <character x="449" y="325" width="84" height="76" char="표" />
+      </word>
+      <word x="266" y="51" width="266" height="45">
+        <character x="266" y="51" width="27" height="39" char="P" />
+        <character x="292" y="56" width="23" height="35" char="O" />
+        <character x="313" y="53" width="21" height="38" char="S" />
+        <character x="333" y="54" width="19" height="42" char="T" />
+        <character x="354" y="54" width="19" height="37" char="A" />
+        <character x="374" y="56" width="19" height="35" char="G" />
+        <character x="394" y="59" width="19" height="33" char="E" />
+        <character x="424" y="54" width="19" height="36" char="S" />
+        <character x="445" y="52" width="15" height="39" char="T" />
+        <character x="460" y="55" width="23" height="36" char="A" />
+        <character x="481" y="56" width="27" height="31" char="M" />
+        <character x="509" y="53" width="23" height="38" char="P" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

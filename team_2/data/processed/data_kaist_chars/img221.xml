@@ -1,9 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="140" y="208" width="30" height="48" char="S" />
-        <character x="172" y="211" width="29" height="48" char="E" />
-        <character x="204" y="214" width="28" height="42" char="E" />
-        <character x="235" y="211" width="27" height="46" char="S" />
-        <character x="265" y="214" width="30" height="41" char="U" />
-        <character x="297" y="216" width="32" height="44" char="N" />
+    <all_chars><character x="222" y="134" width="22" height="62" char="I" />
+        <character x="255" y="133" width="63" height="69" char="N" />
+        <character x="330" y="139" width="48" height="55" char="T" />
+        <character x="392" y="137" width="60" height="58" char="E" />
+        <character x="458" y="135" width="57" height="57" char="R" />
+      <character x="269" y="107" width="28" height="29" char="N" />
+        <character x="317" y="107" width="20" height="28" char="S" />
+        <character x="337" y="113" width="24" height="20" char="m" />
+        <character x="362" y="113" width="14" height="21" char="o" />
+        <character x="376" y="108" width="16" height="26" char="k" />
+        <character x="392" y="108" width="9" height="26" char="i" />
+        <character x="401" y="113" width="17" height="21" char="n" />
+        <character x="418" y="111" width="16" height="28" char="g" />
+        <character x="438" y="108" width="22" height="24" char="A" />
+        <character x="460" y="113" width="9" height="19" char="r" />
+        <character x="469" y="112" width="16" height="19" char="e" />
+        <character x="486" y="113" width="19" height="19" char="a" />
+        <character x="296" y="116" width="19" height="17" char="o" />
+      <character x="152" y="203" width="117" height="109" char="프" />
+        <character x="284" y="208" width="127" height="114" char="렌" />
+        <character x="422" y="210" width="119" height="97" char="즈" />
       </all_chars></root>

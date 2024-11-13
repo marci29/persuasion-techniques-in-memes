@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03135.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="170" y="169" width="257" height="143">
+        <character x="170" y="169" width="42" height="55" char="C" />
+        <character x="208" y="169" width="37" height="66" char="h" />
+        <character x="246" y="183" width="32" height="45" char="e" />
+        <character x="277" y="187" width="32" height="47" char="o" />
+        <character x="306" y="187" width="33" height="46" char="n" />
+        <character x="335" y="184" width="43" height="67" char="g" />
+        <character x="376" y="183" width="16" height="70" char="j" />
+        <character x="390" y="197" width="37" height="46" char="a" />
+      </word>
+      <word x="237" y="249" width="99" height="63">
+        <character x="237" y="249" width="48" height="63" char="청" />
+        <character x="282" y="253" width="54" height="56" char="자" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

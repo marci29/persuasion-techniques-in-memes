@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03820.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="30" y="67" width="358" height="370">
+        <character x="54" y="69" width="166" height="195" char="별" />
+        <character x="219" y="67" width="169" height="201" char="밤" />
+      </word>
+      <word x="30" y="288" width="121" height="66">
+        <character x="30" y="291" width="68" height="63" char="감" />
+        <character x="97" y="288" width="54" height="66" char="성" />
+      </word>
+      <word x="39" y="353" width="343" height="84">
+        <character x="39" y="356" width="49" height="77" char="L" />
+        <character x="86" y="353" width="17" height="82" char="i" />
+        <character x="103" y="371" width="36" height="64" char="v" />
+        <character x="141" y="377" width="37" height="58" char="e" />
+        <character x="176" y="359" width="56" height="75" char="C" />
+        <character x="231" y="362" width="47" height="72" char="L" />
+        <character x="278" y="359" width="51" height="77" char="U" />
+        <character x="328" y="360" width="54" height="77" char="B" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

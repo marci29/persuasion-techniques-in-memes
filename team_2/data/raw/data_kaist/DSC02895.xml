@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02895.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="73" y="214" width="570" height="195">
+        <character x="404" y="271" width="84" height="68" char="예" />
+        <character x="486" y="263" width="72" height="74" char="쁜" />
+        <character x="559" y="254" width="84" height="85" char="방" />
+        <character x="117" y="234" width="91" height="101" char="한" />
+        <character x="207" y="232" width="82" height="67" char="지" />
+        <character x="297" y="223" width="80" height="103" char="공" />
+        <character x="379" y="214" width="100" height="64" char="예" />
+      </word>
+      <word x="73" y="352" width="60" height="57">
+        <character x="73" y="352" width="30" height="57" char="2" />
+        <character x="103" y="357" width="30" height="48" char="F" />
+      </word>
+      <word x="161" y="348" width="198" height="56">
+        <character x="161" y="361" width="24" height="43" char="T" />
+        <character x="196" y="361" width="23" height="36" char="4" />
+        <character x="219" y="360" width="19" height="34" char="8" />
+        <character x="239" y="361" width="20" height="37" char="6" />
+        <character x="282" y="354" width="19" height="35" char="3" />
+        <character x="300" y="352" width="18" height="37" char="1" />
+        <character x="316" y="350" width="19" height="37" char="7" />
+        <character x="335" y="348" width="24" height="37" char="6" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03273.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="85" y="187" width="505" height="161">
+        <character x="510" y="283" width="40" height="65" char="6" />
+        <character x="552" y="288" width="38" height="55" char="F" />
+      </word>
+      <word x="85" y="187" width="478" height="109">
+        <character x="85" y="187" width="93" height="108" char="수" />
+        <character x="180" y="188" width="77" height="107" char="학" />
+        <character x="259" y="212" width="62" height="84" char="영" />
+        <character x="321" y="215" width="64" height="60" char="재" />
+        <character x="386" y="214" width="63" height="81" char="만" />
+        <character x="450" y="215" width="56" height="79" char="들" />
+        <character x="506" y="212" width="57" height="62" char="기" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

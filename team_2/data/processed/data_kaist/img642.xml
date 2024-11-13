@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03422.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="83" y="69" width="434" height="382">
+        <character x="104" y="219" width="47" height="83" char="C" />
+        <character x="152" y="237" width="27" height="70" char="a" />
+        <character x="179" y="239" width="25" height="66" char="r" />
+        <character x="203" y="253" width="35" height="67" char="e" />
+        <character x="271" y="239" width="42" height="81" char="A" />
+        <character x="315" y="258" width="28" height="60" char="c" />
+        <character x="345" y="258" width="22" height="62" char="a" />
+        <character x="368" y="252" width="29" height="68" char="d" />
+        <character x="399" y="264" width="25" height="56" char="e" />
+        <character x="424" y="265" width="39" height="56" char="m" />
+        <character x="461" y="263" width="27" height="74" char="y" />
+      </word>
+      <word x="83" y="321" width="434" height="130">
+        <character x="83" y="321" width="81" height="123" char="힐" />
+        <character x="163" y="333" width="80" height="113" char="링" />
+        <character x="244" y="335" width="74" height="109" char="아" />
+        <character x="319" y="337" width="67" height="114" char="카" />
+        <character x="386" y="335" width="69" height="109" char="데" />
+        <character x="453" y="345" width="64" height="101" char="미" />
+      </word>
+      <word x="145" y="69" width="291" height="167">
+        <character x="145" y="69" width="132" height="152" char="힐" />
+        <character x="309" y="92" width="127" height="144" char="링" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

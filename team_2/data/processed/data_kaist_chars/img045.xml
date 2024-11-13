@@ -1,12 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="1600" y="1200" />
-    <all_chars><character x="137" y="677" width="71" height="87" char="D" />
-        <character x="262" y="684" width="75" height="77" char="O" />
-        <character x="377" y="675" width="70" height="89" char="U" />
-        <character x="495" y="672" width="86" height="75" char="G" />
-        <character x="622" y="677" width="65" height="84" char="H" />
-        <character x="737" y="681" width="86" height="99" char="N" />
-        <character x="865" y="677" width="73" height="73" char="U" />
-        <character x="977" y="683" width="68" height="78" char="T" />
-        <character x="1091" y="684" width="55" height="70" char="S" />
+    <all_chars><character x="749" y="524" width="100" height="123" char="C" />
+        <character x="852" y="516" width="83" height="132" char="h" />
+        <character x="936" y="527" width="93" height="101" char="e" />
+        <character x="1031" y="512" width="145" height="104" char="m" />
+      <character x="539" y="561" width="80" height="119" char="L" />
+        <character x="620" y="556" width="107" height="112" char="G" />
       </all_chars></root>

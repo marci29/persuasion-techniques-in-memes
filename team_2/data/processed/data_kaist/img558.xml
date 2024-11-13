@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03234.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="24" y="77" width="600" height="111">
+        <character x="24" y="121" width="69" height="67" char="대" />
+        <character x="95" y="117" width="57" height="66" char="덕" />
+        <character x="157" y="111" width="66" height="65" char="프" />
+        <character x="222" y="106" width="72" height="65" char="라" />
+        <character x="294" y="98" width="74" height="65" char="자" />
+        <character x="390" y="90" width="73" height="73" char="주" />
+        <character x="458" y="86" width="78" height="66" char="차" />
+        <character x="536" y="77" width="88" height="86" char="장" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

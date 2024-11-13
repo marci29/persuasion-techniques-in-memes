@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03562.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="25" y="103" width="582" height="151">
+        <character x="25" y="123" width="133" height="131" char="치" />
+        <character x="160" y="147" width="92" height="106" char="킨" />
+        <character x="420" y="103" width="93" height="142" char="호" />
+        <character x="508" y="130" width="99" height="117" char="프" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

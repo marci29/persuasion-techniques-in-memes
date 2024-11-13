@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04442.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="63" y="21" width="479" height="423">
+        <character x="63" y="30" width="91" height="95" char="종" />
+        <character x="152" y="31" width="85" height="89" char="로" />
+        <character x="236" y="27" width="86" height="98" char="유" />
+        <character x="321" y="21" width="92" height="104" char="학" />
+        <character x="412" y="22" width="83" height="124" char="원" />
+      </word>
+      <word x="70" y="281" width="472" height="163">
+        <character x="108" y="290" width="72" height="72" char="V" />
+        <character x="177" y="287" width="23" height="79" char="I" />
+        <character x="201" y="286" width="54" height="83" char="S" />
+        <character x="252" y="286" width="85" height="88" char="렌" />
+        <character x="334" y="281" width="80" height="91" char="터" />
+        <character x="411" y="281" width="93" height="89" char="카" />
+      </word>
+      <word x="70" y="362" width="472" height="82">
+        <character x="70" y="362" width="68" height="69" char="아" />
+        <character x="139" y="363" width="60" height="70" char="주" />
+        <character x="198" y="373" width="66" height="60" char="오" />
+        <character x="262" y="371" width="64" height="61" char="토" />
+        <character x="324" y="370" width="69" height="74" char="렌" />
+        <character x="389" y="370" width="63" height="66" char="탈" />
+        <character x="483" y="368" width="59" height="67" char="주" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

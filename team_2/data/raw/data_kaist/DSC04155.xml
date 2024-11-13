@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04155.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="26" y="199" width="587" height="107">
+        <character x="26" y="213" width="88" height="82" char="도" />
+        <character x="122" y="208" width="99" height="91" char="원" />
+        <character x="226" y="205" width="97" height="101" char="갈" />
+        <character x="317" y="199" width="112" height="104" char="비" />
+        <character x="455" y="263" width="21" height="33" char="T" />
+        <character x="478" y="264" width="21" height="32" char="4" />
+        <character x="499" y="263" width="12" height="32" char="8" />
+        <character x="510" y="260" width="17" height="35" char="7" />
+        <character x="538" y="265" width="17" height="29" char="0" />
+        <character x="557" y="264" width="15" height="30" char="2" />
+        <character x="572" y="262" width="17" height="31" char="6" />
+        <character x="589" y="263" width="24" height="32" char="6" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

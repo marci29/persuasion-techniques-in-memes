@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03936.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="272" y="76" width="342" height="144">
+        <character x="272" y="89" width="35" height="49" char="o" />
+        <character x="308" y="87" width="21" height="50" char="r" />
+        <character x="330" y="90" width="38" height="64" char="g" />
+        <character x="367" y="90" width="30" height="49" char="a" />
+        <character x="396" y="90" width="36" height="47" char="n" />
+        <character x="432" y="76" width="18" height="58" char="i" />
+        <character x="448" y="93" width="33" height="48" char="c" />
+        <character x="493" y="90" width="24" height="48" char="s" />
+        <character x="519" y="85" width="18" height="54" char="t" />
+        <character x="540" y="90" width="23" height="50" char="o" />
+        <character x="561" y="88" width="20" height="50" char="r" />
+        <character x="584" y="85" width="30" height="66" char="y" />
+      </word>
+      <word x="338" y="163" width="201" height="57">
+        <character x="338" y="165" width="54" height="55" char="C" />
+        <character x="390" y="175" width="33" height="45" char="e" />
+        <character x="426" y="166" width="23" height="49" char="r" />
+        <character x="449" y="167" width="35" height="47" char="e" />
+        <character x="484" y="171" width="26" height="40" char="a" />
+        <character x="511" y="163" width="28" height="52" char="l" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

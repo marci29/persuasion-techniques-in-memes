@@ -1,6 +1,27 @@
 {
     "cSpell.words": [
+        "astype",
         "bboxes",
-        "kaist"
+        "dota",
+        "dtype",
+        "etree",
+        "figsize",
+        "hstack",
+        "imgsz",
+        "imread",
+        "imshow",
+        "imwrite",
+        "kaist",
+        "matplotlib",
+        "numpy",
+        "polylines",
+        "pyplot",
+        "robndbox",
+        "scipy",
+        "scrollregion",
+        "ultralytics",
+        "xscrollcommand",
+        "xywh",
+        "yscrollcommand"
     ]
 }

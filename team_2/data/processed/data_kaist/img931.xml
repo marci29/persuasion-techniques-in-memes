@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04326.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="0" y="11" width="569" height="73">
+        <character x="0" y="18" width="51" height="66" char="장" />
+        <character x="51" y="17" width="51" height="65" char="대" />
+        <character x="102" y="13" width="55" height="69" char="캠" />
+        <character x="155" y="12" width="54" height="68" char="퍼" />
+        <character x="207" y="14" width="59" height="69" char="스" />
+        <character x="275" y="11" width="33" height="67" char="T" />
+        <character x="319" y="20" width="33" height="58" char="8" />
+        <character x="353" y="20" width="30" height="60" char="2" />
+        <character x="385" y="12" width="32" height="70" char="5" />
+        <character x="443" y="17" width="34" height="66" char="9" />
+        <character x="479" y="16" width="27" height="67" char="3" />
+        <character x="507" y="15" width="30" height="67" char="8" />
+        <character x="533" y="13" width="36" height="69" char="9" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04154.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="20" y="214" width="549" height="100">
+        <character x="20" y="214" width="74" height="81" char="매" />
+        <character x="89" y="220" width="76" height="92" char="일" />
+        <character x="164" y="219" width="71" height="85" char="유" />
+        <character x="233" y="223" width="71" height="91" char="업" />
+        <character x="448" y="239" width="46" height="39" char="m" />
+        <character x="491" y="236" width="26" height="42" char="a" />
+        <character x="517" y="246" width="24" height="28" char="e" />
+        <character x="541" y="237" width="13" height="42" char="i" />
+        <character x="553" y="234" width="16" height="44" char="l" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02984.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="21" y="96" width="610" height="110">
+        <character x="21" y="103" width="71" height="103" char="B" />
+        <character x="91" y="104" width="57" height="90" char="E" />
+        <character x="148" y="101" width="70" height="98" char="A" />
+        <character x="216" y="100" width="69" height="105" char="U" />
+        <character x="286" y="98" width="61" height="97" char="T" />
+        <character x="347" y="100" width="41" height="88" char="I" />
+        <character x="381" y="96" width="70" height="106" char="P" />
+        <character x="455" y="107" width="50" height="79" char="L" />
+        <character x="503" y="106" width="61" height="88" char="E" />
+        <character x="563" y="106" width="68" height="90" char="X" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

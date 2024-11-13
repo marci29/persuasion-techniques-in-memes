@@ -1,22 +1,17 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="0" y="149" width="75" height="85" char="M" />
-        <character x="82" y="148" width="81" height="78" char="O" />
-        <character x="175" y="149" width="72" height="81" char="N" />
-        <character x="249" y="157" width="83" height="73" char="O" />
-        <character x="338" y="155" width="65" height="82" char="K" />
-        <character x="399" y="153" width="68" height="84" char="R" />
-        <character x="467" y="163" width="62" height="73" char="A" />
-        <character x="531" y="168" width="41" height="71" char="F" />
-        <character x="572" y="170" width="55" height="71" char="T" />
-      <character x="137" y="233" width="50" height="51" char="H" />
-        <character x="188" y="239" width="37" height="45" char="A" />
-        <character x="225" y="238" width="47" height="49" char="N" />
-        <character x="272" y="238" width="44" height="52" char="D" />
-        <character x="316" y="239" width="18" height="47" char="I" />
-        <character x="336" y="239" width="36" height="46" char="C" />
-        <character x="373" y="239" width="34" height="47" char="R" />
-        <character x="407" y="242" width="38" height="40" char="A" />
-        <character x="445" y="244" width="25" height="43" char="F" />
-        <character x="470" y="244" width="44" height="44" char="T" />
+    <all_chars><character x="208" y="172" width="56" height="66" char="M" />
+        <character x="265" y="189" width="38" height="44" char="e" />
+        <character x="305" y="172" width="24" height="64" char="l" />
+        <character x="330" y="172" width="25" height="63" char="t" />
+        <character x="354" y="167" width="21" height="70" char="i" />
+        <character x="376" y="182" width="34" height="61" char="n" />
+        <character x="409" y="187" width="45" height="71" char="g" />
+        <character x="262" y="231" width="51" height="58" char="p" />
+        <character x="315" y="239" width="43" height="51" char="o" />
+        <character x="358" y="238" width="41" height="58" char="t" />
+      <character x="19" y="191" width="31" height="42" char="돈" />
+        <character x="46" y="198" width="28" height="39" char="보" />
+      <character x="17" y="245" width="30" height="29" char="주" />
+        <character x="47" y="245" width="28" height="33" char="점" />
       </all_chars></root>

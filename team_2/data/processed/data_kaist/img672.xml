@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03520.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="261" y="43" width="306" height="71">
+        <character x="261" y="48" width="56" height="66" char="O" />
+        <character x="313" y="44" width="39" height="67" char="U" />
+        <character x="351" y="45" width="38" height="63" char="T" />
+        <character x="398" y="48" width="40" height="63" char="진" />
+        <character x="436" y="46" width="45" height="62" char="입" />
+        <character x="480" y="46" width="44" height="64" char="금" />
+        <character x="520" y="43" width="47" height="66" char="지" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

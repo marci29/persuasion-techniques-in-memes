@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02890.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="87" y="351" width="402" height="90">
+        <character x="92" y="356" width="50" height="51" char="굿" />
+        <character x="139" y="355" width="79" height="52" char="바" />
+        <character x="218" y="356" width="54" height="50" char="이" />
+        <character x="275" y="354" width="83" height="83" char="뱃" />
+        <character x="359" y="351" width="130" height="85" char="살" />
+      </word>
+      <word x="87" y="404" width="175" height="37">
+        <character x="87" y="408" width="24" height="33" char="G" />
+        <character x="111" y="408" width="28" height="30" char="O" />
+        <character x="139" y="407" width="24" height="32" char="O" />
+        <character x="164" y="406" width="27" height="32" char="D" />
+        <character x="199" y="407" width="20" height="31" char="B" />
+        <character x="220" y="406" width="20" height="34" char="Y" />
+        <character x="241" y="404" width="21" height="35" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>5</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

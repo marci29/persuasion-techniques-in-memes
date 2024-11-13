@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010098.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="117" y="41" width="73" height="67">
+        <character x="117" y="41" width="73" height="67" char="회" />
+      </word>
+      <word x="345" y="49" width="221" height="49">
+        <character x="345" y="53" width="27" height="43" char="T" />
+        <character x="385" y="55" width="20" height="43" char="4" />
+        <character x="403" y="55" width="24" height="39" char="8" />
+        <character x="429" y="57" width="24" height="35" char="8" />
+        <character x="466" y="55" width="23" height="40" char="8" />
+        <character x="489" y="52" width="26" height="39" char="2" />
+        <character x="514" y="49" width="22" height="45" char="8" />
+        <character x="536" y="52" width="30" height="42" char="8" />
+      </word>
+      <word x="108" y="124" width="447" height="127">
+        <character x="108" y="134" width="112" height="117" char="백" />
+        <character x="270" y="129" width="108" height="118" char="두" />
+        <character x="422" y="124" width="133" height="121" char="산" />
+      </word>
+      <word x="74" y="298" width="497" height="83">
+        <character x="74" y="303" width="89" height="77" char="대" />
+        <character x="168" y="307" width="72" height="71" char="전" />
+        <character x="267" y="301" width="74" height="75" char="바" />
+        <character x="350" y="300" width="62" height="74" char="느" />
+        <character x="411" y="303" width="84" height="78" char="질" />
+        <character x="494" y="298" width="77" height="80" char="방" />
+      </word>
+      <word x="27" y="433" width="549" height="48">
+        <character x="27" y="434" width="25" height="40" char="문" />
+        <character x="53" y="433" width="22" height="38" char="구" />
+        <character x="83" y="439" width="25" height="34" char="완" />
+        <character x="109" y="437" width="21" height="32" char="구" />
+        <character x="136" y="435" width="26" height="43" char="전" />
+        <character x="163" y="435" width="24" height="45" char="기" />
+        <character x="194" y="433" width="25" height="42" char="팩" />
+        <character x="220" y="437" width="22" height="38" char="스" />
+        <character x="369" y="443" width="37" height="38" char="수" />
+        <character x="404" y="441" width="35" height="36" char="입" />
+        <character x="440" y="442" width="32" height="35" char="품" />
+        <character x="501" y="435" width="35" height="36" char="의" />
+        <character x="536" y="438" width="40" height="40" char="류" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

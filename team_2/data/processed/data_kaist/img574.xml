@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03265.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="151" y="187" width="247" height="76">
+        <character x="151" y="187" width="54" height="74" char="S" />
+        <character x="206" y="194" width="52" height="69" char="K" />
+        <character x="258" y="202" width="47" height="52" char="에" />
+        <character x="306" y="200" width="43" height="55" char="너" />
+        <character x="350" y="200" width="48" height="56" char="지" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

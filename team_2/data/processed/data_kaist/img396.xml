@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02902.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="160" y="278" width="307" height="159">
+        <character x="160" y="304" width="51" height="82" char="어" />
+        <character x="210" y="310" width="37" height="70" char="린" />
+        <character x="248" y="300" width="40" height="72" char="이" />
+        <character x="286" y="296" width="44" height="65" char="보" />
+        <character x="332" y="292" width="43" height="67" char="호" />
+        <character x="375" y="284" width="47" height="77" char="구" />
+        <character x="420" y="278" width="47" height="75" char="역" />
+      </word>
+      <word x="167" y="367" width="271" height="70">
+        <character x="167" y="382" width="35" height="55" char="S" />
+        <character x="201" y="386" width="22" height="49" char="C" />
+        <character x="224" y="385" width="22" height="43" char="H" />
+        <character x="244" y="384" width="29" height="44" char="O" />
+        <character x="273" y="379" width="23" height="44" char="O" />
+        <character x="297" y="377" width="19" height="45" char="L" />
+        <character x="328" y="371" width="30" height="44" char="Z" />
+        <character x="355" y="370" width="27" height="45" char="O" />
+        <character x="380" y="368" width="27" height="45" char="N" />
+        <character x="404" y="367" width="34" height="44" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

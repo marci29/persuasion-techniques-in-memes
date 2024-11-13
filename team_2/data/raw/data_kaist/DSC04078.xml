@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04078.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="52" y="225" width="204" height="50">
+        <character x="52" y="226" width="34" height="46" char="즐" />
+        <character x="87" y="228" width="39" height="47" char="거" />
+        <character x="127" y="225" width="38" height="50" char="운" />
+        <character x="163" y="225" width="46" height="49" char="세" />
+        <character x="209" y="225" width="47" height="50" char="상" />
+      </word>
+      <word x="24" y="278" width="592" height="92">
+        <character x="24" y="284" width="80" height="86" char="퍼" />
+        <character x="103" y="284" width="73" height="86" char="니" />
+        <character x="177" y="287" width="79" height="79" char="마" />
+        <character x="255" y="279" width="79" height="88" char="우" />
+        <character x="334" y="282" width="84" height="82" char="스" />
+        <character x="414" y="281" width="53" height="80" char="P" />
+        <character x="464" y="281" width="63" height="82" char="C" />
+        <character x="527" y="278" width="89" height="84" char="방" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

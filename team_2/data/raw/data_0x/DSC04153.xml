@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04153.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="138" y="192" width="478" height="81">
+        <character x="138" y="197" width="68" height="76" char="3" />
+        <character x="206" y="193" width="71" height="77" char="C" />
+        <character x="276" y="195" width="87" height="78" char="당" />
+        <character x="362" y="192" width="76" height="79" char="구" />
+        <character x="439" y="194" width="86" height="77" char="클" />
+        <character x="523" y="194" width="93" height="77" char="럽" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03060.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="45" y="70" width="320" height="81">
+        <character x="45" y="70" width="45" height="81" char="삼" />
+        <character x="89" y="70" width="42" height="75" char="성" />
+        <character x="131" y="71" width="46" height="71" char="H" />
+        <character x="174" y="71" width="46" height="75" char="T" />
+        <character x="222" y="72" width="46" height="70" char="H" />
+        <character x="277" y="73" width="43" height="73" char="택" />
+        <character x="321" y="71" width="44" height="76" char="배" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>5</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

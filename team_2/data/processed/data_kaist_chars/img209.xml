@@ -1,7 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="141" y="48" width="61" height="174" char="i" />
-        <character x="239" y="91" width="96" height="118" char="Z" />
-        <character x="351" y="84" width="37" height="121" char="I" />
-        <character x="402" y="79" width="110" height="129" char="N" />
+    <all_chars><character x="25" y="155" width="70" height="69" char="S" />
+        <character x="85" y="176" width="56" height="70" char="p" />
+        <character x="140" y="170" width="52" height="50" char="o" />
+        <character x="191" y="171" width="41" height="52" char="r" />
+        <character x="230" y="156" width="36" height="68" char="t" />
+        <character x="265" y="169" width="44" height="62" char="s" />
+        <character x="335" y="163" width="81" height="66" char="W" />
+        <character x="404" y="174" width="57" height="52" char="e" />
+        <character x="459" y="160" width="46" height="66" char="a" />
+        <character x="504" y="162" width="52" height="64" char="r" />
+      <character x="1" y="89" width="19" height="35" char="G" />
+        <character x="34" y="87" width="21" height="34" char="Y" />
+        <character x="54" y="87" width="24" height="33" char="O" />
+        <character x="79" y="87" width="23" height="33" char="U" />
+        <character x="103" y="92" width="24" height="26" char="N" />
+        <character x="128" y="89" width="27" height="34" char="G" />
+      <character x="113" y="275" width="41" height="45" char="남" />
+        <character x="171" y="274" width="35" height="40" char="여" />
+        <character x="219" y="272" width="37" height="45" char="스" />
+        <character x="255" y="270" width="38" height="48" char="포" />
+        <character x="294" y="273" width="38" height="40" char="츠" />
+        <character x="345" y="272" width="38" height="42" char="캐" />
+        <character x="383" y="273" width="37" height="43" char="쥬" />
+        <character x="419" y="273" width="48" height="41" char="얼" />
       </all_chars></root>

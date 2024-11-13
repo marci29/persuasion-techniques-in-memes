@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02919.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="78" y="64" width="559" height="412">
+        <character x="78" y="250" width="61" height="58" char="장" />
+        <character x="139" y="250" width="60" height="58" char="옥" />
+        <character x="197" y="249" width="67" height="61" char="례" />
+        <character x="264" y="247" width="64" height="58" char="양" />
+        <character x="326" y="245" width="67" height="53" char="철" />
+        <character x="394" y="245" width="68" height="58" char="집" />
+      </word>
+      <word x="241" y="64" width="314" height="95">
+        <character x="241" y="67" width="80" height="92" char="벨" />
+        <character x="348" y="74" width="86" height="69" char="스" />
+        <character x="464" y="64" width="91" height="76" char="킨" />
+      </word>
+      <word x="83" y="348" width="554" height="128">
+        <character x="83" y="356" width="116" height="117" char="o" />
+        <character x="196" y="353" width="156" height="123" char="p" />
+        <character x="354" y="353" width="142" height="114" char="e" />
+        <character x="501" y="348" width="136" height="116" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

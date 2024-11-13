@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03129.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="246" y="200" width="175" height="100">
+        <character x="282" y="260" width="32" height="38" char="초" />
+        <character x="314" y="258" width="36" height="39" char="가" />
+        <character x="350" y="257" width="34" height="43" char="집" />
+      </word>
+      <word x="246" y="200" width="175" height="53">
+        <character x="246" y="204" width="41" height="41" char="C" />
+        <character x="287" y="201" width="23" height="48" char="h" />
+        <character x="311" y="210" width="22" height="33" char="o" />
+        <character x="333" y="211" width="25" height="42" char="g" />
+        <character x="355" y="211" width="25" height="32" char="o" />
+        <character x="378" y="200" width="13" height="52" char="j" />
+        <character x="389" y="200" width="9" height="44" char="i" />
+        <character x="400" y="209" width="21" height="39" char="p" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

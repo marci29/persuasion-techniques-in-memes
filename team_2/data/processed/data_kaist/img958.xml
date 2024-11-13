@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04444.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="70" y="14" width="534" height="450">
+        <character x="70" y="18" width="137" height="133" char="퍼" />
+        <character x="203" y="14" width="135" height="131" char="니" />
+        <character x="334" y="16" width="130" height="171" char="박" />
+        <character x="462" y="14" width="142" height="131" char="스" />
+      </word>
+      <word x="77" y="179" width="513" height="285">
+        <character x="77" y="181" width="158" height="234" char="P" />
+        <character x="233" y="179" width="194" height="246" char="C" />
+        <character x="427" y="239" width="163" height="225" char="방" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

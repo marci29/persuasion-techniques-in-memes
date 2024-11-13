@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03660.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="191" y="30" width="309" height="105">
+        <character x="191" y="38" width="65" height="57" char="만" />
+        <character x="266" y="35" width="63" height="56" char="년" />
+        <character x="337" y="32" width="68" height="59" char="커" />
+        <character x="417" y="30" width="83" height="58" char="튼" />
+      </word>
+      <word x="2147483647" y="2147483647" width="-2147483647" height="-2147483647" />
+      <word x="223" y="91" width="262" height="44">
+        <character x="223" y="102" width="35" height="32" char="T" />
+        <character x="277" y="99" width="33" height="30" char="4" />
+        <character x="309" y="94" width="26" height="35" char="8" />
+        <character x="331" y="93" width="29" height="42" char="7" />
+        <character x="377" y="97" width="28" height="38" char="0" />
+        <character x="404" y="95" width="27" height="39" char="8" />
+        <character x="431" y="91" width="24" height="37" char="7" />
+        <character x="456" y="96" width="29" height="34" char="2" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

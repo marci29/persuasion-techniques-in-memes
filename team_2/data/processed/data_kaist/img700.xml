@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03617.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="115" y="202" width="369" height="226">
+        <character x="115" y="387" width="24" height="41" char="T" />
+        <character x="140" y="384" width="19" height="43" char="E" />
+        <character x="158" y="389" width="22" height="37" char="L" />
+        <character x="202" y="377" width="41" height="51" char="4" />
+        <character x="244" y="377" width="27" height="46" char="8" />
+        <character x="272" y="377" width="37" height="50" char="3" />
+        <character x="351" y="380" width="25" height="46" char="1" />
+        <character x="377" y="378" width="25" height="47" char="1" />
+        <character x="404" y="383" width="38" height="41" char="8" />
+        <character x="442" y="383" width="42" height="38" char="8" />
+        <character x="230" y="202" width="222" height="144" char="쌀" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

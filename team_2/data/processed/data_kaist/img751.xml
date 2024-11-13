@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03716.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="12" y="121" width="626" height="166">
+        <character x="12" y="233" width="35" height="48" char="미" />
+        <character x="50" y="239" width="34" height="42" char="술" />
+        <character x="76" y="124" width="98" height="147" char="홍" />
+        <character x="174" y="121" width="84" height="143" char="익" />
+        <character x="259" y="128" width="68" height="87" char="크" />
+        <character x="326" y="129" width="82" height="98" char="레" />
+        <character x="410" y="130" width="75" height="86" char="파" />
+        <character x="487" y="127" width="86" height="90" char="스" />
+        <character x="259" y="239" width="13" height="34" char="H" />
+        <character x="271" y="239" width="17" height="34" char="O" />
+        <character x="289" y="238" width="14" height="35" char="N" />
+        <character x="303" y="237" width="16" height="35" char="G" />
+        <character x="321" y="235" width="9" height="36" char="I" />
+        <character x="329" y="234" width="15" height="36" char="K" />
+        <character x="345" y="238" width="19" height="33" char="C" />
+        <character x="363" y="239" width="11" height="32" char="E" />
+        <character x="375" y="238" width="13" height="37" char="R" />
+        <character x="389" y="237" width="13" height="36" char="A" />
+        <character x="400" y="237" width="12" height="32" char="P" />
+        <character x="414" y="239" width="13" height="34" char="A" />
+        <character x="427" y="240" width="17" height="34" char="S" />
+        <character x="528" y="253" width="23" height="34" char="4" />
+        <character x="552" y="253" width="12" height="30" char="8" />
+        <character x="562" y="251" width="19" height="35" char="4" />
+        <character x="588" y="254" width="18" height="31" char="8" />
+        <character x="605" y="251" width="10" height="33" char="1" />
+        <character x="615" y="250" width="14" height="33" char="6" />
+        <character x="628" y="249" width="10" height="33" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>5</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

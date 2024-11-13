@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831013.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="125" y="111" width="410" height="80">
+        <character x="125" y="111" width="75" height="67" char="학" />
+        <character x="234" y="113" width="73" height="70" char="사" />
+        <character x="329" y="122" width="81" height="69" char="과" />
+        <character x="433" y="126" width="102" height="57" char="정" />
+      </word>
+      <word x="86" y="180" width="471" height="73">
+        <character x="86" y="184" width="53" height="54" char="U" />
+        <character x="136" y="194" width="43" height="49" char="n" />
+        <character x="184" y="180" width="32" height="65" char="d" />
+        <character x="214" y="195" width="44" height="58" char="e" />
+        <character x="258" y="195" width="20" height="48" char="r" />
+        <character x="280" y="199" width="35" height="53" char="g" />
+        <character x="319" y="192" width="27" height="45" char="r" />
+        <character x="347" y="200" width="32" height="41" char="a" />
+        <character x="380" y="188" width="37" height="56" char="d" />
+        <character x="413" y="201" width="42" height="43" char="u" />
+        <character x="455" y="201" width="35" height="44" char="a" />
+        <character x="492" y="190" width="19" height="56" char="t" />
+        <character x="513" y="199" width="44" height="52" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

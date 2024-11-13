@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02926.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="44" y="130" width="515" height="62">
+        <character x="373" y="155" width="27" height="35" char="4" />
+        <character x="399" y="151" width="22" height="31" char="7" />
+        <character x="423" y="151" width="15" height="33" char="1" />
+        <character x="465" y="151" width="22" height="30" char="2" />
+        <character x="487" y="150" width="22" height="36" char="3" />
+        <character x="505" y="152" width="25" height="29" char="2" />
+        <character x="531" y="146" width="28" height="34" char="0" />
+      </word>
+      <word x="44" y="130" width="230" height="62">
+        <character x="44" y="148" width="32" height="43" char="e" />
+        <character x="72" y="130" width="35" height="59" char="C" />
+        <character x="109" y="138" width="29" height="42" char="o" />
+        <character x="138" y="137" width="25" height="49" char="s" />
+        <character x="165" y="136" width="37" height="42" char="w" />
+        <character x="202" y="136" width="30" height="42" char="a" />
+        <character x="232" y="131" width="42" height="61" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

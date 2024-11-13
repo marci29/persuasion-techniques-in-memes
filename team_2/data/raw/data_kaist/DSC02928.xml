@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02928.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="334" y="385" width="176" height="55">
+        <character x="334" y="390" width="28" height="41" char="e" />
+        <character x="363" y="385" width="23" height="45" char="C" />
+        <character x="385" y="393" width="23" height="34" char="o" />
+        <character x="408" y="390" width="22" height="38" char="s" />
+        <character x="432" y="386" width="26" height="41" char="w" />
+        <character x="457" y="393" width="20" height="36" char="a" />
+        <character x="477" y="389" width="33" height="51" char="y" />
+      </word>
+      <word x="37" y="9" width="618" height="116">
+        <character x="37" y="27" width="86" height="98" char="친" />
+        <character x="120" y="23" width="88" height="94" char="환" />
+        <character x="207" y="20" width="81" height="96" char="경" />
+        <character x="306" y="15" width="82" height="91" char="웰" />
+        <character x="389" y="15" width="80" height="93" char="빙" />
+        <character x="469" y="15" width="98" height="79" char="타" />
+        <character x="566" y="9" width="89" height="88" char="운" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,12 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="70" y="177" width="56" height="65" char="S" />
-        <character x="127" y="191" width="45" height="72" char="p" />
-        <character x="170" y="189" width="46" height="53" char="e" />
-        <character x="216" y="194" width="45" height="53" char="e" />
-        <character x="260" y="186" width="47" height="59" char="d" />
-        <character x="421" y="181" width="68" height="73" char="M" />
-        <character x="488" y="203" width="42" height="50" char="a" />
-        <character x="524" y="193" width="35" height="53" char="t" />
-        <character x="558" y="205" width="45" height="47" char="e" />
+    <all_chars><character x="270" y="114" width="49" height="61" char="피" />
+        <character x="319" y="114" width="46" height="61" char="자" />
+        <character x="366" y="113" width="43" height="66" char="명" />
+        <character x="409" y="112" width="48" height="64" char="가" />
+        <character x="478" y="115" width="46" height="58" char="치" />
+        <character x="523" y="113" width="56" height="63" char="킨" />
+      <character x="66" y="172" width="54" height="81" char="P" />
+        <character x="120" y="171" width="18" height="84" char="i" />
+        <character x="138" y="185" width="27" height="62" char="z" />
+        <character x="164" y="184" width="28" height="65" char="z" />
+        <character x="193" y="185" width="39" height="65" char="a" />
+        <character x="268" y="180" width="65" height="71" char="M" />
+        <character x="333" y="188" width="32" height="63" char="y" />
+        <character x="365" y="188" width="33" height="64" char="o" />
+        <character x="401" y="188" width="35" height="67" char="u" />
+        <character x="437" y="186" width="33" height="69" char="n" />
+        <character x="469" y="183" width="37" height="70" char="g" />
+        <character x="506" y="182" width="34" height="73" char="g" />
+        <character x="540" y="187" width="44" height="68" char="a" />
       </all_chars></root>

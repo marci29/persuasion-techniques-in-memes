@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831122.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="259" y="250" width="201" height="89">
+        <character x="259" y="250" width="56" height="70" char="C" />
+        <character x="315" y="252" width="21" height="70" char="i" />
+        <character x="337" y="267" width="30" height="72" char="g" />
+        <character x="365" y="269" width="35" height="47" char="a" />
+        <character x="400" y="266" width="26" height="48" char="r" />
+        <character x="425" y="269" width="35" height="44" char="e" />
+      </word>
+      <word x="141" y="28" width="402" height="209">
+        <character x="141" y="32" width="200" height="198" char="시" />
+        <character x="359" y="28" width="184" height="209" char="가" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

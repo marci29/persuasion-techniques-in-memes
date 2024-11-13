@@ -1,8 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="51" y="220" width="134" height="150" char="Q" />
-        <character x="187" y="230" width="86" height="123" char="u" />
-        <character x="268" y="240" width="103" height="98" char="e" />
-        <character x="369" y="239" width="90" height="99" char="e" />
-        <character x="464" y="236" width="111" height="100" char="n" />
+    <all_chars><character x="356" y="175" width="28" height="23" char="M" />
+        <character x="262" y="199" width="19" height="20" char="P" />
+        <character x="281" y="201" width="14" height="16" char="L" />
+        <character x="295" y="199" width="17" height="22" char="A" />
+        <character x="312" y="197" width="15" height="25" char="Z" />
+        <character x="327" y="197" width="19" height="22" char="A" />
+        <character x="231" y="174" width="21" height="23" char="M" />
+        <character x="253" y="171" width="8" height="28" char="I" />
+        <character x="261" y="174" width="10" height="20" char="L" />
+        <character x="269" y="174" width="15" height="22" char="L" />
+        <character x="284" y="177" width="13" height="19" char="E" />
+        <character x="296" y="177" width="19" height="16" char="N" />
+        <character x="315" y="178" width="19" height="18" char="N" />
+        <character x="334" y="178" width="9" height="18" char="I" />
+        <character x="343" y="175" width="15" height="22" char="U" />
+      <character x="201" y="254" width="31" height="34" char="지" />
+        <character x="233" y="254" width="29" height="36" char="하" />
+        <character x="261" y="256" width="15" height="31" char="1" />
+        <character x="276" y="255" width="34" height="41" char="층" />
+        <character x="320" y="257" width="27" height="35" char="식" />
+        <character x="346" y="258" width="32" height="32" char="당" />
+        <character x="377" y="257" width="32" height="41" char="가" />
       </all_chars></root>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03842.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="203" y="137" width="237" height="134">
+        <character x="203" y="139" width="36" height="62" char="리" />
+        <character x="237" y="139" width="33" height="45" char="더" />
+        <character x="270" y="137" width="27" height="47" char="스" />
+        <character x="301" y="142" width="28" height="41" char="스" />
+        <character x="329" y="141" width="26" height="45" char="크" />
+        <character x="355" y="144" width="31" height="39" char="린" />
+        <character x="385" y="141" width="31" height="62" char="골" />
+        <character x="414" y="145" width="26" height="41" char="프" />
+      </word>
+      <word x="220" y="226" width="170" height="45">
+        <character x="220" y="226" width="27" height="41" char="4" />
+        <character x="246" y="228" width="20" height="40" char="7" />
+        <character x="269" y="228" width="16" height="36" char="1" />
+        <character x="299" y="228" width="22" height="41" char="0" />
+        <character x="322" y="228" width="23" height="38" char="0" />
+        <character x="345" y="227" width="22" height="44" char="4" />
+        <character x="367" y="228" width="23" height="42" char="0" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

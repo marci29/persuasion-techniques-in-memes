@@ -1,7 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="1600" y="1200" />
-    <all_chars><character x="455" y="519" width="157" height="202" char="O" />
-        <character x="615" y="513" width="152" height="205" char="P" />
-        <character x="772" y="508" width="157" height="207" char="E" />
-        <character x="932" y="505" width="172" height="213" char="N" />
+    <all_chars><character x="131" y="565" width="48" height="178" char="I" />
+        <character x="186" y="560" width="133" height="174" char="N" />
+        <character x="327" y="558" width="112" height="178" char="F" />
+        <character x="441" y="557" width="149" height="179" char="O" />
+        <character x="595" y="559" width="130" height="169" char="R" />
+        <character x="730" y="555" width="146" height="184" char="M" />
+        <character x="879" y="552" width="121" height="178" char="A" />
+        <character x="976" y="561" width="112" height="154" char="T" />
+        <character x="1093" y="559" width="34" height="151" char="I" />
+        <character x="1131" y="551" width="131" height="163" char="O" />
+        <character x="1263" y="547" width="118" height="169" char="N" />
+      <character x="367" y="1115" width="70" height="82" char="토" />
+        <character x="438" y="1115" width="65" height="80" char="파" />
+        <character x="504" y="1115" width="67" height="77" char="즈" />
+      <character x="1020" y="1087" width="58" height="71" char="러" />
+        <character x="1077" y="1079" width="67" height="77" char="리" />
+        <character x="952" y="1089" width="63" height="76" char="갤" />
+        <character x="1156" y="1071" width="61" height="72" char="H" />
+      <character x="593" y="1109" width="74" height="85" char="문" />
+        <character x="667" y="1107" width="65" height="76" char="화" />
+        <character x="733" y="1098" width="64" height="88" char="행" />
+        <character x="799" y="1096" width="62" height="88" char="사" />
+        <character x="863" y="1094" width="68" height="84" char="장" />
       </all_chars></root>

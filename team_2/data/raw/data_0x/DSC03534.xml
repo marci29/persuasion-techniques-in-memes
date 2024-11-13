@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03534.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="25" y="25" width="573" height="311">
+        <character x="259" y="284" width="33" height="46" char="2" />
+        <character x="290" y="287" width="29" height="44" char="5" />
+        <character x="319" y="286" width="30" height="46" char="0" />
+        <character x="349" y="298" width="46" height="38" char="m" />
+        <character x="50" y="28" width="36" height="44" char="계" />
+        <character x="87" y="28" width="28" height="44" char="룡" />
+        <character x="115" y="27" width="29" height="43" char="건" />
+        <character x="145" y="25" width="33" height="50" char="설" />
+      </word>
+      <word x="25" y="132" width="573" height="109">
+        <character x="25" y="132" width="51" height="87" char="K" />
+        <character x="75" y="133" width="22" height="90" char="I" />
+        <character x="96" y="134" width="59" height="91" char="빌" />
+        <character x="155" y="132" width="58" height="95" char="딩" />
+        <character x="215" y="136" width="69" height="93" char="신" />
+        <character x="283" y="133" width="59" height="98" char="축" />
+        <character x="341" y="137" width="65" height="99" char="공" />
+        <character x="405" y="135" width="64" height="100" char="사" />
+        <character x="469" y="139" width="60" height="101" char="현" />
+        <character x="528" y="138" width="70" height="103" char="장" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

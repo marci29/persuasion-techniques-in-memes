@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03054.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="288" y="218" width="271" height="105">
+        <character x="288" y="225" width="60" height="98" char="L" />
+        <character x="346" y="218" width="65" height="105" char="G" />
+        <character x="410" y="233" width="75" height="88" char="전" />
+        <character x="484" y="232" width="75" height="85" char="자" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

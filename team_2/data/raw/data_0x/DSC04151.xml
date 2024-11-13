@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04151.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="61" y="210" width="519" height="169">
+        <character x="61" y="332" width="30" height="37" char="C" />
+        <character x="92" y="339" width="20" height="30" char="a" />
+        <character x="113" y="333" width="18" height="35" char="f" />
+        <character x="130" y="337" width="23" height="34" char="e" />
+        <character x="169" y="238" width="91" height="100" char="G" />
+        <character x="261" y="238" width="75" height="97" char="U" />
+        <character x="334" y="238" width="84" height="105" char="E" />
+        <character x="415" y="238" width="74" height="95" char="S" />
+        <character x="488" y="249" width="91" height="90" char="T" />
+      </word>
+      <word x="492" y="210" width="88" height="38">
+        <character x="492" y="211" width="33" height="37" char="게" />
+        <character x="524" y="210" width="25" height="34" char="스" />
+        <character x="549" y="211" width="31" height="31" char="트" />
+      </word>
+      <word x="420" y="344" width="152" height="35">
+        <character x="420" y="344" width="23" height="30" char="4" />
+        <character x="448" y="346" width="17" height="28" char="8" />
+        <character x="470" y="346" width="15" height="26" char="7" />
+        <character x="489" y="349" width="18" height="27" char="6" />
+        <character x="512" y="349" width="17" height="25" char="2" />
+        <character x="537" y="350" width="12" height="26" char="4" />
+        <character x="557" y="349" width="15" height="30" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

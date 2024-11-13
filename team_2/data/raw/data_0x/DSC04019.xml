@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04019.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="86" y="139" width="475" height="69">
+        <character x="86" y="145" width="62" height="59" char="스" />
+        <character x="148" y="144" width="52" height="64" char="테" />
+        <character x="199" y="143" width="53" height="62" char="이" />
+        <character x="252" y="146" width="55" height="56" char="크" />
+        <character x="303" y="142" width="43" height="57" char="V" />
+        <character x="344" y="141" width="16" height="64" char="I" />
+        <character x="360" y="140" width="33" height="60" char="P" />
+        <character x="392" y="141" width="53" height="61" char="토" />
+        <character x="442" y="140" width="58" height="59" char="스" />
+        <character x="500" y="139" width="61" height="63" char="트" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

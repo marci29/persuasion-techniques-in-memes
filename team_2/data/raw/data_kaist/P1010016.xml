@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010016.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="233" y="152" width="291" height="136">
+        <character x="233" y="157" width="65" height="100" char="G" />
+        <character x="298" y="179" width="42" height="75" char="a" />
+        <character x="335" y="154" width="31" height="98" char="l" />
+        <character x="364" y="152" width="30" height="102" char="l" />
+        <character x="396" y="183" width="38" height="70" char="e" />
+        <character x="431" y="180" width="44" height="70" char="r" />
+        <character x="475" y="179" width="49" height="100" char="y" />
+      </word>
+      <word x="377" y="253" width="90" height="35">
+        <character x="377" y="255" width="31" height="32" char="갤" />
+        <character x="409" y="253" width="29" height="32" char="러" />
+        <character x="440" y="253" width="27" height="35" char="리" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

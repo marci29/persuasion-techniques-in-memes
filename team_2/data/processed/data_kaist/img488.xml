@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03093.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="217" y="107" width="406" height="151">
+        <character x="217" y="107" width="61" height="89" char="P" />
+        <character x="279" y="142" width="35" height="51" char="e" />
+        <character x="313" y="138" width="34" height="52" char="r" />
+        <character x="346" y="117" width="24" height="73" char="i" />
+        <character x="369" y="133" width="47" height="56" char="o" />
+        <character x="412" y="113" width="52" height="75" char="d" />
+        <character x="464" y="116" width="24" height="74" char="i" />
+        <character x="488" y="148" width="37" height="41" char="c" />
+        <character x="522" y="138" width="42" height="53" char="a" />
+        <character x="558" y="116" width="28" height="75" char="l" />
+        <character x="586" y="128" width="37" height="66" char="s" />
+      </word>
+      <word x="286" y="200" width="265" height="58">
+        <character x="286" y="200" width="40" height="51" char="B" />
+        <character x="325" y="210" width="28" height="47" char="a" />
+        <character x="353" y="211" width="28" height="47" char="c" />
+        <character x="382" y="205" width="29" height="53" char="k" />
+        <character x="420" y="200" width="19" height="55" char="i" />
+        <character x="439" y="209" width="24" height="46" char="s" />
+        <character x="460" y="207" width="24" height="50" char="s" />
+        <character x="484" y="204" width="37" height="54" char="u" />
+        <character x="520" y="216" width="31" height="39" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

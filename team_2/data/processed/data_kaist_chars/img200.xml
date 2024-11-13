@@ -1,25 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="57" y="143" width="44" height="43" char="w" />
-        <character x="101" y="142" width="38" height="45" char="w" />
-        <character x="139" y="144" width="36" height="48" char="w" />
-        <character x="181" y="146" width="21" height="36" char="c" />
-        <character x="202" y="144" width="24" height="41" char="h" />
-        <character x="226" y="140" width="9" height="40" char="i" />
-        <character x="235" y="140" width="10" height="51" char="j" />
-        <character x="244" y="138" width="10" height="40" char="i" />
-        <character x="254" y="139" width="10" height="48" char="l" />
-        <character x="269" y="143" width="26" height="35" char="c" />
-        <character x="295" y="151" width="21" height="30" char="o" />
-        <character x="318" y="147" width="35" height="34" char="m" />
-        <character x="371" y="146" width="22" height="35" char="T" />
-        <character x="404" y="147" width="20" height="36" char="4" />
-        <character x="425" y="149" width="14" height="32" char="8" />
-        <character x="440" y="147" width="17" height="35" char="6" />
-        <character x="469" y="150" width="18" height="32" char="6" />
-        <character x="488" y="148" width="13" height="33" char="1" />
-        <character x="502" y="146" width="18" height="34" char="0" />
-        <character x="522" y="146" width="18" height="36" char="0" />
-        <character x="566" y="146" width="19" height="35" char="3" />
-        <character x="585" y="142" width="21" height="38" char="F" />
+    <all_chars><character x="75" y="119" width="158" height="144" char="M" />
+        <character x="238" y="116" width="60" height="151" char="I" />
+        <character x="300" y="117" width="122" height="143" char="N" />
+        <character x="428" y="120" width="57" height="143" char="I" />
+        <character x="62" y="269" width="103" height="138" char="S" />
+        <character x="165" y="269" width="91" height="140" char="T" />
+        <character x="258" y="267" width="131" height="142" char="O" />
+        <character x="392" y="269" width="113" height="138" char="P" />
       </all_chars></root>

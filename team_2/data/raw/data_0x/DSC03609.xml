@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03609.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="31" y="367" width="579" height="95">
+        <character x="31" y="367" width="48" height="84" char="C" />
+        <character x="80" y="373" width="48" height="83" char="C" />
+        <character x="129" y="372" width="38" height="80" char="T" />
+        <character x="167" y="375" width="45" height="82" char="V" />
+        <character x="227" y="375" width="64" height="87" char="설" />
+        <character x="292" y="373" width="57" height="82" char="치" />
+        <character x="364" y="377" width="65" height="83" char="운" />
+        <character x="431" y="374" width="55" height="81" char="영" />
+        <character x="497" y="378" width="61" height="75" char="안" />
+        <character x="555" y="377" width="55" height="77" char="내" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

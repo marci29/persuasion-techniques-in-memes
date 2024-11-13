@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03658.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="111" y="279" width="468" height="173">
+        <character x="111" y="281" width="112" height="125" char="칼" />
+        <character x="220" y="284" width="91" height="119" char="라" />
+        <character x="310" y="284" width="94" height="123" char="헤" />
+        <character x="404" y="285" width="82" height="117" char="어" />
+        <character x="484" y="279" width="95" height="126" char="샵" />
+      </word>
+      <word x="272" y="409" width="183" height="43">
+        <character x="272" y="417" width="23" height="34" char="T" />
+        <character x="299" y="418" width="22" height="33" char="4" />
+        <character x="321" y="416" width="16" height="36" char="8" />
+        <character x="337" y="415" width="19" height="34" char="5" />
+        <character x="376" y="414" width="23" height="35" char="0" />
+        <character x="399" y="411" width="19" height="40" char="0" />
+        <character x="418" y="410" width="14" height="40" char="1" />
+        <character x="433" y="409" width="22" height="40" char="7" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

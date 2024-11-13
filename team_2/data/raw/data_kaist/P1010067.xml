@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010067.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="69" y="26" width="522" height="105">
+        <character x="498" y="26" width="93" height="77" char="실" />
+        <character x="203" y="49" width="92" height="75" char="오" />
+        <character x="349" y="34" width="88" height="75" char="락" />
+        <character x="81" y="60" width="38" height="38" char="경" />
+        <character x="124" y="60" width="44" height="27" char="품" />
+        <character x="69" y="100" width="40" height="31" char="종" />
+        <character x="118" y="99" width="42" height="31" char="합" />
+      </word>
+      <word x="4" y="174" width="632" height="141">
+        <character x="4" y="246" width="83" height="69" char="덕" />
+        <character x="17" y="185" width="79" height="61" char="대" />
+        <character x="96" y="182" width="108" height="119" char="카" />
+        <character x="207" y="174" width="124" height="123" char="서" />
+        <character x="346" y="174" width="133" height="123" char="비" />
+        <character x="489" y="175" width="147" height="119" char="스" />
+      </word>
+      <word x="38" y="314" width="144" height="58">
+        <character x="38" y="314" width="54" height="51" char="지" />
+        <character x="100" y="316" width="51" height="50" char="하" />
+        <character x="160" y="317" width="22" height="55" char="1" />
+      </word>
+      <word x="289" y="298" width="344" height="69">
+        <character x="289" y="306" width="44" height="61" char="T" />
+        <character x="351" y="308" width="29" height="59" char="4" />
+        <character x="379" y="311" width="40" height="54" char="8" />
+        <character x="420" y="310" width="39" height="54" char="8" />
+        <character x="482" y="306" width="46" height="57" char="8" />
+        <character x="529" y="310" width="27" height="55" char="1" />
+        <character x="553" y="298" width="33" height="69" char="7" />
+        <character x="586" y="306" width="47" height="58" char="0" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03340.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="72" y="245" width="536" height="102">
+        <character x="72" y="273" width="74" height="72" char="전" />
+        <character x="145" y="279" width="68" height="67" char="품" />
+        <character x="213" y="276" width="66" height="66" char="목" />
+        <character x="291" y="252" width="82" height="95" char="3" />
+        <character x="372" y="245" width="101" height="94" char="0" />
+        <character x="517" y="291" width="41" height="45" char="o" />
+        <character x="559" y="284" width="24" height="45" char="f" />
+        <character x="582" y="282" width="26" height="50" char="f" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

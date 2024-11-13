@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="197" y="130" width="96" height="74" char="G" />
-        <character x="286" y="127" width="46" height="83" char="I" />
-        <character x="318" y="134" width="79" height="67" char="A" />
-        <character x="396" y="130" width="91" height="72" char="N" />
-        <character x="487" y="133" width="78" height="70" char="T" />
+    <all_chars><character x="50" y="177" width="109" height="88" char="E" />
+        <character x="161" y="172" width="124" height="91" char="V" />
+        <character x="281" y="171" width="115" height="103" char="E" />
+        <character x="394" y="167" width="120" height="101" char="N" />
+        <character x="514" y="164" width="118" height="106" char="T" />
       </all_chars></root>

@@ -1,0 +1,37 @@
+<annotation>
+  <filename>prop_meme_138.png</filename>
+  <object>
+    <label>50</label>
+    <name>o</name>
+    <robndbox>
+      <cx>488</cx>
+      <cy>483</cy>
+      <h>61</h>
+      <w>40</w>
+    </robndbox>
+  </object>
+  <object>
+    <label>49</label>
+    <name>n</name>
+    <robndbox>
+      <cx>522</cx>
+      <cy>676</cy>
+      <h>62</h>
+      <w>48</w>
+    </robndbox>
+  </object>
+  <object>
+    <label>40</label>
+    <name>e</name>
+    <robndbox>
+      <cx>207</cx>
+      <cy>674</cy>
+      <h>65</h>
+      <w>46</w>
+    </robndbox>
+  </object>
+  <size>
+    <height>904</height>
+    <width>960</width>
+  </size>
+</annotation>

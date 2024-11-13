@@ -1,7 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="208" y="190" width="78" height="91" char="J" />
-        <character x="287" y="212" width="54" height="64" char="e" />
-        <character x="342" y="187" width="29" height="121" char="j" />
-        <character x="371" y="201" width="62" height="78" char="u" />
+    <all_chars><character x="0" y="251" width="51" height="69" char="C" />
+      <character x="52" y="265" width="37" height="51" char="a" />
+      <character x="92" y="244" width="24" height="73" char="f" />
+      <character x="117" y="262" width="47" height="49" char="e" />
+      <character x="201" y="238" width="61" height="80" char="스" />
+      <character x="272" y="237" width="76" height="72" char="터" />
+      <character x="366" y="232" width="61" height="72" char="디" />
+      <character x="444" y="231" width="79" height="75" char="베" />
+      <character x="536" y="227" width="77" height="74" char="어" />
       </all_chars></root>

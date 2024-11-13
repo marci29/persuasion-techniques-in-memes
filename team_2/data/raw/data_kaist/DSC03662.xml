@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03662.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="37" y="150" width="568" height="322">
+        <character x="40" y="241" width="114" height="151" char="주" />
+        <character x="151" y="238" width="109" height="160" char="성" />
+        <character x="260" y="245" width="117" height="150" char="령" />
+        <character x="376" y="241" width="115" height="127" char="교" />
+        <character x="487" y="238" width="113" height="150" char="회" />
+      </word>
+      <word x="223" y="411" width="382" height="61">
+        <character x="223" y="417" width="47" height="55" char="영" />
+        <character x="268" y="416" width="32" height="53" char="성" />
+        <character x="297" y="416" width="38" height="52" char="센" />
+        <character x="335" y="414" width="39" height="50" char="터" />
+        <character x="392" y="419" width="33" height="40" char="T" />
+        <character x="431" y="420" width="28" height="44" char="4" />
+        <character x="459" y="422" width="19" height="41" char="8" />
+        <character x="477" y="417" width="22" height="47" char="2" />
+        <character x="513" y="411" width="28" height="51" char="6" />
+        <character x="542" y="413" width="20" height="49" char="6" />
+        <character x="559" y="413" width="21" height="50" char="7" />
+        <character x="579" y="411" width="26" height="59" char="5" />
+      </word>
+      <word x="37" y="150" width="234" height="63">
+        <character x="37" y="157" width="28" height="55" char="기" />
+        <character x="66" y="153" width="28" height="56" char="독" />
+        <character x="94" y="152" width="33" height="52" char="교" />
+        <character x="124" y="150" width="31" height="57" char="대" />
+        <character x="154" y="156" width="30" height="57" char="한" />
+        <character x="184" y="152" width="32" height="61" char="하" />
+        <character x="217" y="156" width="26" height="48" char="나" />
+        <character x="242" y="155" width="29" height="49" char="님" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

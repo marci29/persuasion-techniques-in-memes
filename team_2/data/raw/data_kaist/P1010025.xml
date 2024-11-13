@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010025.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="37" y="74" width="607" height="210">
+        <character x="37" y="153" width="131" height="103" char="호" />
+        <character x="168" y="162" width="134" height="105" char="프" />
+        <character x="401" y="175" width="130" height="95" char="소" />
+        <character x="533" y="176" width="111" height="108" char="주" />
+        <character x="50" y="74" width="101" height="79" char="믹" />
+        <character x="155" y="86" width="106" height="68" char="스" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

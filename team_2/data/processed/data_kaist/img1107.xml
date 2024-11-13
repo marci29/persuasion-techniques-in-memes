@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010052.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="535" y="179" width="87" height="153">
+        <character x="535" y="179" width="87" height="153" char="방" />
+      </word>
+      <word x="16" y="126" width="232" height="79">
+        <character x="16" y="126" width="77" height="77" char="신" />
+        <character x="91" y="127" width="78" height="68" char="개" />
+        <character x="168" y="126" width="80" height="79" char="념" />
+      </word>
+      <word x="61" y="208" width="253" height="122">
+        <character x="61" y="208" width="96" height="77" char="커" />
+        <character x="157" y="211" width="83" height="119" char="플" />
+        <character x="240" y="211" width="74" height="115" char="룸" />
+      </word>
+      <word x="359" y="119" width="177" height="65">
+        <character x="359" y="120" width="73" height="61" char="M" />
+        <character x="432" y="134" width="40" height="43" char="u" />
+        <character x="472" y="119" width="19" height="60" char="l" />
+        <character x="489" y="131" width="23" height="53" char="t" />
+        <character x="513" y="131" width="23" height="52" char="i" />
+      </word>
+      <word x="365" y="181" width="170" height="158">
+        <character x="365" y="181" width="85" height="158" char="P" />
+        <character x="450" y="182" width="85" height="154" char="C" />
+      </word>
+      <word x="426" y="339" width="169" height="37">
+        <character x="426" y="343" width="28" height="31" char="크" />
+        <character x="453" y="339" width="29" height="37" char="레" />
+        <character x="481" y="340" width="28" height="35" char="이" />
+        <character x="512" y="348" width="24" height="27" char="지" />
+        <character x="535" y="341" width="30" height="34" char="캐" />
+        <character x="564" y="344" width="31" height="29" char="슬" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

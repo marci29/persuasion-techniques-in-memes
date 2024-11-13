@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03258.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="73" y="356" width="395" height="84">
+        <character x="73" y="358" width="66" height="80" char="하" />
+        <character x="139" y="359" width="50" height="81" char="나" />
+        <character x="190" y="359" width="52" height="77" char="산" />
+        <character x="241" y="358" width="53" height="79" char="부" />
+        <character x="293" y="357" width="48" height="81" char="인" />
+        <character x="340" y="356" width="56" height="82" char="과" />
+        <character x="405" y="370" width="34" height="55" char="5" />
+        <character x="437" y="369" width="31" height="56" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

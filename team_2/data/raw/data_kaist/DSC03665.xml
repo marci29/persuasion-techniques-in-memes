@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03665.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="91" y="61" width="537" height="133">
+        <character x="91" y="67" width="100" height="83" char="대" />
+        <character x="187" y="64" width="107" height="79" char="덕" />
+        <character x="294" y="66" width="113" height="79" char="건" />
+        <character x="408" y="64" width="102" height="84" char="강" />
+        <character x="514" y="61" width="114" height="93" char="원" />
+      </word>
+      <word x="202" y="152" width="312" height="42">
+        <character x="202" y="155" width="35" height="39" char="T" />
+        <character x="247" y="156" width="37" height="37" char="4" />
+        <character x="283" y="156" width="37" height="37" char="8" />
+        <character x="316" y="152" width="34" height="42" char="7" />
+        <character x="387" y="155" width="21" height="38" char="1" />
+        <character x="408" y="155" width="36" height="38" char="7" />
+        <character x="445" y="153" width="31" height="39" char="3" />
+        <character x="475" y="153" width="39" height="40" char="3" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03439.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="108" y="322" width="472" height="142">
+        <character x="191" y="341" width="47" height="68" char="주" />
+        <character x="238" y="340" width="51" height="59" char="차" />
+        <character x="291" y="338" width="52" height="67" char="장" />
+        <character x="354" y="331" width="50" height="64" char="입" />
+        <character x="402" y="323" width="55" height="69" char="구" />
+        <character x="108" y="349" width="53" height="67" char="P" />
+        <character x="488" y="323" width="25" height="74" char="I" />
+        <character x="515" y="322" width="65" height="73" char="N" />
+      </word>
+      <word x="210" y="416" width="200" height="48">
+        <character x="210" y="423" width="27" height="40" char="제" />
+        <character x="237" y="423" width="30" height="38" char="한" />
+        <character x="267" y="420" width="26" height="44" char="높" />
+        <character x="292" y="416" width="27" height="42" char="이" />
+        <character x="329" y="419" width="26" height="40" char="2" />
+        <character x="362" y="418" width="22" height="41" char="2" />
+        <character x="386" y="424" width="24" height="39" char="M" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02964.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="13" y="71" width="606" height="87">
+        <character x="13" y="71" width="53" height="58" char="시" />
+        <character x="67" y="71" width="48" height="79" char="월" />
+        <character x="113" y="90" width="42" height="46" char="의" />
+        <character x="152" y="77" width="63" height="81" char="첫" />
+        <character x="214" y="77" width="49" height="65" char="만" />
+        <character x="264" y="86" width="44" height="60" char="남" />
+        <character x="307" y="87" width="53" height="57" char="오" />
+        <character x="355" y="85" width="49" height="61" char="키" />
+        <character x="403" y="84" width="50" height="63" char="스" />
+        <character x="455" y="85" width="48" height="64" char="네" />
+        <character x="503" y="87" width="40" height="61" char="일" />
+        <character x="541" y="104" width="39" height="48" char="V" />
+        <character x="577" y="103" width="17" height="48" char="I" />
+        <character x="593" y="105" width="26" height="44" char="P" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

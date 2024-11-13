@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04314.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="71" y="155" width="515" height="174">
+        <character x="71" y="155" width="158" height="166" char="진" />
+        <character x="248" y="209" width="113" height="114" char="메" />
+        <character x="363" y="208" width="113" height="121" char="디" />
+        <character x="475" y="207" width="111" height="115" char="텍" />
+      </word>
+      <word x="249" y="166" width="309" height="41">
+        <character x="249" y="169" width="36" height="36" char="J" />
+        <character x="284" y="170" width="17" height="31" char="I" />
+        <character x="299" y="172" width="28" height="34" char="N" />
+        <character x="337" y="171" width="33" height="34" char="M" />
+        <character x="374" y="172" width="25" height="34" char="E" />
+        <character x="398" y="170" width="32" height="36" char="D" />
+        <character x="432" y="169" width="17" height="38" char="I" />
+        <character x="450" y="168" width="20" height="39" char="T" />
+        <character x="470" y="166" width="29" height="40" char="E" />
+        <character x="497" y="167" width="29" height="39" char="C" />
+        <character x="527" y="167" width="31" height="38" char="H" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

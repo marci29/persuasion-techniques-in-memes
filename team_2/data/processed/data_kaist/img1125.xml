@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010085.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="12" y="87" width="184" height="88">
+        <character x="40" y="125" width="38" height="42" char="C" />
+        <character x="77" y="126" width="21" height="43" char="h" />
+        <character x="100" y="127" width="7" height="43" char="i" />
+        <character x="107" y="132" width="22" height="35" char="c" />
+        <character x="130" y="121" width="16" height="54" char="k" />
+        <character x="146" y="129" width="23" height="37" char="e" />
+        <character x="169" y="131" width="27" height="35" char="n" />
+        <character x="12" y="87" width="41" height="43" char="D" />
+        <character x="55" y="98" width="21" height="31" char="o" />
+        <character x="78" y="99" width="23" height="26" char="n" />
+        <character x="103" y="87" width="19" height="39" char="k" />
+        <character x="124" y="93" width="24" height="40" char="y" />
+      </word>
+      <word x="231" y="72" width="314" height="112">
+        <character x="231" y="75" width="81" height="78" char="동" />
+        <character x="306" y="73" width="81" height="73" char="키" />
+        <character x="386" y="73" width="71" height="73" char="치" />
+        <character x="459" y="72" width="86" height="71" char="킨" />
+      </word>
+      <word x="307" y="154" width="147" height="32">
+        <character x="414" y="158" width="16" height="28" char="2" />
+        <character x="307" y="158" width="24" height="26" char="4" />
+        <character x="332" y="158" width="16" height="24" char="8" />
+        <character x="350" y="159" width="17" height="20" char="6" />
+        <character x="382" y="155" width="12" height="23" char="7" />
+        <character x="397" y="158" width="17" height="21" char="8" />
+        <character x="432" y="154" width="22" height="28" char="3" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

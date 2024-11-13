@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="323" y="219" />
-    <all_chars><character x="105" y="86" width="27" height="19" char="B" />
-        <character x="132" y="86" width="21" height="18" char="E" />
-        <character x="154" y="87" width="20" height="20" char="A" />
-        <character x="177" y="90" width="24" height="24" char="N" />
-        <character x="108" y="68" width="27" height="20" char="M" />
-        <character x="135" y="66" width="16" height="24" char="E" />
-        <character x="151" y="71" width="22" height="19" char="A" />
-        <character x="177" y="64" width="24" height="30" char="N" />
+<root><resolution x="354" y="232" />
+    <all_chars><character x="69" y="58" width="47" height="60" char="e" />
+        <character x="115" y="58" width="25" height="59" char="i" />
+        <character x="138" y="60" width="44" height="59" char="g" />
+        <character x="181" y="62" width="47" height="54" char="e" />
+        <character x="227" y="61" width="52" height="56" char="n" />
+      <character x="105" y="122" width="23" height="33" char="p" />
+        <character x="145" y="120" width="26" height="30" char="o" />
+        <character x="184" y="120" width="28" height="31" char="s" />
+        <character x="221" y="118" width="33" height="35" char="t" />
       </all_chars></root>

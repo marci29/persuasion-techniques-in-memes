@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03887.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="106" y="164" width="415" height="72">
+        <character x="106" y="166" width="51" height="68" char="E" />
+        <character x="154" y="167" width="57" height="69" char="U" />
+        <character x="211" y="168" width="56" height="65" char="R" />
+        <character x="265" y="168" width="58" height="67" char="O" />
+        <character x="346" y="167" width="49" height="63" char="S" />
+        <character x="394" y="165" width="45" height="68" char="L" />
+        <character x="440" y="164" width="19" height="69" char="I" />
+        <character x="458" y="169" width="63" height="60" char="M" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

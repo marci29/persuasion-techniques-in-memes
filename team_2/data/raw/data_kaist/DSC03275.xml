@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03275.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="48" y="58" width="579" height="123">
+        <character x="48" y="82" width="107" height="84" char="하" />
+        <character x="154" y="78" width="94" height="82" char="이" />
+        <character x="250" y="88" width="84" height="61" char="키" />
+        <character x="335" y="62" width="104" height="118" char="한" />
+        <character x="442" y="61" width="93" height="84" char="의" />
+        <character x="533" y="58" width="94" height="123" char="원" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

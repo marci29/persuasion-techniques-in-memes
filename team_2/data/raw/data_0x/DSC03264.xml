@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03264.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="107" y="92" width="299" height="206">
+        <character x="107" y="154" width="60" height="76" char="N" />
+        <character x="167" y="157" width="65" height="70" char="O" />
+        <character x="231" y="160" width="63" height="68" char="R" />
+        <character x="294" y="162" width="51" height="64" char="T" />
+        <character x="345" y="164" width="56" height="64" char="H" />
+      </word>
+      <word x="194" y="229" width="212" height="69">
+        <character x="194" y="229" width="49" height="67" char="F" />
+        <character x="242" y="229" width="52" height="68" char="A" />
+        <character x="294" y="230" width="58" height="66" char="C" />
+        <character x="354" y="230" width="52" height="68" char="E" />
+      </word>
+      <word x="236" y="92" width="167" height="70">
+        <character x="236" y="92" width="55" height="67" char="T" />
+        <character x="292" y="94" width="55" height="68" char="H" />
+        <character x="348" y="93" width="55" height="69" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

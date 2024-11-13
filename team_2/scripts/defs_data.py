@@ -159,7 +159,7 @@ def convert_xml_to_yolo(xml_path, char_to_class, image_width=640, image_height=4
             class_idx = char_to_class[char]
         else:
             class_idx = -1
-            print(f"Character {char} not found in mapping!")
+            #print(f"Character {char} not found in mapping!")
 
         if class_idx != -1:
             # Calculate center coordinates (normalized) and width/height (normalized)
@@ -181,18 +181,18 @@ def xml2yolo(input_folder, output_folder, char_to_class):
     # Iterate through all xml files in the input folder
     for xml_file in os.listdir(input_folder):
         if xml_file.endswith(".xml"):
-            #try:
-            xml_path = os.path.join(input_folder, xml_file)
-            yolo_annotations = convert_xml_to_yolo(xml_path, char_to_class)
-            
-            # Save the yolo annotations to a .txt file
-            txt_filename = os.path.splitext(xml_file)[0] + ".txt"
-            txt_path = os.path.join(output_folder, txt_filename)
-            
-            with open(txt_path, 'w') as f:
-                for annotation in yolo_annotations:
-                    f.write(f"{annotation}\n")
-        #except:
-            #print(f"\n\nError in {xml_file}")
+            try:
+                xml_path = os.path.join(input_folder, xml_file)
+                yolo_annotations = convert_xml_to_yolo(xml_path, char_to_class)
+                
+                # Save the yolo annotations to a .txt file
+                txt_filename = os.path.splitext(xml_file)[0] + ".txt"
+                txt_path = os.path.join(output_folder, txt_filename)
+                
+                with open(txt_path, 'w') as f:
+                    for annotation in yolo_annotations:
+                        f.write(f"{annotation}\n")
+            except:
+                print(f"\n\nError in {xml_file}")
 
-#---------------------------------------------------------------------------------------------------
+    #---------------------------------------------------------------------------------------------------

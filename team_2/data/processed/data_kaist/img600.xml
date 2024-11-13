@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03305.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="93" y="194" width="478" height="211">
+        <character x="93" y="197" width="67" height="126" char="명" />
+        <character x="159" y="194" width="67" height="119" char="동" />
+        <character x="222" y="200" width="70" height="113" char="노" />
+        <character x="291" y="198" width="73" height="117" char="외" />
+        <character x="367" y="200" width="59" height="111" char="주" />
+        <character x="425" y="197" width="77" height="114" char="차" />
+        <character x="501" y="201" width="68" height="117" char="장" />
+      </word>
+      <word x="461" y="343" width="110" height="62">
+        <character x="461" y="347" width="33" height="54" char="2" />
+        <character x="493" y="343" width="31" height="62" char="0" />
+        <character x="523" y="348" width="48" height="57" char="M" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

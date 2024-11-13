@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03845.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="324" y="140" width="284" height="69">
+        <character x="324" y="140" width="46" height="54" char="크" />
+        <character x="369" y="142" width="42" height="54" char="리" />
+        <character x="413" y="145" width="38" height="50" char="스" />
+        <character x="453" y="144" width="37" height="63" char="탈" />
+        <character x="493" y="148" width="36" height="54" char="웨" />
+        <character x="529" y="149" width="36" height="60" char="딩" />
+        <character x="563" y="149" width="45" height="58" char="홀" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

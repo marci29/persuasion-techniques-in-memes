@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03489.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="249" y="70" width="339" height="371">
+        <character x="263" y="318" width="71" height="101" char="P" />
+        <character x="333" y="315" width="26" height="108" char="i" />
+        <character x="362" y="352" width="45" height="72" char="c" />
+        <character x="405" y="353" width="43" height="74" char="t" />
+        <character x="447" y="362" width="47" height="75" char="u" />
+        <character x="493" y="363" width="39" height="77" char="r" />
+        <character x="533" y="375" width="55" height="66" char="e" />
+      </word>
+      <word x="249" y="70" width="293" height="115">
+        <character x="249" y="70" width="75" height="80" char="포" />
+        <character x="324" y="83" width="74" height="84" char="토" />
+        <character x="398" y="105" width="76" height="72" char="센" />
+        <character x="472" y="104" width="70" height="81" char="터" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

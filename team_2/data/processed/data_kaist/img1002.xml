@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831119.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="179" y="11" width="320" height="187">
+        <character x="179" y="15" width="176" height="183" char="와" />
+        <character x="359" y="11" width="140" height="178" char="인" />
+      </word>
+      <word x="299" y="211" width="108" height="63">
+        <character x="299" y="211" width="54" height="62" char="V" />
+        <character x="352" y="220" width="20" height="50" char="i" />
+        <character x="374" y="223" width="33" height="51" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

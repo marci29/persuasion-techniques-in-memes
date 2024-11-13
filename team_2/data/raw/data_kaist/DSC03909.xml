@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03909.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="1" y="76" width="585" height="127">
+        <character x="1" y="99" width="36" height="82" char="7" />
+        <character x="36" y="99" width="44" height="78" char="0" />
+        <character x="78" y="96" width="42" height="82" char="7" />
+        <character x="132" y="103" width="118" height="81" char="w" />
+        <character x="248" y="104" width="51" height="80" char="e" />
+        <character x="299" y="80" width="25" height="105" char="l" />
+        <character x="324" y="76" width="23" height="110" char="l" />
+        <character x="345" y="77" width="59" height="109" char="b" />
+        <character x="401" y="102" width="56" height="81" char="e" />
+        <character x="455" y="82" width="26" height="98" char="i" />
+        <character x="480" y="107" width="48" height="73" char="n" />
+        <character x="525" y="107" width="61" height="96" char="g" />
+      </word>
+      <word x="166" y="176" width="466" height="113">
+        <character x="166" y="200" width="88" height="82" char="s" />
+        <character x="252" y="187" width="38" height="94" char="t" />
+        <character x="291" y="198" width="36" height="83" char="r" />
+        <character x="324" y="201" width="54" height="78" char="e" />
+        <character x="374" y="189" width="38" height="90" char="t" />
+        <character x="410" y="200" width="50" height="80" char="c" />
+        <character x="461" y="182" width="55" height="97" char="h" />
+        <character x="515" y="176" width="22" height="102" char="i" />
+        <character x="539" y="197" width="47" height="76" char="n" />
+        <character x="585" y="194" width="47" height="95" char="g" />
+      </word>
+      <word x="199" y="293" width="432" height="54">
+        <character x="199" y="303" width="26" height="40" char="지" />
+        <character x="225" y="301" width="24" height="46" char="친" />
+        <character x="249" y="301" width="24" height="41" char="어" />
+        <character x="274" y="302" width="23" height="39" char="깨" />
+        <character x="297" y="302" width="24" height="43" char="를" />
+        <character x="321" y="300" width="23" height="45" char="시" />
+        <character x="340" y="299" width="27" height="48" char="원" />
+        <character x="370" y="301" width="18" height="37" char="하" />
+        <character x="388" y="299" width="22" height="39" char="게" />
+        <character x="412" y="298" width="24" height="49" char="7" />
+        <character x="436" y="297" width="18" height="48" char="0" />
+        <character x="454" y="295" width="20" height="47" char="7" />
+        <character x="475" y="297" width="29" height="44" char="웰" />
+        <character x="504" y="298" width="27" height="44" char="빙" />
+        <character x="531" y="297" width="25" height="42" char="스" />
+        <character x="556" y="295" width="24" height="40" char="트" />
+        <character x="580" y="293" width="26" height="48" char="레" />
+        <character x="607" y="295" width="24" height="50" char="칭" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

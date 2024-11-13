@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010054.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="48" y="97" width="429" height="341">
+        <character x="48" y="98" width="44" height="117" char="I" />
+        <character x="91" y="98" width="102" height="112" char="V" />
+        <character x="191" y="97" width="102" height="114" char="Y" />
+        <character x="292" y="99" width="77" height="111" char="T" />
+        <character x="371" y="103" width="85" height="111" char="Z" />
+      </word>
+      <word x="108" y="214" width="341" height="62">
+        <character x="108" y="214" width="51" height="62" char="아" />
+        <character x="159" y="217" width="40" height="57" char="이" />
+        <character x="199" y="218" width="37" height="52" char="비" />
+        <character x="236" y="219" width="41" height="51" char="츠" />
+        <character x="284" y="223" width="45" height="52" char="충" />
+        <character x="330" y="221" width="41" height="47" char="남" />
+        <character x="374" y="220" width="36" height="52" char="학" />
+        <character x="412" y="218" width="37" height="52" char="원" />
+      </word>
+      <word x="366" y="367" width="111" height="71">
+        <character x="366" y="367" width="64" height="71" char="6" />
+        <character x="432" y="371" width="45" height="66" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03372.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="31" y="390" width="608" height="69">
+        <character x="31" y="404" width="32" height="48" char="F" />
+        <character x="73" y="404" width="38" height="41" char="O" />
+        <character x="110" y="415" width="42" height="36" char="O" />
+        <character x="154" y="418" width="36" height="41" char="D" />
+        <character x="218" y="394" width="38" height="43" char="푸" />
+        <character x="255" y="393" width="35" height="45" char="드" />
+        <character x="291" y="395" width="37" height="41" char="코" />
+        <character x="327" y="395" width="42" height="38" char="트" />
+        <character x="412" y="393" width="40" height="49" char="C" />
+        <character x="455" y="403" width="45" height="39" char="O" />
+        <character x="505" y="390" width="42" height="42" char="U" />
+        <character x="547" y="402" width="48" height="43" char="R" />
+        <character x="599" y="392" width="40" height="49" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

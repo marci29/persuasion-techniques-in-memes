@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090912066.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="221" y="97" width="258" height="170">
+        <character x="227" y="97" width="46" height="90" char="동" />
+        <character x="273" y="97" width="38" height="87" char="호" />
+        <character x="309" y="99" width="38" height="81" char="회" />
+        <character x="345" y="98" width="41" height="86" char="원" />
+        <character x="387" y="101" width="38" height="83" char="모" />
+        <character x="425" y="100" width="40" height="82" char="집" />
+      </word>
+      <word x="221" y="201" width="258" height="66">
+        <character x="292" y="204" width="33" height="60" char="댄" />
+        <character x="325" y="203" width="33" height="55" char="스" />
+        <character x="359" y="202" width="30" height="55" char="학" />
+        <character x="390" y="201" width="34" height="60" char="원" />
+        <character x="221" y="209" width="38" height="58" char="유" />
+        <character x="259" y="205" width="32" height="57" char="성" />
+        <character x="431" y="217" width="23" height="40" char="4" />
+        <character x="454" y="214" width="25" height="53" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03519.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="138" y="116" width="405" height="355">
+        <character x="138" y="175" width="120" height="156" char="P" />
+        <character x="251" y="122" width="52" height="126" char="i" />
+        <character x="291" y="152" width="78" height="82" char="z" />
+        <character x="360" y="132" width="82" height="70" char="z" />
+        <character x="440" y="116" width="84" height="81" char="a" />
+      </word>
+      <word x="228" y="213" width="289" height="155">
+        <character x="409" y="213" width="108" height="94" char="t" />
+        <character x="228" y="255" width="113" height="113" char="H" />
+        <character x="339" y="237" width="76" height="73" char="u" />
+      </word>
+      <word x="180" y="422" width="363" height="49">
+        <character x="180" y="425" width="44" height="40" char="피" />
+        <character x="224" y="426" width="50" height="40" char="자" />
+        <character x="273" y="422" width="53" height="49" char="헛" />
+        <character x="343" y="423" width="41" height="44" char="레" />
+        <character x="392" y="425" width="44" height="38" char="스" />
+        <character x="444" y="424" width="41" height="38" char="토" />
+        <character x="490" y="423" width="53" height="44" char="랑" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

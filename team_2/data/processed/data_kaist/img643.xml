@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03427.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="210" y="346" width="201" height="61">
+        <character x="210" y="348" width="50" height="58" char="금" />
+        <character x="258" y="346" width="51" height="61" char="연" />
+        <character x="308" y="346" width="51" height="60" char="건" />
+        <character x="356" y="350" width="55" height="57" char="물" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

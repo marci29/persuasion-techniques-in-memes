@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04361.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="241" y="235" width="192" height="47">
+        <character x="241" y="238" width="26" height="41" char="C" />
+        <character x="266" y="235" width="24" height="45" char="O" />
+        <character x="289" y="238" width="25" height="42" char="N" />
+        <character x="313" y="237" width="27" height="45" char="V" />
+        <character x="337" y="238" width="24" height="42" char="E" />
+        <character x="363" y="241" width="23" height="37" char="R" />
+        <character x="386" y="243" width="25" height="37" char="S" />
+        <character x="408" y="241" width="25" height="37" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831018.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="98" y="226" width="380" height="65">
+        <character x="98" y="226" width="61" height="63" char="E" />
+        <character x="159" y="233" width="41" height="55" char="v" />
+        <character x="201" y="233" width="44" height="56" char="e" />
+        <character x="252" y="234" width="40" height="57" char="n" />
+        <character x="294" y="229" width="30" height="61" char="t" />
+        <character x="353" y="235" width="55" height="49" char="e" />
+        <character x="409" y="231" width="28" height="56" char="t" />
+        <character x="437" y="237" width="41" height="42" char="c" />
+      </word>
+      <word x="74" y="147" width="466" height="84">
+        <character x="74" y="152" width="74" height="77" char="이" />
+        <character x="156" y="155" width="84" height="76" char="벤" />
+        <character x="243" y="147" width="85" height="74" char="트" />
+        <character x="358" y="157" width="86" height="64" char="기" />
+        <character x="447" y="147" width="93" height="83" char="타" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

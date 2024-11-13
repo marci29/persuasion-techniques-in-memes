@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03735.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="76" y="129" width="307" height="194">
+        <character x="95" y="219" width="82" height="101" char="화" />
+        <character x="202" y="227" width="77" height="96" char="장" />
+        <character x="318" y="225" width="65" height="97" char="품" />
+      </word>
+      <word x="76" y="129" width="85" height="44">
+        <character x="76" y="132" width="23" height="37" char="컬" />
+        <character x="96" y="129" width="23" height="43" char="러" />
+        <character x="119" y="131" width="19" height="39" char="파" />
+        <character x="140" y="133" width="21" height="40" char="티" />
+      </word>
+      <word x="429" y="144" width="161" height="48">
+        <character x="429" y="150" width="19" height="32" char="T" />
+        <character x="454" y="147" width="19" height="34" char="4" />
+        <character x="470" y="148" width="17" height="30" char="8" />
+        <character x="516" y="152" width="21" height="26" char="3" />
+        <character x="535" y="149" width="19" height="40" char="5" />
+        <character x="555" y="144" width="14" height="40" char="5" />
+        <character x="571" y="152" width="19" height="40" char="4" />
+      </word>
+      <word x="229" y="187" width="141" height="43">
+        <character x="229" y="192" width="26" height="37" char="피" />
+        <character x="255" y="191" width="18" height="32" char="부" />
+        <character x="273" y="193" width="20" height="37" char="관" />
+        <character x="294" y="193" width="18" height="33" char="리" />
+        <character x="313" y="191" width="17" height="34" char="전" />
+        <character x="330" y="187" width="20" height="40" char="문" />
+        <character x="350" y="194" width="20" height="36" char="점" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

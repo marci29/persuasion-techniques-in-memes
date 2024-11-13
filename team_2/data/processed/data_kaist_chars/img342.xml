@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="33" y="120" width="115" height="120" char="o" />
-        <character x="183" y="140" width="135" height="156" char="p" />
-        <character x="355" y="115" width="120" height="108" char="e" />
-        <character x="482" y="243" width="121" height="140" char="n" />
+    <all_chars><character x="17" y="226" width="33" height="56" char="1" />
+        <character x="48" y="229" width="39" height="55" char="0" />
+        <character x="90" y="229" width="30" height="57" char="0" />
+        <character x="122" y="229" width="37" height="56" char="0" />
+        <character x="48" y="173" width="77" height="53" char="C" />
+      <character x="197" y="200" width="93" height="83" char="비" />
+        <character x="333" y="214" width="99" height="72" char="소" />
+        <character x="464" y="218" width="96" height="73" char="설" />
       </all_chars></root>

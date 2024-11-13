@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04109.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="51" y="128" width="577" height="237">
+        <character x="51" y="149" width="34" height="44" char="한" />
+        <character x="85" y="150" width="31" height="41" char="화" />
+        <character x="115" y="151" width="28" height="39" char="L" />
+        <character x="168" y="160" width="32" height="30" char="c" />
+      </word>
+      <word x="395" y="128" width="233" height="52">
+        <character x="395" y="130" width="40" height="40" char="스" />
+        <character x="435" y="132" width="30" height="41" char="피" />
+        <character x="466" y="132" width="32" height="42" char="드" />
+        <character x="497" y="128" width="34" height="49" char="종" />
+        <character x="532" y="132" width="33" height="45" char="합" />
+        <character x="568" y="135" width="28" height="42" char="장" />
+        <character x="598" y="135" width="30" height="45" char="식" />
+      </word>
+      <word x="137" y="307" width="261" height="58">
+        <character x="137" y="307" width="53" height="58" char="도" />
+        <character x="199" y="311" width="56" height="49" char="배" />
+        <character x="275" y="308" width="54" height="54" char="장" />
+        <character x="339" y="308" width="59" height="51" char="판" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

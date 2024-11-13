@@ -1,9 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="640" y="480" />
-    <all_chars><character x="188" y="63" width="64" height="184" char="S" />
-        <character x="250" y="63" width="37" height="180" char="A" />
-        <character x="285" y="62" width="30" height="184" char="L" />
-        <character x="315" y="61" width="38" height="190" char="E" />
-        <character x="352" y="59" width="39" height="184" char="3" />
-        <character x="390" y="58" width="29" height="194" char="0" />
+<root><resolution x="768" y="576" />
+    <all_chars><character x="109" y="213" width="43" height="55" char="S" />
+        <character x="154" y="230" width="33" height="36" char="a" />
+        <character x="188" y="227" width="36" height="52" char="y" />
+      <character x="233" y="198" width="85" height="97" char="세" />
+        <character x="317" y="220" width="89" height="97" char="이" />
+      <character x="414" y="206" width="96" height="108" char="피" />
+        <character x="504" y="207" width="88" height="111" char="아" />
+        <character x="584" y="213" width="87" height="104" char="노" />
+      <character x="444" y="379" width="37" height="38" char="T" />
+        <character x="483" y="394" width="14" height="21" char="." />
+        <character x="498" y="375" width="26" height="42" char="8" />
+        <character x="524" y="376" width="30" height="39" char="6" />
+        <character x="555" y="376" width="21" height="39" char="1" />
+        <character x="577" y="384" width="31" height="24" char="-" />
+        <character x="609" y="377" width="29" height="39" char="7" />
+        <character x="636" y="376" width="27" height="40" char="4" />
+        <character x="663" y="377" width="28" height="40" char="5" />
+        <character x="692" y="378" width="25" height="38" char="3" />
       </all_chars></root>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831015.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="115" y="125" width="372" height="85">
+        <character x="115" y="125" width="70" height="72" char="업" />
+        <character x="217" y="126" width="75" height="77" char="무" />
+        <character x="315" y="138" width="64" height="66" char="사" />
+        <character x="400" y="137" width="87" height="73" char="항" />
+      </word>
+      <word x="109" y="200" width="368" height="70">
+        <character x="109" y="200" width="46" height="59" char="T" />
+        <character x="155" y="209" width="37" height="53" char="a" />
+        <character x="190" y="208" width="38" height="53" char="s" />
+        <character x="230" y="205" width="34" height="60" char="k" />
+        <character x="280" y="203" width="47" height="67" char="N" />
+        <character x="327" y="212" width="35" height="45" char="o" />
+        <character x="363" y="208" width="24" height="49" char="t" />
+        <character x="386" y="207" width="15" height="57" char="i" />
+        <character x="403" y="214" width="33" height="49" char="c" />
+        <character x="432" y="215" width="45" height="46" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

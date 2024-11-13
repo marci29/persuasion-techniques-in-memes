@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="640" y="480" />
+    <all_chars><character x="72" y="39" width="120" height="71" char="초" />
+        <character x="219" y="37" width="111" height="69" char="원" />
+        <character x="355" y="39" width="108" height="64" char="약" />
+        <character x="482" y="40" width="113" height="61" char="국" />
+      <character x="79" y="215" width="132" height="62" char="약" />
+        <character x="348" y="199" width="108" height="68" char="약" />
+      </all_chars></root>

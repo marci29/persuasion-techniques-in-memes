@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04146.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="190" y="281" width="422" height="156">
+        <character x="190" y="281" width="101" height="108" char="양" />
+        <character x="301" y="283" width="88" height="103" char="지" />
+        <character x="405" y="283" width="99" height="111" char="떡" />
+        <character x="515" y="281" width="97" height="110" char="집" />
+      </word>
+      <word x="231" y="404" width="178" height="33">
+        <character x="231" y="404" width="24" height="33" char="T" />
+        <character x="263" y="408" width="23" height="27" char="4" />
+        <character x="286" y="406" width="20" height="29" char="7" />
+        <character x="306" y="406" width="17" height="30" char="2" />
+        <character x="332" y="409" width="19" height="28" char="2" />
+        <character x="351" y="407" width="19" height="30" char="6" />
+        <character x="370" y="405" width="18" height="32" char="3" />
+        <character x="387" y="405" width="22" height="30" char="6" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

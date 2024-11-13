@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03245.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="32" y="362" width="371" height="80">
+        <character x="32" y="370" width="78" height="72" char="카" />
+        <character x="109" y="369" width="69" height="65" char="리" />
+        <character x="180" y="371" width="72" height="68" char="브" />
+        <character x="251" y="362" width="75" height="78" char="스" />
+        <character x="327" y="363" width="76" height="75" char="시" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

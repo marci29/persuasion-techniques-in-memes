@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04305.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="74" y="62" width="558" height="94">
+        <character x="74" y="63" width="74" height="93" char="김" />
+        <character x="145" y="62" width="74" height="90" char="영" />
+        <character x="218" y="63" width="87" height="92" char="경" />
+      </word>
+      <word x="318" y="77" width="314" height="54">
+        <character x="318" y="77" width="47" height="51" char="H" />
+        <character x="360" y="81" width="37" height="50" char="A" />
+        <character x="395" y="81" width="12" height="50" char="I" />
+        <character x="406" y="84" width="32" height="44" char="R" />
+        <character x="440" y="80" width="32" height="47" char="G" />
+        <character x="471" y="79" width="31" height="51" char="A" />
+        <character x="502" y="81" width="24" height="48" char="L" />
+        <character x="525" y="77" width="26" height="54" char="L" />
+        <character x="549" y="84" width="29" height="44" char="E" />
+        <character x="576" y="82" width="29" height="43" char="R" />
+        <character x="606" y="81" width="26" height="46" char="Y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

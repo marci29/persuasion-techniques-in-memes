@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03121.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="202" y="190" width="192" height="137">
+        <character x="251" y="274" width="44" height="51" char="부" />
+        <character x="294" y="273" width="49" height="54" char="채" />
+      </word>
+      <word x="202" y="190" width="192" height="65">
+        <character x="202" y="190" width="34" height="65" char="B" />
+        <character x="235" y="202" width="32" height="48" char="u" />
+        <character x="268" y="202" width="27" height="45" char="c" />
+        <character x="297" y="198" width="30" height="50" char="h" />
+        <character x="328" y="205" width="32" height="48" char="a" />
+        <character x="359" y="203" width="35" height="50" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

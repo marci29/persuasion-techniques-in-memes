@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="640" y="480" />
+    <all_chars><character x="171" y="145" width="95" height="83" char="왕" />
+        <character x="296" y="151" width="85" height="64" char="돈" />
+        <character x="395" y="147" width="95" height="65" char="가" />
+        <character x="491" y="143" width="108" height="69" char="스" />
+      <character x="47" y="146" width="42" height="43" char="장" />
+        <character x="90" y="147" width="44" height="41" char="수" />
+      <character x="38" y="197" width="42" height="35" char="분" />
+        <character x="83" y="192" width="47" height="41" char="식" />
+      </all_chars></root>

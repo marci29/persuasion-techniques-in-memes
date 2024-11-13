@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04094.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="52" y="188" width="546" height="251">
+        <character x="138" y="381" width="47" height="54" char="T" />
+        <character x="196" y="387" width="39" height="44" char="2" />
+        <character x="236" y="385" width="46" height="51" char="8" />
+        <character x="280" y="385" width="46" height="46" char="3" />
+        <character x="374" y="386" width="32" height="49" char="1" />
+        <character x="407" y="387" width="42" height="51" char="9" />
+        <character x="445" y="387" width="52" height="52" char="9" />
+        <character x="495" y="387" width="30" height="51" char="1" />
+      </word>
+      <word x="131" y="188" width="391" height="63">
+        <character x="131" y="190" width="46" height="57" char="대" />
+        <character x="176" y="191" width="56" height="56" char="한" />
+        <character x="231" y="192" width="46" height="54" char="예" />
+        <character x="277" y="191" width="46" height="60" char="수" />
+        <character x="324" y="191" width="53" height="58" char="교" />
+        <character x="376" y="193" width="50" height="57" char="장" />
+        <character x="423" y="191" width="51" height="58" char="로" />
+        <character x="474" y="188" width="48" height="61" char="회" />
+      </word>
+      <word x="52" y="259" width="546" height="121">
+        <character x="52" y="264" width="116" height="105" char="변" />
+        <character x="187" y="259" width="137" height="112" char="화" />
+        <character x="332" y="263" width="126" height="110" char="교" />
+        <character x="478" y="259" width="120" height="121" char="회" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

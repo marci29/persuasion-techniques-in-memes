@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010099.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="32" y="85" width="556" height="149">
+        <character x="32" y="85" width="79" height="104" char="맛" />
+        <character x="121" y="94" width="73" height="102" char="돌" />
+        <character x="230" y="98" width="72" height="95" char="곱" />
+        <character x="315" y="99" width="95" height="105" char="창" />
+        <character x="442" y="112" width="70" height="84" char="구" />
+        <character x="526" y="108" width="62" height="90" char="이" />
+      </word>
+      <word x="455" y="207" width="117" height="27">
+        <character x="455" y="208" width="17" height="22" char="4" />
+        <character x="474" y="208" width="13" height="24" char="8" />
+        <character x="489" y="210" width="15" height="21" char="4" />
+        <character x="515" y="209" width="14" height="25" char="5" />
+        <character x="529" y="207" width="14" height="22" char="1" />
+        <character x="546" y="212" width="12" height="22" char="6" />
+        <character x="557" y="207" width="15" height="24" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

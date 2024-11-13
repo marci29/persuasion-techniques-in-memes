@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04421.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="83" y="205" width="534" height="66">
+        <character x="83" y="205" width="42" height="51" char="A" />
+        <character x="125" y="213" width="17" height="43" char="r" />
+        <character x="140" y="211" width="25" height="48" char="t" />
+        <character x="172" y="209" width="28" height="51" char="E" />
+        <character x="201" y="218" width="20" height="43" char="s" />
+        <character x="220" y="217" width="27" height="54" char="p" />
+        <character x="246" y="215" width="22" height="41" char="r" />
+        <character x="267" y="212" width="23" height="50" char="e" />
+        <character x="288" y="214" width="24" height="46" char="s" />
+        <character x="312" y="216" width="22" height="47" char="s" />
+        <character x="336" y="215" width="26" height="48" char="o" />
+        <character x="514" y="218" width="34" height="42" char="지" />
+        <character x="548" y="216" width="30" height="52" char="하" />
+        <character x="577" y="218" width="16" height="42" char="1" />
+        <character x="594" y="215" width="23" height="47" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03266.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="132" y="164" width="275" height="85">
+        <character x="132" y="169" width="52" height="80" char="S" />
+        <character x="183" y="164" width="63" height="84" char="K" />
+        <character x="246" y="178" width="53" height="66" char="에" />
+        <character x="298" y="180" width="49" height="55" char="너" />
+        <character x="345" y="177" width="62" height="65" char="지" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

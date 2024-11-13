@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03302.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="74" y="61" width="559" height="253">
+        <character x="85" y="64" width="59" height="57" char="승" />
+        <character x="167" y="64" width="59" height="56" char="강" />
+        <character x="244" y="61" width="60" height="52" char="기" />
+      </word>
+      <word x="74" y="177" width="559" height="137">
+        <character x="74" y="177" width="99" height="117" char="하" />
+        <character x="185" y="185" width="82" height="103" char="나" />
+        <character x="268" y="184" width="87" height="88" char="노" />
+        <character x="354" y="177" width="96" height="107" char="래" />
+        <character x="452" y="178" width="88" height="127" char="방" />
+        <character x="546" y="248" width="46" height="66" char="6" />
+        <character x="594" y="251" width="39" height="63" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

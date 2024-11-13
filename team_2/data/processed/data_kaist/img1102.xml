@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010030.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="40" y="236" width="560" height="224">
+        <character x="57" y="236" width="123" height="130" char="카" />
+        <character x="181" y="249" width="104" height="118" char="니" />
+        <character x="285" y="250" width="80" height="148" char="노" />
+        <character x="366" y="248" width="111" height="128" char="래" />
+        <character x="478" y="248" width="122" height="182" char="방" />
+      </word>
+      <word x="40" y="395" width="90" height="65">
+        <character x="40" y="395" width="49" height="65" char="5" />
+        <character x="90" y="408" width="40" height="50" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

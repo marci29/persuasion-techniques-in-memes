@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090911079.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="8" y="248" width="581" height="104">
+        <character x="8" y="249" width="72" height="73" char="박" />
+        <character x="80" y="248" width="70" height="81" char="승" />
+        <character x="151" y="258" width="66" height="74" char="철" />
+        <character x="217" y="264" width="63" height="78" char="헤" />
+        <character x="281" y="266" width="68" height="77" char="어" />
+        <character x="348" y="272" width="67" height="66" char="스" />
+        <character x="413" y="276" width="58" height="71" char="투" />
+        <character x="473" y="282" width="52" height="70" char="디" />
+        <character x="524" y="281" width="65" height="71" char="오" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

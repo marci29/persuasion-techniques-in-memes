@@ -1,17 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="28" y="212" width="46" height="69" char="S" />
-        <character x="73" y="212" width="54" height="67" char="C" />
-        <character x="129" y="211" width="37" height="72" char="R" />
-        <character x="165" y="210" width="37" height="76" char="E" />
-        <character x="201" y="210" width="36" height="74" char="E" />
-        <character x="236" y="209" width="47" height="73" char="N" />
-        <character x="295" y="215" width="43" height="63" char="S" />
-        <character x="336" y="215" width="43" height="67" char="H" />
-        <character x="374" y="211" width="62" height="68" char="O" />
-        <character x="437" y="208" width="53" height="79" char="O" />
-        <character x="491" y="215" width="32" height="67" char="T" />
-        <character x="521" y="214" width="18" height="66" char="I" />
-        <character x="539" y="212" width="47" height="70" char="N" />
-        <character x="584" y="210" width="53" height="72" char="G" />
+    <all_chars><character x="9" y="74" width="93" height="126" char="명" />
+        <character x="116" y="66" width="109" height="131" char="성" />
+        <character x="239" y="60" width="128" height="140" char="인" />
+        <character x="374" y="65" width="117" height="132" char="터" />
+        <character x="496" y="62" width="132" height="139" char="넷" />
+      <character x="117" y="234" width="45" height="63" char="인" />
+        <character x="162" y="240" width="48" height="54" char="터" />
+        <character x="205" y="239" width="52" height="53" char="넷" />
+        <character x="274" y="244" width="48" height="48" char="게" />
+        <character x="322" y="242" width="51" height="49" char="임" />
+        <character x="390" y="236" width="48" height="53" char="통" />
+        <character x="440" y="242" width="49" height="51" char="신" />
+        <character x="505" y="241" width="23" height="48" char="B" />
+        <character x="530" y="241" width="30" height="46" char="1" />
+      <character x="183" y="393" width="41" height="34" char="명" />
+        <character x="235" y="393" width="36" height="36" char="성" />
+        <character x="288" y="390" width="37" height="39" char="인" />
+        <character x="332" y="391" width="41" height="39" char="터" />
+        <character x="385" y="395" width="42" height="34" char="넷" />
+        <character x="437" y="391" width="27" height="42" char="B" />
+        <character x="466" y="391" width="20" height="42" char="1" />
       </all_chars></root>

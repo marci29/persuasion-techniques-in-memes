@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04032.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="200" y="298" width="413" height="116">
+        <character x="200" y="299" width="119" height="115" char="만" />
+        <character x="318" y="298" width="102" height="110" char="년" />
+        <character x="422" y="299" width="85" height="89" char="오" />
+        <character x="506" y="298" width="107" height="83" char="리" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

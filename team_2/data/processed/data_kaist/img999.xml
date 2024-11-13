@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831114.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="205" y="18" width="250" height="198">
+        <character x="205" y="18" width="250" height="198" char="차" />
+      </word>
+      <word x="212" y="241" width="239" height="87">
+        <character x="212" y="243" width="61" height="85" char="L" />
+        <character x="273" y="258" width="34" height="63" char="e" />
+        <character x="320" y="241" width="54" height="79" char="T" />
+        <character x="376" y="251" width="38" height="71" char="h" />
+        <character x="414" y="276" width="37" height="45" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

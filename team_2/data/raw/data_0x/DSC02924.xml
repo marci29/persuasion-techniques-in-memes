@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02924.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="153" y="308" width="334" height="111">
+        <character x="153" y="308" width="35" height="69" char="J" />
+        <character x="189" y="315" width="25" height="49" char="E" />
+        <character x="210" y="314" width="40" height="51" char="A" />
+        <character x="250" y="318" width="39" height="49" char="N" />
+        <character x="302" y="317" width="36" height="48" char="P" />
+        <character x="338" y="316" width="22" height="54" char="I" />
+        <character x="363" y="317" width="24" height="51" char="E" />
+        <character x="388" y="320" width="37" height="46" char="R" />
+        <character x="425" y="323" width="35" height="43" char="R" />
+        <character x="460" y="331" width="27" height="39" char="E" />
+      </word>
+      <word x="274" y="369" width="120" height="50">
+        <character x="274" y="369" width="43" height="50" char="잔" />
+        <character x="317" y="372" width="35" height="42" char="파" />
+        <character x="353" y="374" width="41" height="43" char="엘" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

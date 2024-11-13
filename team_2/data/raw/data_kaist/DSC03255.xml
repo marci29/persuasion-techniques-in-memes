@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03255.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="50" y="110" width="566" height="105">
+        <character x="503" y="110" width="113" height="70" char="" />
+        <character x="502" y="185" width="23" height="19" char="P" />
+        <character x="524" y="178" width="14" height="26" char="A" />
+        <character x="538" y="178" width="15" height="23" char="R" />
+        <character x="553" y="174" width="13" height="30" char="K" />
+        <character x="566" y="176" width="8" height="26" char="I" />
+        <character x="574" y="180" width="17" height="21" char="N" />
+        <character x="590" y="181" width="19" height="21" char="G" />
+        <character x="50" y="137" width="78" height="56" char="배" />
+        <character x="130" y="131" width="86" height="53" char="사" />
+        <character x="219" y="129" width="83" height="52" char="랑" />
+        <character x="308" y="123" width="78" height="60" char="내" />
+        <character x="388" y="121" width="96" height="61" char="과" />
+      </word>
+      <word x="155" y="180" width="198" height="35">
+        <character x="155" y="188" width="27" height="27" char="T" />
+        <character x="190" y="186" width="21" height="26" char="4" />
+        <character x="210" y="181" width="20" height="32" char="7" />
+        <character x="231" y="186" width="19" height="28" char="8" />
+        <character x="269" y="184" width="25" height="24" char="5" />
+        <character x="295" y="180" width="19" height="32" char="5" />
+        <character x="314" y="184" width="17" height="26" char="2" />
+        <character x="330" y="182" width="23" height="28" char="2" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

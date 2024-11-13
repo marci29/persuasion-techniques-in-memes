@@ -1,11 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="32" y="122" width="63" height="110" char="I" />
-        <character x="94" y="125" width="89" height="107" char="N" />
-        <character x="177" y="126" width="78" height="103" char="T" />
-        <character x="231" y="139" width="82" height="89" char="E" />
-        <character x="303" y="131" width="82" height="114" char="R" />
-        <character x="387" y="128" width="37" height="105" char="I" />
-        <character x="424" y="126" width="70" height="103" char="O" />
-        <character x="494" y="124" width="98" height="124" char="R" />
+    <all_chars><character x="158" y="220" width="52" height="67" char="지" />
+        <character x="209" y="218" width="56" height="72" char="하" />
+        <character x="265" y="218" width="59" height="70" char="철" />
+        <character x="325" y="218" width="53" height="69" char="타" />
+        <character x="382" y="212" width="51" height="77" char="는" />
+        <character x="438" y="215" width="54" height="71" char="곳" />
+      <character x="404" y="288" width="8" height="44" char="i" />
+        <character x="188" y="293" width="22" height="34" char="S" />
+        <character x="211" y="293" width="18" height="35" char="u" />
+        <character x="230" y="293" width="22" height="33" char="b" />
+        <character x="254" y="291" width="31" height="33" char="w" />
+        <character x="286" y="293" width="18" height="30" char="a" />
+        <character x="303" y="292" width="22" height="46" char="y" />
+        <character x="330" y="293" width="22" height="32" char="S" />
+        <character x="353" y="292" width="13" height="32" char="t" />
+        <character x="368" y="291" width="20" height="37" char="a" />
+        <character x="385" y="291" width="17" height="37" char="t" />
+        <character x="410" y="291" width="23" height="37" char="o" />
+        <character x="433" y="291" width="34" height="38" char="n" />
       </all_chars></root>

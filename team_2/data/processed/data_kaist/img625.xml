@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03376.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="180" y="380" width="216" height="72">
+        <character x="180" y="380" width="51" height="72" char="L" />
+        <character x="232" y="403" width="33" height="49" char="a" />
+        <character x="264" y="404" width="38" height="46" char="u" />
+        <character x="302" y="402" width="28" height="46" char="r" />
+        <character x="331" y="407" width="25" height="43" char="e" />
+        <character x="358" y="401" width="38" height="47" char="n" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

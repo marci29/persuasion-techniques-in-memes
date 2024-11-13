@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04003.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="53" y="82" width="537" height="231">
+        <character x="53" y="199" width="108" height="113" char="강" />
+        <character x="161" y="198" width="84" height="115" char="변" />
+        <character x="246" y="213" width="87" height="97" char="음" />
+        <character x="331" y="207" width="92" height="93" char="악" />
+        <character x="423" y="206" width="89" height="96" char="학" />
+        <character x="510" y="207" width="80" height="104" char="원" />
+      </word>
+      <word x="264" y="82" width="144" height="101">
+        <character x="264" y="87" width="69" height="96" char="2" />
+        <character x="331" y="82" width="77" height="100" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

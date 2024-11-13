@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03582.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="190" y="85" width="416" height="263">
+        <character x="250" y="86" width="30" height="49" char="오" />
+        <character x="281" y="88" width="33" height="47" char="늘" />
+        <character x="316" y="87" width="30" height="47" char="도" />
+        <character x="346" y="85" width="36" height="50" char="수" />
+        <character x="384" y="86" width="31" height="51" char="고" />
+        <character x="415" y="88" width="34" height="45" char="하" />
+        <character x="451" y="91" width="32" height="47" char="셨" />
+        <character x="481" y="88" width="30" height="50" char="습" />
+        <character x="510" y="89" width="35" height="49" char="니" />
+        <character x="546" y="89" width="31" height="48" char="다" />
+      </word>
+      <word x="257" y="148" width="349" height="79">
+        <character x="257" y="149" width="49" height="77" char="C" />
+        <character x="306" y="148" width="45" height="75" char="C" />
+        <character x="349" y="154" width="41" height="71" char="T" />
+        <character x="389" y="155" width="52" height="67" char="V" />
+        <character x="449" y="153" width="54" height="72" char="작" />
+        <character x="500" y="154" width="53" height="73" char="동" />
+        <character x="552" y="155" width="54" height="71" char="중" />
+      </word>
+      <word x="190" y="273" width="385" height="75">
+        <character x="190" y="274" width="75" height="74" char="지" />
+        <character x="266" y="273" width="77" height="72" char="하" />
+        <character x="342" y="275" width="71" height="73" char="주" />
+        <character x="410" y="274" width="82" height="72" char="차" />
+        <character x="490" y="274" width="85" height="68" char="장" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

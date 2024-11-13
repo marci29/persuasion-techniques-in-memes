@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03539.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="119" y="146" width="513" height="98">
+        <character x="119" y="153" width="86" height="68" char="리" />
+        <character x="205" y="152" width="77" height="92" char="틀" />
+        <character x="282" y="147" width="96" height="74" char="아" />
+        <character x="377" y="146" width="86" height="86" char="메" />
+        <character x="464" y="154" width="81" height="72" char="리" />
+        <character x="544" y="151" width="88" height="85" char="카" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

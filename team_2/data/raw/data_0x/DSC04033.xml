@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04033.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="32" y="133" width="544" height="213">
+        <character x="37" y="149" width="123" height="114" char="자" />
+        <character x="159" y="147" width="111" height="111" char="연" />
+        <character x="269" y="146" width="109" height="108" char="유" />
+        <character x="379" y="133" width="97" height="120" char="치" />
+        <character x="476" y="134" width="100" height="118" char="원" />
+      </word>
+      <word x="32" y="264" width="532" height="82">
+        <character x="32" y="285" width="53" height="61" char="T" />
+        <character x="101" y="283" width="43" height="58" char="4" />
+        <character x="144" y="283" width="38" height="54" char="8" />
+        <character x="181" y="281" width="42" height="55" char="7" />
+        <character x="259" y="278" width="42" height="53" char="6" />
+        <character x="302" y="272" width="37" height="58" char="7" />
+        <character x="338" y="271" width="36" height="52" char="6" />
+        <character x="373" y="271" width="34" height="58" char="4" />
+        <character x="423" y="267" width="35" height="59" char="0" />
+        <character x="456" y="264" width="38" height="54" char="6" />
+        <character x="492" y="264" width="37" height="53" char="4" />
+        <character x="529" y="264" width="35" height="51" char="3" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

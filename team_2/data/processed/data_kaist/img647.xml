@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03431.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="27" y="28" width="445" height="75">
+        <character x="27" y="29" width="39" height="73" char="B" />
+        <character x="65" y="47" width="25" height="55" char="1" />
+        <character x="221" y="28" width="69" height="74" char="주" />
+        <character x="312" y="29" width="69" height="68" char="차" />
+        <character x="403" y="28" width="69" height="75" char="장" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

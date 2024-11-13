@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03634.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="255" y="242" width="345" height="224">
+        <character x="265" y="421" width="33" height="39" char="체" />
+        <character x="298" y="423" width="29" height="41" char="인" />
+        <character x="330" y="422" width="29" height="42" char="문" />
+        <character x="359" y="419" width="32" height="43" char="의" />
+        <character x="427" y="429" width="23" height="28" char="5" />
+        <character x="450" y="428" width="21" height="32" char="2" />
+        <character x="472" y="425" width="20" height="37" char="7" />
+        <character x="506" y="424" width="24" height="34" char="5" />
+        <character x="528" y="424" width="22" height="37" char="8" />
+        <character x="551" y="425" width="20" height="37" char="5" />
+        <character x="571" y="429" width="29" height="37" char="0" />
+      </word>
+      <word x="292" y="242" width="261" height="42">
+        <character x="292" y="245" width="25" height="31" char="0" />
+        <character x="324" y="243" width="27" height="35" char="5" />
+        <character x="351" y="247" width="29" height="27" char="C" />
+        <character x="387" y="247" width="41" height="30" char="더" />
+        <character x="436" y="245" width="42" height="35" char="차" />
+        <character x="478" y="242" width="39" height="42" char="가" />
+        <character x="517" y="242" width="36" height="41" char="운" />
+      </word>
+      <word x="255" y="272" width="334" height="92">
+        <character x="255" y="272" width="72" height="84" char="5" />
+        <character x="328" y="279" width="65" height="78" char="0" />
+        <character x="394" y="273" width="66" height="91" char="0" />
+        <character x="465" y="287" width="60" height="75" char="c" />
+        <character x="524" y="288" width="65" height="76" char="c" />
+      </word>
+      <word x="271" y="370" width="328" height="44">
+        <character x="271" y="370" width="42" height="37" char="냉" />
+        <character x="313" y="371" width="44" height="37" char="생" />
+        <character x="358" y="372" width="45" height="36" char="맥" />
+        <character x="404" y="372" width="51" height="37" char="주" />
+        <character x="460" y="371" width="46" height="43" char="전" />
+        <character x="507" y="370" width="45" height="41" char="문" />
+        <character x="549" y="371" width="50" height="41" char="점" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

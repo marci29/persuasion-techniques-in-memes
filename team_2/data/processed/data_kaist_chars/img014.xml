@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="640" y="480" />
-    <all_chars><character x="173" y="158" width="173" height="103" char="Z" />
-        <character x="343" y="187" width="66" height="75" char="E" />
+<root><resolution x="472" y="250" />
+    <all_chars><character x="27" y="61" width="128" height="102" char="W" />
+        <character x="159" y="61" width="101" height="96" char="A" />
+        <character x="261" y="62" width="93" height="94" char="V" />
+        <character x="358" y="54" width="96" height="105" char="E" />
       </all_chars></root>

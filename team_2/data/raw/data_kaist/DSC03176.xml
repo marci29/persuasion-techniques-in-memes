@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03176.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="54" y="261" width="410" height="179">
+        <character x="54" y="267" width="69" height="103" char="L" />
+        <character x="122" y="269" width="95" height="96" char="O" />
+        <character x="213" y="266" width="99" height="98" char="G" />
+        <character x="310" y="261" width="75" height="106" char="E" />
+        <character x="372" y="272" width="92" height="94" char="N" />
+      </word>
+      <word x="192" y="370" width="250" height="70">
+        <character x="192" y="370" width="74" height="70" char="로" />
+        <character x="264" y="373" width="60" height="64" char="젠" />
+        <character x="325" y="372" width="58" height="67" char="택" />
+        <character x="381" y="371" width="61" height="66" char="배" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

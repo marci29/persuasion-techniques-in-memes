@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03082.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="131" y="202" width="341" height="242">
+        <character x="274" y="202" width="70" height="72" char="D" />
+      </word>
+      <word x="131" y="368" width="341" height="76">
+        <character x="131" y="368" width="36" height="59" char="G" />
+        <character x="169" y="387" width="18" height="42" char="e" />
+        <character x="188" y="385" width="22" height="36" char="o" />
+        <character x="210" y="384" width="23" height="58" char="g" />
+        <character x="233" y="382" width="20" height="44" char="r" />
+        <character x="253" y="384" width="19" height="41" char="a" />
+        <character x="270" y="381" width="26" height="63" char="p" />
+        <character x="294" y="371" width="27" height="57" char="h" />
+        <character x="320" y="382" width="24" height="60" char="y" />
+        <character x="360" y="369" width="44" height="59" char="M" />
+        <character x="404" y="384" width="22" height="39" char="a" />
+        <character x="426" y="384" width="25" height="58" char="p" />
+        <character x="451" y="382" width="21" height="42" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

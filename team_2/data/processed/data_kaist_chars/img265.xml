@@ -1,15 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="199" y="19" width="87" height="154" char="Q" />
-        <character x="283" y="16" width="67" height="98" char="U" />
-        <character x="349" y="16" width="64" height="95" char="E" />
-        <character x="415" y="13" width="60" height="100" char="E" />
-        <character x="473" y="22" width="70" height="99" char="N" />
-      <character x="309" y="125" width="30" height="41" char="H" />
-        <character x="340" y="124" width="22" height="39" char="O" />
-        <character x="362" y="123" width="22" height="43" char="F" />
-        <character x="406" y="128" width="23" height="36" char="S" />
-        <character x="429" y="128" width="23" height="39" char="O" />
-        <character x="451" y="130" width="21" height="38" char="J" />
-        <character x="471" y="125" width="25" height="42" char="U" />
+    <all_chars><character x="24" y="31" width="66" height="102" char="세" />
+        <character x="92" y="31" width="62" height="99" char="종" />
+        <character x="156" y="28" width="55" height="101" char="타" />
+        <character x="208" y="32" width="64" height="98" char="운" />
+        <character x="278" y="35" width="59" height="97" char="공" />
+        <character x="335" y="33" width="47" height="103" char="인" />
+        <character x="380" y="31" width="51" height="99" char="중" />
+        <character x="431" y="39" width="41" height="97" char="개" />
+        <character x="473" y="42" width="50" height="84" char="사" />
+      <character x="116" y="143" width="44" height="49" char="T" />
+        <character x="178" y="143" width="43" height="48" char="8" />
+        <character x="221" y="143" width="32" height="47" char="6" />
+        <character x="251" y="141" width="36" height="47" char="2" />
+        <character x="317" y="142" width="25" height="44" char="1" />
+        <character x="345" y="141" width="29" height="47" char="2" />
+        <character x="379" y="142" width="23" height="44" char="1" />
+        <character x="400" y="138" width="34" height="48" char="2" />
       </all_chars></root>

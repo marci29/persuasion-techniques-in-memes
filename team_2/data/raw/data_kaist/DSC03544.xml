@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03544.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="2147483647" y="2147483647" width="-2147483647" height="-2147483647" />
+      <word x="62" y="57" width="484" height="268">
+        <character x="63" y="57" width="68" height="88" char="무" />
+        <character x="131" y="59" width="62" height="86" char="료" />
+        <character x="193" y="65" width="61" height="82" char="상" />
+        <character x="252" y="61" width="68" height="87" char="담" />
+      </word>
+      <word x="62" y="163" width="484" height="97">
+        <character x="62" y="165" width="54" height="91" char="T" />
+        <character x="118" y="185" width="37" height="69" char="e" />
+        <character x="155" y="163" width="26" height="92" char="l" />
+        <character x="200" y="168" width="53" height="85" char="4" />
+        <character x="254" y="167" width="44" height="88" char="8" />
+        <character x="298" y="166" width="40" height="93" char="9" />
+        <character x="384" y="169" width="46" height="89" char="0" />
+        <character x="431" y="168" width="36" height="90" char="5" />
+        <character x="466" y="165" width="42" height="95" char="7" />
+        <character x="506" y="171" width="40" height="86" char="2" />
+      </word>
+      <word x="118" y="259" width="372" height="66">
+        <character x="118" y="263" width="46" height="58" char="초" />
+        <character x="163" y="259" width="48" height="63" char="원" />
+        <character x="208" y="264" width="49" height="60" char="아" />
+        <character x="254" y="267" width="50" height="55" char="파" />
+        <character x="305" y="263" width="43" height="57" char="트" />
+        <character x="347" y="262" width="45" height="62" char="상" />
+        <character x="394" y="269" width="35" height="50" char="가" />
+        <character x="429" y="270" width="21" height="51" char="1" />
+        <character x="450" y="269" width="40" height="56" char="층" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

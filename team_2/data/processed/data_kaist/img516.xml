@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03149.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="52" y="378" width="545" height="62">
+        <character x="52" y="380" width="44" height="41" char="A" />
+        <character x="108" y="378" width="35" height="48" char="H" />
+        <character x="145" y="387" width="26" height="38" char="a" />
+        <character x="171" y="388" width="33" height="42" char="n" />
+        <character x="203" y="387" width="29" height="44" char="d" />
+        <character x="231" y="383" width="33" height="50" char="b" />
+        <character x="261" y="392" width="37" height="40" char="o" />
+        <character x="297" y="394" width="30" height="38" char="o" />
+        <character x="325" y="388" width="35" height="47" char="k" />
+        <character x="376" y="400" width="30" height="34" char="o" />
+        <character x="405" y="383" width="26" height="54" char="f" />
+        <character x="442" y="388" width="35" height="48" char="k" />
+        <character x="477" y="399" width="32" height="40" char="o" />
+        <character x="509" y="396" width="26" height="40" char="r" />
+        <character x="535" y="398" width="29" height="42" char="e" />
+        <character x="566" y="396" width="31" height="41" char="a" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

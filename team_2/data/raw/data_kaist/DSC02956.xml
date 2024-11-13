@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02956.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="58" y="222" width="514" height="224">
+        <character x="86" y="223" width="113" height="116" char="둔" />
+        <character x="198" y="222" width="128" height="123" char="산" />
+        <character x="323" y="222" width="122" height="124" char="랜" />
+        <character x="440" y="225" width="123" height="107" char="드" />
+      </word>
+      <word x="58" y="388" width="347" height="58">
+        <character x="58" y="388" width="25" height="37" char="T" />
+        <character x="89" y="390" width="25" height="34" char="4" />
+        <character x="114" y="391" width="19" height="34" char="7" />
+        <character x="134" y="388" width="21" height="44" char="7" />
+        <character x="178" y="392" width="22" height="36" char="5" />
+        <character x="201" y="392" width="16" height="36" char="5" />
+        <character x="217" y="388" width="16" height="43" char="1" />
+        <character x="233" y="399" width="14" height="39" char="1" />
+        <character x="275" y="398" width="25" height="42" char="2" />
+      </word>
+      <word x="367" y="398" width="205" height="48">
+        <character x="413" y="398" width="36" height="45" char="표" />
+        <character x="460" y="402" width="32" height="37" char="박" />
+        <character x="505" y="402" width="30" height="37" char="종" />
+        <character x="535" y="401" width="37" height="39" char="선" />
+        <character x="367" y="400" width="38" height="46" char="대" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

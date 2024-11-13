@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03651.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="77" y="147" width="470" height="262">
+        <character x="77" y="147" width="111" height="105" char="M" />
+        <character x="187" y="174" width="66" height="101" char="y" />
+        <character x="270" y="167" width="77" height="95" char="S" />
+        <character x="346" y="164" width="45" height="89" char="t" />
+        <character x="389" y="177" width="59" height="100" char="y" />
+        <character x="446" y="157" width="25" height="96" char="l" />
+        <character x="473" y="180" width="74" height="73" char="e" />
+      </word>
+      <word x="172" y="276" width="271" height="62">
+        <character x="172" y="281" width="57" height="53" char="마" />
+        <character x="229" y="278" width="49" height="55" char="이" />
+        <character x="278" y="276" width="56" height="58" char="스" />
+        <character x="334" y="279" width="53" height="54" char="타" />
+        <character x="384" y="278" width="59" height="60" char="일" />
+      </word>
+      <word x="148" y="354" width="309" height="55">
+        <character x="148" y="358" width="44" height="51" char="T" />
+        <character x="200" y="358" width="38" height="50" char="4" />
+        <character x="239" y="355" width="27" height="52" char="8" />
+        <character x="266" y="356" width="30" height="53" char="2" />
+        <character x="332" y="358" width="32" height="46" char="7" />
+        <character x="365" y="356" width="24" height="49" char="1" />
+        <character x="388" y="357" width="33" height="48" char="7" />
+        <character x="421" y="354" width="36" height="51" char="7" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

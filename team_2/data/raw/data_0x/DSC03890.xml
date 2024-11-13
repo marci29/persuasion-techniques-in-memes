@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03890.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="214" y="237" width="370" height="221">
+        <character x="214" y="243" width="69" height="104" char="L" />
+        <character x="284" y="238" width="84" height="103" char="O" />
+        <character x="368" y="237" width="68" height="106" char="T" />
+        <character x="438" y="238" width="73" height="101" char="T" />
+        <character x="513" y="239" width="71" height="108" char="E" />
+      </word>
+      <word x="222" y="369" width="362" height="89">
+        <character x="222" y="370" width="76" height="85" char="롯" />
+        <character x="300" y="370" width="67" height="87" char="데" />
+        <character x="368" y="369" width="69" height="89" char="홈" />
+        <character x="436" y="373" width="73" height="78" char="쇼" />
+        <character x="509" y="372" width="75" height="81" char="핑" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

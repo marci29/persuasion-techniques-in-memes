@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04092.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="18" y="150" width="538" height="220">
+        <character x="18" y="173" width="89" height="92" char="봉" />
+        <character x="104" y="174" width="84" height="93" char="선" />
+        <character x="189" y="176" width="83" height="85" char="화" />
+        <character x="280" y="153" width="142" height="138" char="노" />
+        <character x="420" y="150" width="136" height="146" char="래" />
+      </word>
+      <word x="159" y="301" width="383" height="69">
+        <character x="159" y="330" width="22" height="31" char="B" />
+        <character x="182" y="328" width="11" height="30" char="1" />
+        <character x="325" y="302" width="69" height="68" char="연" />
+        <character x="393" y="302" width="70" height="65" char="습" />
+        <character x="462" y="301" width="80" height="69" char="장" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

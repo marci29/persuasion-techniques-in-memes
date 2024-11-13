@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04397.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="25" y="106" width="490" height="265">
+        <character x="25" y="181" width="102" height="138" char="F" />
+        <character x="117" y="219" width="85" height="98" char="a" />
+        <character x="199" y="217" width="71" height="98" char="n" />
+        <character x="253" y="189" width="76" height="125" char="t" />
+        <character x="307" y="230" width="81" height="97" char="a" />
+        <character x="389" y="212" width="56" height="117" char="s" />
+        <character x="444" y="235" width="71" height="136" char="y" />
+      </word>
+      <word x="129" y="106" width="316" height="92">
+        <character x="129" y="119" width="37" height="75" char="c" />
+        <character x="163" y="106" width="53" height="84" char="h" />
+        <character x="216" y="135" width="30" height="54" char="r" />
+        <character x="245" y="117" width="20" height="71" char="i" />
+        <character x="265" y="132" width="29" height="57" char="s" />
+        <character x="294" y="120" width="26" height="70" char="t" />
+        <character x="321" y="140" width="47" height="55" char="m" />
+        <character x="367" y="141" width="38" height="57" char="a" />
+        <character x="402" y="139" width="43" height="57" char="s" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

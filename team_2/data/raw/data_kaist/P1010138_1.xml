@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010138.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="116" y="71" width="431" height="91">
+        <character x="116" y="76" width="64" height="86" char="L" />
+        <character x="183" y="76" width="66" height="79" char="O" />
+        <character x="245" y="74" width="58" height="85" char="T" />
+        <character x="296" y="71" width="58" height="89" char="T" />
+        <character x="342" y="78" width="56" height="76" char="E" />
+        <character x="391" y="76" width="61" height="83" char="R" />
+        <character x="442" y="74" width="44" height="80" char="I" />
+        <character x="476" y="74" width="71" height="81" char="A" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

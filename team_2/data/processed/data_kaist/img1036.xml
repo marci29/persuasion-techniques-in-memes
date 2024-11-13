@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090903083.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="8" y="25" width="581" height="196">
+        <character x="8" y="32" width="103" height="122" char="제" />
+        <character x="116" y="25" width="94" height="135" char="인" />
+        <character x="257" y="32" width="110" height="110" char="오" />
+        <character x="368" y="34" width="105" height="109" char="스" />
+        <character x="474" y="35" width="115" height="133" char="틴" />
+      </word>
+      <word x="53" y="162" width="457" height="70">
+        <character x="53" y="162" width="57" height="63" char="J" />
+        <character x="112" y="178" width="43" height="46" char="a" />
+        <character x="263" y="169" width="48" height="63" char="A" />
+        <character x="317" y="176" width="41" height="50" char="u" />
+        <character x="427" y="177" width="34" height="51" char="e" />
+        <character x="462" y="180" width="48" height="45" char="n" />
+        <character x="156" y="176" width="46" height="43" char="n" />
+        <character x="204" y="176" width="41" height="44" char="e" />
+        <character x="359" y="177" width="30" height="44" char="s" />
+        <character x="392" y="171" width="32" height="49" char="t" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

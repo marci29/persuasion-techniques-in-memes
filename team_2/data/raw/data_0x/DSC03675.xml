@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03675.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="67" y="181" width="539" height="197">
+        <character x="67" y="197" width="60" height="81" char="클" />
+        <character x="124" y="221" width="56" height="65" char="랭" />
+        <character x="202" y="182" width="90" height="139" char="종" />
+        <character x="293" y="183" width="85" height="153" char="합" />
+        <character x="377" y="181" width="82" height="148" char="화" />
+        <character x="460" y="196" width="74" height="137" char="장" />
+        <character x="532" y="197" width="74" height="140" char="품" />
+      </word>
+      <word x="417" y="340" width="186" height="47">
+        <character x="417" y="340" width="27" height="40" char="4" />
+        <character x="450" y="341" width="21" height="42" char="8" />
+        <character x="478" y="340" width="19" height="43" char="8" />
+        <character x="504" y="341" width="19" height="44" char="2" />
+        <character x="530" y="342" width="19" height="39" char="3" />
+        <character x="553" y="346" width="22" height="41" char="2" />
+        <character x="575" y="345" width="28" height="33" char="5" />
+      </word>
+      <word x="369" y="123" width="224" height="65">
+        <character x="369" y="123" width="43" height="57" char="속" />
+        <character x="412" y="123" width="33" height="57" char="눈" />
+        <character x="445" y="131" width="36" height="53" char="썹" />
+        <character x="490" y="134" width="36" height="49" char="연" />
+        <character x="526" y="135" width="36" height="52" char="장" />
+        <character x="558" y="135" width="35" height="53" char="술" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

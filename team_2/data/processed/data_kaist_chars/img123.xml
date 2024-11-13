@@ -1,8 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="640" y="480" />
-    <all_chars><character x="229" y="199" width="85" height="108" char="P" />
-        <character x="312" y="198" width="86" height="99" char="A" />
-        <character x="399" y="198" width="92" height="94" char="R" />
-        <character x="491" y="199" width="36" height="89" char="I" />
-        <character x="526" y="197" width="94" height="88" char="S" />
+<root><resolution x="1600" y="1200" />
+    <all_chars><character x="1" y="591" width="64" height="93" char="Y" />
+      <character x="1237" y="66" width="365" height="366" char="약" />
+      <character x="1376" y="524" width="166" height="127" char="도" />
+      <character x="689" y="472" width="134" height="123" char="안" />
+        <character x="405" y="473" width="123" height="124" char="가" />
+        <character x="553" y="475" width="116" height="121" char="나" />
+        <character x="835" y="471" width="126" height="121" char="약" />
+        <character x="974" y="474" width="133" height="112" char="국" />
+      <character x="408" y="663" width="68" height="91" char="T" />
+        <character x="476" y="719" width="39" height="49" char="." />
+        <character x="534" y="664" width="63" height="94" char="8" />
+        <character x="612" y="663" width="66" height="99" char="2" />
+        <character x="679" y="664" width="66" height="96" char="2" />
+        <character x="750" y="692" width="73" height="46" char="-" />
+        <character x="828" y="659" width="69" height="93" char="8" />
+        <character x="898" y="662" width="68" height="92" char="3" />
+        <character x="968" y="659" width="70" height="97" char="5" />
+        <character x="1039" y="658" width="83" height="97" char="6" />
+      <character x="1499" y="768" width="36" height="87" char="안" />
+        <character x="1440" y="737" width="37" height="91" char="가" />
+        <character x="1472" y="757" width="31" height="84" char="나" />
+        <character x="1528" y="788" width="33" height="81" char="약" />
+        <character x="1553" y="802" width="34" height="89" char="국" />
       </all_chars></root>

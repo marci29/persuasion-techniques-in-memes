@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03126.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="212" y="215" width="187" height="120">
+        <character x="212" y="215" width="39" height="59" char="N" />
+        <character x="250" y="231" width="29" height="32" char="o" />
+        <character x="281" y="227" width="15" height="35" char="r" />
+        <character x="296" y="220" width="13" height="46" char="i" />
+        <character x="309" y="226" width="28" height="51" char="g" />
+        <character x="337" y="221" width="33" height="44" char="a" />
+        <character x="370" y="224" width="29" height="39" char="e" />
+      </word>
+      <word x="243" y="282" width="127" height="53">
+        <character x="243" y="287" width="43" height="47" char="노" />
+        <character x="285" y="282" width="43" height="49" char="리" />
+        <character x="327" y="284" width="43" height="51" char="개" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

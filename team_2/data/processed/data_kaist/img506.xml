@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03134.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="204" y="161" width="240" height="113">
+        <character x="204" y="161" width="33" height="42" char="B" />
+        <character x="237" y="169" width="24" height="38" char="o" />
+        <character x="261" y="169" width="19" height="38" char="s" />
+        <character x="282" y="172" width="23" height="39" char="e" />
+        <character x="303" y="173" width="28" height="36" char="o" />
+        <character x="330" y="169" width="23" height="48" char="k" />
+        <character x="354" y="168" width="25" height="43" char="h" />
+        <character x="379" y="171" width="28" height="37" char="a" />
+        <character x="405" y="169" width="39" height="42" char="m" />
+      </word>
+      <word x="260" y="230" width="114" height="44">
+        <character x="260" y="230" width="37" height="44" char="보" />
+        <character x="297" y="231" width="39" height="41" char="석" />
+        <character x="337" y="230" width="37" height="44" char="함" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

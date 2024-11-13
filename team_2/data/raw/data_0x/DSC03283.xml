@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03283.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="184" y="65" width="276" height="136">
+        <character x="184" y="72" width="54" height="59" char="A" />
+        <character x="239" y="70" width="43" height="59" char="C" />
+        <character x="282" y="66" width="44" height="62" char="U" />
+        <character x="327" y="65" width="52" height="69" char="V" />
+        <character x="380" y="65" width="45" height="69" char="U" />
+        <character x="426" y="66" width="34" height="63" char="E" />
+      </word>
+      <word x="220" y="150" width="225" height="51">
+        <character x="220" y="156" width="53" height="43" char="아" />
+        <character x="274" y="156" width="30" height="45" char="큐" />
+        <character x="305" y="153" width="35" height="40" char="브" />
+        <character x="352" y="152" width="30" height="45" char="전" />
+        <character x="384" y="150" width="28" height="46" char="문" />
+        <character x="412" y="150" width="33" height="51" char="점" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

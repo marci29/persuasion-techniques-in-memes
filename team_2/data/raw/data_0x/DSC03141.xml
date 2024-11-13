@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03141.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="208" y="187" width="225" height="121">
+        <character x="208" y="190" width="78" height="91" char="J" />
+        <character x="287" y="212" width="54" height="64" char="e" />
+        <character x="342" y="187" width="29" height="121" char="j" />
+        <character x="371" y="201" width="62" height="78" char="u" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

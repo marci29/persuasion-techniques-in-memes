@@ -1,7 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="65" y="33" width="121" height="146" char="P" />
-        <character x="186" y="32" width="139" height="149" char="O" />
-        <character x="326" y="32" width="92" height="148" char="P" />
-        <character x="416" y="45" width="113" height="140" char="E" />
+    <all_chars><character x="196" y="208" width="49" height="69" char="초" />
+        <character x="249" y="211" width="51" height="67" char="등" />
+        <character x="301" y="210" width="54" height="61" char="학" />
+        <character x="356" y="207" width="64" height="59" char="교" />
+        <character x="419" y="205" width="53" height="66" char="문" />
+        <character x="473" y="204" width="57" height="63" char="제" />
+        <character x="528" y="202" width="61" height="64" char="집" />
+      <character x="69" y="202" width="78" height="45" char="B" />
+      <character x="29" y="254" width="38" height="43" char="7" />
+        <character x="65" y="255" width="27" height="42" char="0" />
+        <character x="92" y="257" width="30" height="38" char="0" />
+        <character x="122" y="255" width="36" height="38" char="0" />
       </all_chars></root>

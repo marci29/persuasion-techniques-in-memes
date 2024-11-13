@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="640" y="480" />
+    <all_chars><character x="180" y="65" width="157" height="147" char="알" />
+        <character x="346" y="60" width="166" height="152" char="파" />
+      <character x="174" y="270" width="30" height="43" char="T" />
+        <character x="206" y="271" width="22" height="45" char="E" />
+        <character x="228" y="272" width="21" height="41" char="L" />
+        <character x="259" y="271" width="28" height="40" char="8" />
+        <character x="288" y="269" width="29" height="42" char="2" />
+        <character x="315" y="270" width="33" height="39" char="4" />
+        <character x="374" y="270" width="36" height="41" char="4" />
+        <character x="409" y="269" width="31" height="42" char="4" />
+        <character x="441" y="273" width="26" height="38" char="2" />
+        <character x="467" y="268" width="31" height="39" char="2" />
+      <character x="206" y="356" width="60" height="87" char="문" />
+        <character x="271" y="361" width="56" height="77" char="구" />
+        <character x="332" y="363" width="62" height="76" char="점" />
+      </all_chars></root>

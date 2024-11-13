@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04030.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="43" y="140" width="555" height="145">
+        <character x="43" y="170" width="47" height="91" char="t" />
+        <character x="91" y="187" width="53" height="75" char="o" />
+        <character x="147" y="172" width="61" height="90" char="d" />
+        <character x="209" y="184" width="57" height="74" char="a" />
+        <character x="266" y="185" width="66" height="91" char="y" />
+        <character x="365" y="140" width="110" height="145" char="마" />
+        <character x="477" y="140" width="121" height="133" char="트" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

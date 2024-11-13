@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04349.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="51" y="74" width="553" height="112">
+        <character x="51" y="82" width="65" height="101" char="C" />
+        <character x="117" y="83" width="65" height="96" char="h" />
+        <character x="183" y="82" width="38" height="98" char="i" />
+        <character x="220" y="75" width="37" height="111" char="l" />
+        <character x="256" y="75" width="68" height="107" char="d" />
+        <character x="322" y="74" width="70" height="109" char="u" />
+        <character x="402" y="85" width="70" height="95" char="어" />
+        <character x="467" y="88" width="71" height="87" char="학" />
+        <character x="536" y="91" width="68" height="91" char="원" />
+      </word>
+      <word x="114" y="280" width="486" height="92">
+        <character x="114" y="308" width="54" height="59" char="삼" />
+        <character x="161" y="306" width="48" height="52" char="화" />
+        <character x="203" y="302" width="52" height="62" char="문" />
+        <character x="253" y="300" width="45" height="59" char="구" />
+        <character x="323" y="302" width="60" height="63" char="O" />
+        <character x="383" y="302" width="26" height="58" char="F" />
+        <character x="408" y="301" width="21" height="59" char="F" />
+        <character x="429" y="280" width="13" height="92" char="i" />
+        <character x="443" y="306" width="27" height="57" char="C" />
+        <character x="470" y="304" width="25" height="62" char="E" />
+        <character x="502" y="313" width="31" height="47" char="오" />
+        <character x="533" y="313" width="28" height="48" char="피" />
+        <character x="562" y="314" width="38" height="51" char="스" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

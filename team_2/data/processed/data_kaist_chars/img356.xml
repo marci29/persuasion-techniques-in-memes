@@ -1,13 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="141" y="184" width="40" height="58" char="F" />
-        <character x="184" y="201" width="24" height="48" char="a" />
-        <character x="208" y="198" width="46" height="44" char="m" />
-        <character x="251" y="187" width="20" height="56" char="i" />
-        <character x="271" y="185" width="14" height="63" char="l" />
-        <character x="285" y="203" width="24" height="51" char="y" />
-        <character x="307" y="184" width="48" height="63" char="M" />
-        <character x="357" y="207" width="23" height="36" char="a" />
-        <character x="380" y="203" width="24" height="45" char="r" />
-        <character x="404" y="199" width="30" height="43" char="t" />
+    <all_chars><character x="73" y="278" width="36" height="51" char="5" />
+        <character x="109" y="277" width="27" height="50" char="0" />
+        <character x="136" y="275" width="28" height="48" char="0" />
+        <character x="166" y="271" width="28" height="51" char="0" />
+      <character x="107" y="218" width="70" height="49" char="C" />
+      <character x="236" y="237" width="60" height="67" char="음" />
+        <character x="316" y="229" width="77" height="58" char="악" />
+        <character x="413" y="220" width="71" height="60" char="이" />
+        <character x="501" y="208" width="72" height="68" char="론" />
       </all_chars></root>

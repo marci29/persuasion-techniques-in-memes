@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04337.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="209" y="103" width="263" height="61">
+        <character x="209" y="104" width="33" height="53" char="병" />
+        <character x="241" y="104" width="38" height="52" char="원" />
+        <character x="279" y="103" width="33" height="46" char="처" />
+        <character x="310" y="104" width="37" height="57" char="방" />
+        <character x="347" y="105" width="27" height="47" char="조" />
+        <character x="373" y="106" width="33" height="46" char="제" />
+        <character x="403" y="107" width="36" height="56" char="전" />
+        <character x="440" y="108" width="32" height="56" char="문" />
+      </word>
+      <word x="195" y="158" width="360" height="148">
+        <character x="195" y="164" width="88" height="123" char="드" />
+        <character x="282" y="162" width="90" height="144" char="림" />
+        <character x="372" y="159" width="100" height="145" char="약" />
+        <character x="470" y="158" width="85" height="143" char="국" />
+      </word>
+      <word x="279" y="317" width="240" height="46">
+        <character x="279" y="317" width="30" height="41" char="T" />
+        <character x="320" y="319" width="31" height="35" char="8" />
+        <character x="352" y="318" width="21" height="42" char="2" />
+        <character x="373" y="318" width="27" height="41" char="2" />
+        <character x="423" y="319" width="22" height="44" char="9" />
+        <character x="444" y="317" width="26" height="43" char="8" />
+        <character x="470" y="320" width="23" height="42" char="3" />
+        <character x="493" y="322" width="26" height="40" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

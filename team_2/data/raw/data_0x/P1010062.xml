@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010062.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="99" y="142" width="522" height="147">
+        <character x="99" y="199" width="101" height="65" char="당" />
+        <character x="213" y="206" width="94" height="60" char="구" />
+        <character x="317" y="206" width="98" height="65" char="클" />
+        <character x="434" y="209" width="97" height="59" char="럽" />
+        <character x="570" y="259" width="27" height="27" char="2" />
+        <character x="597" y="256" width="24" height="33" char="F" />
+      </word>
+      <word x="206" y="142" width="210" height="60">
+        <character x="206" y="142" width="97" height="58" char="세" />
+        <character x="320" y="142" width="96" height="60" char="이" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03738.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="83" y="26" width="487" height="260">
+        <character x="252" y="26" width="108" height="100" char="늘" />
+        <character x="358" y="28" width="106" height="87" char="푸" />
+        <character x="464" y="37" width="106" height="93" char="른" />
+      </word>
+      <word x="83" y="221" width="479" height="65">
+        <character x="83" y="221" width="48" height="57" char="3" />
+        <character x="130" y="232" width="39" height="49" char="F" />
+        <character x="249" y="233" width="39" height="46" char="T" />
+        <character x="307" y="235" width="34" height="45" char="4" />
+        <character x="338" y="233" width="33" height="53" char="7" />
+        <character x="371" y="232" width="34" height="51" char="2" />
+        <character x="430" y="238" width="34" height="45" char="7" />
+        <character x="462" y="238" width="34" height="42" char="5" />
+        <character x="496" y="236" width="30" height="49" char="2" />
+        <character x="525" y="239" width="37" height="42" char="8" />
+      </word>
+      <word x="311" y="130" width="225" height="81">
+        <character x="311" y="130" width="111" height="77" char="치" />
+        <character x="425" y="135" width="111" height="76" char="과" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>5</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

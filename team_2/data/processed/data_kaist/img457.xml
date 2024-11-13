@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03047.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="126" y="57" width="392" height="218">
+        <character x="126" y="57" width="133" height="115" char="원" />
+        <character x="275" y="66" width="108" height="116" char="촌" />
+        <character x="401" y="65" width="117" height="115" char="동" />
+      </word>
+      <word x="132" y="172" width="384" height="103">
+        <character x="132" y="172" width="61" height="80" char="W" />
+        <character x="195" y="202" width="25" height="53" char="o" />
+        <character x="220" y="198" width="29" height="57" char="n" />
+        <character x="248" y="195" width="29" height="60" char="c" />
+        <character x="278" y="186" width="26" height="68" char="h" />
+        <character x="306" y="197" width="27" height="61" char="o" />
+        <character x="330" y="196" width="33" height="63" char="n" />
+        <character x="388" y="183" width="33" height="73" char="d" />
+        <character x="423" y="199" width="28" height="55" char="o" />
+        <character x="453" y="195" width="27" height="59" char="n" />
+        <character x="480" y="192" width="36" height="83" char="g" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

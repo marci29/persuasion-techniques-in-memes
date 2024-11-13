@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010087.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="95" y="39" width="483" height="201">
+        <character x="95" y="40" width="130" height="118" char="선" />
+        <character x="229" y="39" width="151" height="109" char="사" />
+        <character x="381" y="62" width="99" height="85" char="애" />
+        <character x="485" y="60" width="93" height="97" char="견" />
+      </word>
+      <word x="151" y="171" width="404" height="69">
+        <character x="151" y="180" width="58" height="51" char="T" />
+        <character x="224" y="176" width="41" height="58" char="4" />
+        <character x="269" y="174" width="35" height="60" char="8" />
+        <character x="304" y="171" width="43" height="60" char="2" />
+        <character x="392" y="178" width="45" height="56" char="9" />
+        <character x="434" y="174" width="40" height="66" char="8" />
+        <character x="479" y="179" width="35" height="54" char="3" />
+        <character x="515" y="176" width="40" height="53" char="9" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

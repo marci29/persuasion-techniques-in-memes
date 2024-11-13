@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010133.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="210" y="59" width="312" height="98">
+        <character x="210" y="61" width="58" height="88" char="F" />
+        <character x="276" y="59" width="57" height="97" char="R" />
+        <character x="329" y="63" width="65" height="94" char="E" />
+        <character x="394" y="72" width="56" height="84" char="S" />
+        <character x="452" y="67" width="70" height="89" char="H" />
+      </word>
+      <word x="212" y="151" width="326" height="98">
+        <character x="212" y="159" width="94" height="86" char="C" />
+        <character x="303" y="155" width="87" height="94" char="O" />
+        <character x="389" y="151" width="78" height="91" char="O" />
+        <character x="466" y="151" width="72" height="93" char="L" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

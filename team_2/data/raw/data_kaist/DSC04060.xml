@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04060.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="65" y="91" width="558" height="152">
+        <character x="67" y="184" width="46" height="57" char="S" />
+        <character x="110" y="181" width="40" height="62" char="O" />
+        <character x="149" y="180" width="33" height="63" char="F" />
+        <character x="182" y="179" width="36" height="56" char="T" />
+        <character x="240" y="175" width="42" height="62" char="S" />
+        <character x="283" y="177" width="30" height="56" char="T" />
+        <character x="314" y="179" width="38" height="55" char="A" />
+        <character x="352" y="176" width="34" height="58" char="R" />
+        <character x="386" y="179" width="31" height="52" char="T" />
+        <character x="416" y="176" width="35" height="53" char="E" />
+        <character x="451" y="174" width="35" height="54" char="R" />
+        <character x="489" y="166" width="71" height="65" char="판" />
+        <character x="561" y="163" width="62" height="66" char="매" />
+      </word>
+      <word x="65" y="91" width="533" height="68">
+        <character x="65" y="97" width="49" height="59" char="M" />
+        <character x="114" y="100" width="41" height="53" char="M" />
+        <character x="153" y="96" width="37" height="61" char="I" />
+        <character x="212" y="99" width="24" height="56" char="I" />
+        <character x="235" y="97" width="33" height="56" char="N" />
+        <character x="266" y="97" width="36" height="62" char="T" />
+        <character x="306" y="100" width="37" height="54" char="O" />
+        <character x="343" y="96" width="32" height="58" char="C" />
+        <character x="372" y="102" width="39" height="51" char="H" />
+        <character x="440" y="97" width="33" height="53" char="C" />
+        <character x="475" y="96" width="19" height="54" char="I" />
+        <character x="495" y="93" width="41" height="55" char="M" />
+        <character x="535" y="95" width="31" height="54" char="O" />
+        <character x="568" y="91" width="30" height="59" char="N" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02938.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="42" y="97" width="545" height="191">
+        <character x="42" y="97" width="133" height="138" char="꽃" />
+        <character x="210" y="122" width="123" height="96" char="화" />
+        <character x="334" y="123" width="88" height="99" char="소" />
+        <character x="421" y="122" width="104" height="102" char="림" />
+      </word>
+      <word x="381" y="239" width="206" height="49">
+        <character x="381" y="240" width="31" height="40" char="T" />
+        <character x="413" y="242" width="28" height="44" char="4" />
+        <character x="435" y="241" width="22" height="45" char="7" />
+        <character x="458" y="239" width="19" height="43" char="7" />
+        <character x="496" y="245" width="24" height="41" char="0" />
+        <character x="521" y="243" width="22" height="42" char="2" />
+        <character x="543" y="239" width="19" height="46" char="1" />
+        <character x="563" y="241" width="24" height="47" char="9" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03429.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="89" y="133" width="466" height="108">
+        <character x="138" y="202" width="41" height="37" char="사" />
+        <character x="179" y="196" width="28" height="45" char="용" />
+        <character x="207" y="200" width="33" height="41" char="압" />
+        <character x="241" y="199" width="31" height="37" char="력" />
+        <character x="396" y="203" width="28" height="35" char="K" />
+        <character x="426" y="204" width="24" height="32" char="G" />
+        <character x="459" y="200" width="24" height="37" char="C" />
+        <character x="483" y="210" width="28" height="28" char="m" />
+      </word>
+      <word x="89" y="133" width="466" height="70">
+        <character x="89" y="133" width="62" height="70" char="연" />
+        <character x="151" y="136" width="56" height="65" char="결" />
+        <character x="207" y="138" width="53" height="64" char="송" />
+        <character x="262" y="136" width="52" height="63" char="수" />
+        <character x="316" y="133" width="60" height="65" char="구" />
+        <character x="396" y="137" width="42" height="61" char="S" />
+        <character x="458" y="142" width="44" height="55" char="P" />
+        <character x="506" y="139" width="49" height="59" char="용" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

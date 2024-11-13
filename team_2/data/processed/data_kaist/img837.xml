@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04022.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="256" y="72" width="237" height="83">
+        <character x="256" y="87" width="43" height="68" char="물" />
+        <character x="298" y="86" width="43" height="68" char="은" />
+        <character x="364" y="77" width="75" height="75" char="셀" />
+        <character x="437" y="72" width="56" height="58" char="프" />
+      </word>
+      <word x="286" y="147" width="257" height="58">
+        <character x="286" y="160" width="29" height="41" char="S" />
+        <character x="316" y="175" width="21" height="26" char="e" />
+        <character x="338" y="161" width="12" height="44" char="l" />
+        <character x="350" y="160" width="17" height="43" char="f" />
+        <character x="385" y="154" width="54" height="46" char="입" />
+        <character x="439" y="152" width="47" height="38" char="니" />
+        <character x="486" y="147" width="57" height="45" char="다" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

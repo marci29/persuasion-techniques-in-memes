@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04086.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="84" y="235" width="391" height="165">
+        <character x="84" y="235" width="102" height="125" char="심" />
+        <character x="203" y="245" width="92" height="101" char="지" />
+      </word>
+      <word x="340" y="369" width="135" height="31">
+        <character x="340" y="369" width="19" height="27" char="T" />
+        <character x="362" y="373" width="15" height="23" char="4" />
+        <character x="378" y="374" width="13" height="22" char="8" />
+        <character x="391" y="371" width="15" height="26" char="9" />
+        <character x="420" y="373" width="17" height="27" char="0" />
+        <character x="438" y="371" width="12" height="29" char="0" />
+        <character x="451" y="371" width="15" height="28" char="6" />
+        <character x="466" y="374" width="9" height="26" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

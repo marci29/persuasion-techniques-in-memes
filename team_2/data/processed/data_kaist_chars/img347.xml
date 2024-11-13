@@ -1,9 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="28" y="120" width="105" height="115" char="A" />
-        <character x="132" y="120" width="72" height="122" char="S" />
-        <character x="206" y="123" width="88" height="120" char="H" />
-        <character x="294" y="119" width="82" height="120" char="L" />
-        <character x="375" y="117" width="79" height="120" char="E" />
-        <character x="455" y="119" width="64" height="116" char="Y" />
+    <all_chars><character x="39" y="293" width="32" height="43" char="2" />
+        <character x="71" y="291" width="27" height="44" char="0" />
+        <character x="98" y="290" width="29" height="40" char="0" />
+        <character x="126" y="292" width="32" height="39" char="0" />
+      <character x="79" y="244" width="60" height="35" char="A" />
+      <character x="189" y="236" width="49" height="70" char="유" />
+        <character x="237" y="238" width="71" height="59" char="아" />
+        <character x="311" y="223" width="54" height="61" char="그" />
+        <character x="365" y="218" width="66" height="66" char="림" />
+        <character x="432" y="216" width="64" height="62" char="동" />
+        <character x="497" y="206" width="73" height="65" char="화" />
       </all_chars></root>

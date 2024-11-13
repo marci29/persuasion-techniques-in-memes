@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03079.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="194" y="317" width="250" height="86">
+        <character x="194" y="317" width="38" height="72" char="T" />
+        <character x="231" y="338" width="25" height="54" char="e" />
+        <character x="257" y="335" width="22" height="56" char="c" />
+        <character x="279" y="321" width="26" height="65" char="h" />
+        <character x="304" y="334" width="23" height="55" char="n" />
+        <character x="327" y="334" width="25" height="51" char="o" />
+        <character x="351" y="322" width="16" height="67" char="l" />
+        <character x="365" y="332" width="26" height="54" char="o" />
+        <character x="392" y="331" width="25" height="72" char="g" />
+        <character x="416" y="330" width="28" height="66" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

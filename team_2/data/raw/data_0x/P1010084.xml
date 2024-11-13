@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010084.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="11" y="10" width="618" height="229">
+        <character x="11" y="187" width="20" height="37" char="1" />
+        <character x="28" y="186" width="23" height="37" char="0" />
+        <character x="52" y="183" width="20" height="43" char="4" />
+        <character x="74" y="186" width="39" height="38" char="호" />
+        <character x="26" y="121" width="90" height="64" char="갑" />
+        <character x="34" y="67" width="86" height="55" char="병" />
+        <character x="42" y="10" width="95" height="58" char="민" />
+      </word>
+      <word x="208" y="14" width="421" height="139">
+        <character x="208" y="18" width="126" height="135" char="법" />
+        <character x="352" y="21" width="127" height="127" char="무" />
+        <character x="507" y="14" width="122" height="138" char="사" />
+      </word>
+      <word x="237" y="186" width="360" height="53">
+        <character x="237" y="188" width="44" height="51" char="T" />
+        <character x="305" y="190" width="33" height="47" char="4" />
+        <character x="339" y="186" width="36" height="53" char="7" />
+        <character x="378" y="188" width="39" height="49" char="2" />
+        <character x="454" y="188" width="38" height="48" char="5" />
+        <character x="492" y="188" width="34" height="43" char="0" />
+        <character x="529" y="192" width="37" height="43" char="4" />
+        <character x="567" y="192" width="30" height="46" char="1" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

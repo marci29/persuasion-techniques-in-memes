@@ -1,7 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="320" y="240" />
-    <all_chars><character x="37" y="65" width="61" height="57" char="M" />
-        <character x="100" y="66" width="54" height="57" char="O" />
-        <character x="151" y="67" width="63" height="56" char="G" />
-        <character x="218" y="67" width="67" height="58" char="G" />
+<root><resolution x="640" y="480" />
+    <all_chars><character x="63" y="118" width="119" height="109" char="T" />
+        <character x="173" y="118" width="121" height="110" char="O" />
+        <character x="296" y="117" width="79" height="120" char="E" />
+        <character x="374" y="121" width="41" height="112" char="I" />
+        <character x="416" y="123" width="113" height="108" char="C" />
+        <character x="65" y="238" width="115" height="117" char="V" />
+        <character x="177" y="239" width="122" height="120" char="O" />
+        <character x="297" y="240" width="111" height="115" char="C" />
+        <character x="408" y="236" width="115" height="117" char="A" />
+      <character x="64" y="365" width="49" height="47" char="초" />
+        <character x="112" y="367" width="34" height="45" char="스" />
+        <character x="146" y="363" width="34" height="49" char="피" />
+        <character x="181" y="365" width="32" height="43" char="드" />
+        <character x="226" y="367" width="38" height="49" char="암" />
+        <character x="264" y="369" width="33" height="43" char="기" />
+        <character x="296" y="368" width="32" height="41" char="비" />
+        <character x="330" y="368" width="31" height="51" char="법" />
       </all_chars></root>

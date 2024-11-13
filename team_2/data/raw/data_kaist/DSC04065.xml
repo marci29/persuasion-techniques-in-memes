@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04065.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="53" y="118" width="556" height="70">
+        <character x="53" y="118" width="74" height="67" char="충" />
+        <character x="123" y="120" width="65" height="65" char="남" />
+        <character x="188" y="118" width="62" height="62" char="도" />
+        <character x="247" y="119" width="56" height="66" char="시" />
+        <character x="302" y="122" width="63" height="61" char="가" />
+        <character x="363" y="120" width="62" height="68" char="스" />
+        <character x="449" y="135" width="28" height="46" char="S" />
+        <character x="478" y="136" width="35" height="43" char="K" />
+        <character x="533" y="143" width="26" height="40" char="E" />
+        <character x="576" y="144" width="33" height="40" char="S" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

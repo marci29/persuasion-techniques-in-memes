@@ -1,23 +1,21 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="183" y="287" width="41" height="58" char="V" />
-        <character x="226" y="293" width="29" height="57" char="E" />
-        <character x="255" y="292" width="30" height="55" char="R" />
-        <character x="286" y="291" width="33" height="60" char="O" />
-        <character x="329" y="290" width="38" height="59" char="E" />
-        <character x="366" y="303" width="26" height="47" char="s" />
-        <character x="394" y="305" width="26" height="58" char="p" />
-        <character x="419" y="303" width="22" height="43" char="r" />
-        <character x="441" y="313" width="25" height="37" char="e" />
-        <character x="470" y="312" width="22" height="39" char="s" />
-        <character x="492" y="311" width="21" height="37" char="s" />
-        <character x="513" y="310" width="29" height="45" char="o" />
-      <character x="190" y="398" width="23" height="31" char="T" />
-        <character x="226" y="396" width="21" height="36" char="4" />
-        <character x="245" y="396" width="23" height="36" char="7" />
-        <character x="268" y="397" width="21" height="33" char="2" />
-        <character x="310" y="399" width="24" height="30" char="4" />
-        <character x="334" y="399" width="20" height="33" char="7" />
-        <character x="354" y="400" width="21" height="34" char="4" />
-        <character x="376" y="400" width="22" height="31" char="4" />
+    <all_chars><character x="47" y="60" width="62" height="128" char="T" />
+        <character x="111" y="68" width="54" height="119" char="O" />
+        <character x="168" y="66" width="57" height="120" char="K" />
+        <character x="225" y="66" width="56" height="119" char="Y" />
+        <character x="283" y="79" width="62" height="109" char="U" />
+        <character x="367" y="75" width="54" height="110" char="H" />
+        <character x="420" y="74" width="53" height="116" char="O" />
+        <character x="473" y="74" width="51" height="116" char="U" />
+        <character x="524" y="73" width="49" height="120" char="S" />
+        <character x="571" y="73" width="61" height="114" char="E" />
+      <character x="54" y="218" width="39" height="49" char="T" />
+        <character x="109" y="222" width="33" height="42" char="8" />
+        <character x="154" y="222" width="33" height="44" char="2" />
+        <character x="205" y="221" width="28" height="43" char="2" />
+        <character x="265" y="222" width="34" height="43" char="8" />
+        <character x="309" y="220" width="30" height="45" char="1" />
+        <character x="353" y="221" width="29" height="41" char="8" />
+        <character x="394" y="224" width="31" height="37" char="0" />
       </all_chars></root>

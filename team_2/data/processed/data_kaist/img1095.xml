@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010019.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="44" y="77" width="83" height="158">
+        <character x="52" y="77" width="75" height="73" char="선" />
+        <character x="44" y="156" width="83" height="79" char="사" />
+      </word>
+      <word x="148" y="81" width="432" height="162">
+        <character x="148" y="81" width="101" height="101" char="신" />
+        <character x="266" y="89" width="88" height="99" char="경" />
+        <character x="377" y="90" width="93" height="99" char="외" />
+        <character x="485" y="94" width="95" height="99" char="과" />
+        <character x="255" y="198" width="27" height="45" char="T" />
+        <character x="292" y="199" width="25" height="40" char="4" />
+        <character x="318" y="198" width="22" height="43" char="7" />
+        <character x="339" y="202" width="27" height="38" char="2" />
+        <character x="382" y="201" width="26" height="40" char="9" />
+        <character x="409" y="204" width="20" height="36" char="9" />
+        <character x="429" y="201" width="22" height="36" char="7" />
+        <character x="451" y="200" width="29" height="41" char="5" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02886.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="32" y="63" width="568" height="121">
+        <character x="32" y="97" width="64" height="87" char="강" />
+        <character x="96" y="98" width="58" height="80" char="형" />
+        <character x="155" y="95" width="71" height="60" char="자" />
+        <character x="264" y="86" width="78" height="55" char="헤" />
+        <character x="338" y="79" width="65" height="58" char="어" />
+        <character x="401" y="78" width="80" height="58" char="페" />
+        <character x="480" y="67" width="64" height="60" char="이" />
+        <character x="547" y="63" width="53" height="61" char="스" />
+      </word>
+      <word x="263" y="128" width="336" height="53">
+        <character x="263" y="141" width="38" height="38" char="K" />
+        <character x="301" y="146" width="18" height="35" char="a" />
+        <character x="318" y="145" width="24" height="28" char="n" />
+        <character x="339" y="144" width="24" height="33" char="g" />
+        <character x="371" y="139" width="34" height="32" char="H" />
+        <character x="407" y="140" width="27" height="27" char="J" />
+        <character x="436" y="136" width="26" height="30" char="h" />
+        <character x="462" y="139" width="20" height="26" char="a" />
+        <character x="482" y="130" width="13" height="40" char="i" />
+        <character x="495" y="133" width="17" height="29" char="r" />
+        <character x="516" y="129" width="21" height="29" char="F" />
+        <character x="537" y="130" width="17" height="29" char="a" />
+        <character x="553" y="130" width="20" height="30" char="c" />
+        <character x="573" y="128" width="26" height="28" char="e" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

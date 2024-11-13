@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03274.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="42" y="261" width="73" height="104">
+        <character x="42" y="261" width="73" height="104" char="플" />
+      </word>
+      <word x="115" y="258" width="76" height="100">
+        <character x="115" y="258" width="76" height="100" char="러" />
+      </word>
+      <word x="189" y="256" width="81" height="96">
+        <character x="189" y="256" width="81" height="96" char="스" />
+      </word>
+      <word x="270" y="254" width="72" height="107">
+        <character x="270" y="254" width="72" height="107" char="어" />
+      </word>
+      <word x="343" y="251" width="82" height="108">
+        <character x="343" y="251" width="82" height="108" char="학" />
+      </word>
+      <word x="427" y="251" width="82" height="108">
+        <character x="427" y="251" width="82" height="108" char="원" />
+      </word>
+      <word x="429" y="364" width="42" height="59">
+        <character x="429" y="364" width="42" height="59" char="5" />
+      </word>
+      <word x="471" y="369" width="31" height="52">
+        <character x="471" y="369" width="31" height="52" char="F" />
+      </word>
+      <word x="135" y="83" width="271" height="77">
+        <character x="135" y="86" width="70" height="74" char="P" />
+        <character x="204" y="86" width="67" height="74" char="L" />
+        <character x="270" y="84" width="70" height="74" char="U" />
+        <character x="342" y="83" width="64" height="75" char="S" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

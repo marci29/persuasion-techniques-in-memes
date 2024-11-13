@@ -1,6 +1,26 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="109" y="147" width="183" height="140" char="M" />
-        <character x="295" y="159" width="93" height="140" char="I" />
-        <character x="387" y="154" width="141" height="145" char="X" />
+    <all_chars><character x="26" y="107" width="125" height="121" char="세" />
+        <character x="153" y="111" width="112" height="114" char="종" />
+        <character x="267" y="113" width="72" height="109" char="2" />
+        <character x="342" y="112" width="71" height="113" char="5" />
+        <character x="417" y="115" width="115" height="116" char="시" />
+      <character x="298" y="256" width="48" height="68" char="윤" />
+        <character x="343" y="254" width="38" height="68" char="정" />
+        <character x="381" y="256" width="40" height="63" char="순" />
+        <character x="427" y="251" width="42" height="69" char="사" />
+        <character x="464" y="255" width="38" height="63" char="무" />
+        <character x="497" y="256" width="54" height="61" char="소" />
+        <character x="75" y="247" width="50" height="71" char="인" />
+        <character x="128" y="251" width="49" height="72" char="중" />
+        <character x="178" y="251" width="49" height="74" char="개" />
+        <character x="232" y="251" width="45" height="71" char="사" />
+      <character x="82" y="348" width="55" height="84" char="T" />
+        <character x="176" y="351" width="52" height="80" char="8" />
+        <character x="228" y="351" width="44" height="83" char="6" />
+        <character x="273" y="347" width="49" height="85" char="4" />
+        <character x="366" y="347" width="47" height="85" char="1" />
+        <character x="411" y="342" width="48" height="91" char="0" />
+        <character x="458" y="349" width="49" height="83" char="0" />
+        <character x="506" y="349" width="56" height="89" char="4" />
       </all_chars></root>

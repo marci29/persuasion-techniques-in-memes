@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03604.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="67" y="80" width="478" height="254">
+        <character x="67" y="257" width="52" height="56" char="한" />
+        <character x="120" y="258" width="46" height="61" char="국" />
+        <character x="163" y="256" width="49" height="66" char="방" />
+        <character x="211" y="266" width="51" height="62" char="송" />
+        <character x="259" y="266" width="48" height="57" char="공" />
+        <character x="305" y="269" width="54" height="50" char="사" />
+        <character x="355" y="271" width="45" height="58" char="대" />
+        <character x="401" y="269" width="47" height="64" char="전" />
+        <character x="447" y="268" width="51" height="66" char="총" />
+        <character x="496" y="267" width="49" height="62" char="국" />
+      </word>
+      <word x="239" y="206" width="138" height="52">
+        <character x="239" y="209" width="41" height="46" char="K" />
+        <character x="296" y="206" width="29" height="52" char="B" />
+        <character x="344" y="212" width="33" height="44" char="S" />
+      </word>
+      <word x="293" y="142" width="40" height="35">
+        <character x="293" y="144" width="20" height="30" char="5" />
+        <character x="314" y="142" width="19" height="35" char="4" />
+      </word>
+      <word x="277" y="80" width="80" height="50">
+        <character x="277" y="80" width="27" height="50" char="3" />
+        <character x="301" y="86" width="28" height="41" char="0" />
+        <character x="329" y="85" width="28" height="40" char="0" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

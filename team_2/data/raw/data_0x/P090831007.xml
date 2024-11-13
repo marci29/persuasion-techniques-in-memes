@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831007.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="122" y="128" width="365" height="68">
+        <character x="122" y="132" width="39" height="59" char="1" />
+        <character x="160" y="129" width="47" height="58" char="4" />
+        <character x="205" y="129" width="46" height="58" char="0" />
+        <character x="249" y="128" width="33" height="65" char="1" />
+        <character x="321" y="135" width="28" height="60" char="1" />
+        <character x="349" y="132" width="46" height="64" char="4" />
+        <character x="396" y="130" width="43" height="61" char="4" />
+        <character x="437" y="131" width="50" height="65" char="3" />
+      </word>
+      <word x="123" y="198" width="360" height="75">
+        <character x="123" y="200" width="45" height="63" char="2" />
+        <character x="166" y="199" width="44" height="63" char="4" />
+        <character x="211" y="200" width="45" height="58" char="0" />
+        <character x="253" y="198" width="26" height="65" char="1" />
+        <character x="315" y="207" width="42" height="61" char="2" />
+        <character x="355" y="205" width="45" height="65" char="4" />
+        <character x="399" y="202" width="42" height="71" char="5" />
+        <character x="440" y="203" width="43" height="68" char="2" />
+      </word>
+      <word x="115" y="267" width="365" height="75">
+        <character x="115" y="272" width="50" height="58" char="3" />
+        <character x="165" y="272" width="41" height="61" char="4" />
+        <character x="205" y="270" width="45" height="57" char="0" />
+        <character x="249" y="267" width="33" height="66" char="1" />
+        <character x="313" y="273" width="38" height="65" char="3" />
+        <character x="351" y="273" width="44" height="64" char="4" />
+        <character x="394" y="273" width="42" height="66" char="4" />
+        <character x="436" y="275" width="44" height="67" char="9" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

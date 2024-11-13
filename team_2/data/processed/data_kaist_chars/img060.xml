@@ -1,11 +1,35 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="640" y="480" />
-    <all_chars><character x="222" y="263" width="31" height="37" char="R" />
-        <character x="254" y="262" width="18" height="38" char="e" />
-        <character x="272" y="263" width="17" height="36" char="s" />
-        <character x="289" y="264" width="15" height="34" char="t" />
-        <character x="315" y="262" width="24" height="34" char="R" />
-        <character x="340" y="262" width="19" height="38" char="o" />
-        <character x="360" y="262" width="19" height="37" char="o" />
-        <character x="380" y="262" width="34" height="36" char="m" />
+<root><resolution x="1600" y="1200" />
+    <all_chars><character x="125" y="341" width="101" height="128" char="내" />
+      <character x="228" y="338" width="79" height="128" char="생" />
+        <character x="308" y="343" width="80" height="129" char="활" />
+      <character x="390" y="346" width="74" height="110" char="리" />
+        <character x="463" y="346" width="76" height="121" char="듬" />
+      <character x="560" y="349" width="83" height="106" char="그" />
+        <character x="643" y="346" width="70" height="107" char="대" />
+        <character x="715" y="345" width="77" height="105" char="로" />
+      <character x="813" y="339" width="75" height="115" char="즐" />
+        <character x="886" y="339" width="73" height="115" char="겁" />
+        <character x="960" y="337" width="77" height="116" char="게" />
+      <character x="1053" y="342" width="73" height="106" char="편" />
+        <character x="1132" y="343" width="78" height="108" char="안" />
+        <character x="1209" y="343" width="70" height="111" char="하" />
+        <character x="1276" y="336" width="66" height="114" char="게" />
+      <character x="554" y="573" width="191" height="231" char="z" />
+        <character x="748" y="593" width="208" height="212" char="e" />
+        <character x="960" y="577" width="162" height="222" char="r" />
+      <character x="1278" y="683" width="10" height="20" char="-" />
+        <character x="1289" y="655" width="27" height="65" char="3" />
+        <character x="1139" y="658" width="34" height="67" char="F" />
+        <character x="1175" y="658" width="31" height="69" char="L" />
+        <character x="1203" y="655" width="40" height="66" char="A" />
+        <character x="1243" y="654" width="33" height="71" char="T" />
+      <character x="973" y="831" width="63" height="77" char="3" />
+        <character x="565" y="833" width="108" height="140" char="제" />
+        <character x="672" y="834" width="109" height="112" char="로" />
+        <character x="780" y="829" width="105" height="128" char="플" />
+        <character x="887" y="829" width="89" height="141" char="렛" />
+        <character x="1043" y="825" width="89" height="126" char="키" />
+        <character x="1132" y="821" width="93" height="125" char="토" />
+        <character x="1224" y="821" width="101" height="123" char="산" />
       </all_chars></root>

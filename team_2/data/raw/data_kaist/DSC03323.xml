@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03323.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="2147483647" y="2147483647" width="-2147483647" height="-2147483647" />
+      <word x="2147483647" y="2147483647" width="-2147483647" height="-2147483647" />
+      <word x="28" y="121" width="602" height="226">
+        <character x="28" y="165" width="168" height="134" char="온" />
+        <character x="218" y="142" width="158" height="137" char="누" />
+        <character x="404" y="121" width="185" height="130" char="리" />
+      </word>
+      <word x="182" y="288" width="221" height="59">
+        <character x="182" y="300" width="39" height="46" char="4" />
+        <character x="219" y="303" width="23" height="44" char="7" />
+        <character x="244" y="299" width="25" height="44" char="2" />
+        <character x="294" y="294" width="24" height="44" char="8" />
+        <character x="317" y="291" width="27" height="48" char="2" />
+        <character x="345" y="288" width="27" height="45" char="4" />
+        <character x="371" y="291" width="32" height="45" char="2" />
+      </word>
+      <word x="551" y="260" width="79" height="60">
+        <character x="551" y="260" width="41" height="60" char="6" />
+        <character x="593" y="264" width="37" height="52" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

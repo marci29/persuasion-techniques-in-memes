@@ -1,9 +1,25 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="195" y="237" width="47" height="47" char="L" />
-        <character x="242" y="245" width="35" height="38" char="o" />
-        <character x="276" y="245" width="35" height="39" char="n" />
-        <character x="313" y="238" width="36" height="45" char="d" />
-        <character x="351" y="246" width="33" height="35" char="o" />
-        <character x="387" y="246" width="42" height="38" char="n" />
+    <all_chars><character x="61" y="79" width="46" height="67" char="2" />
+        <character x="110" y="77" width="46" height="75" char="4" />
+        <character x="160" y="77" width="72" height="72" char="시" />
+        <character x="232" y="72" width="83" height="88" char="간" />
+        <character x="340" y="72" width="75" height="84" char="편" />
+        <character x="418" y="75" width="75" height="76" char="의" />
+        <character x="497" y="69" width="77" height="82" char="점" />
+      <character x="13" y="183" width="51" height="45" char="w" />
+        <character x="65" y="179" width="47" height="51" char="w" />
+        <character x="112" y="181" width="44" height="49" char="w" />
+        <character x="172" y="183" width="56" height="48" char="m" />
+        <character x="227" y="170" width="19" height="63" char="i" />
+        <character x="248" y="179" width="31" height="47" char="n" />
+        <character x="282" y="171" width="19" height="60" char="i" />
+        <character x="302" y="175" width="29" height="51" char="s" />
+        <character x="333" y="175" width="27" height="52" char="t" />
+        <character x="359" y="185" width="31" height="38" char="o" />
+        <character x="394" y="186" width="39" height="49" char="p" />
+        <character x="449" y="185" width="34" height="39" char="c" />
+        <character x="486" y="180" width="34" height="47" char="o" />
+        <character x="539" y="179" width="34" height="52" char="k" />
+        <character x="574" y="182" width="38" height="50" char="r" />
       </all_chars></root>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02887.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="34" y="27" width="562" height="313">
+        <character x="34" y="54" width="56" height="64" char="이" />
+        <character x="89" y="51" width="63" height="69" char="호" />
+        <character x="154" y="33" width="103" height="89" char="영" />
+        <character x="255" y="31" width="115" height="80" char="어" />
+        <character x="369" y="27" width="109" height="72" char="교" />
+        <character x="477" y="27" width="119" height="92" char="실" />
+      </word>
+      <word x="239" y="114" width="208" height="43">
+        <character x="239" y="122" width="23" height="34" char="4" />
+        <character x="262" y="121" width="20" height="33" char="8" />
+        <character x="283" y="119" width="20" height="35" char="7" />
+        <character x="315" y="121" width="22" height="32" char="5" />
+        <character x="338" y="119" width="18" height="35" char="1" />
+        <character x="355" y="118" width="23" height="32" char="9" />
+        <character x="375" y="115" width="25" height="37" char="8" />
+        <character x="405" y="114" width="23" height="36" char="2" />
+        <character x="428" y="114" width="19" height="43" char="F" />
+      </word>
+      <word x="68" y="229" width="313" height="60">
+        <character x="68" y="229" width="53" height="53" char="중" />
+        <character x="133" y="233" width="41" height="48" char="고" />
+        <character x="170" y="233" width="48" height="52" char="생" />
+        <character x="223" y="238" width="39" height="51" char="영" />
+        <character x="261" y="239" width="38" height="46" char="어" />
+        <character x="298" y="233" width="42" height="46" char="지" />
+        <character x="341" y="233" width="40" height="50" char="도" />
+      </word>
+      <word x="75" y="280" width="135" height="60">
+        <character x="75" y="286" width="42" height="52" char="팀" />
+        <character x="114" y="282" width="47" height="56" char="수" />
+        <character x="162" y="280" width="48" height="60" char="업" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

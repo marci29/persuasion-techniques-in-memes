@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02949.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="188" y="58" width="231" height="194">
+        <character x="188" y="63" width="64" height="184" char="S" />
+        <character x="250" y="63" width="37" height="180" char="A" />
+        <character x="285" y="62" width="30" height="184" char="L" />
+        <character x="315" y="61" width="38" height="190" char="E" />
+        <character x="352" y="59" width="39" height="184" char="3" />
+        <character x="390" y="58" width="29" height="194" char="0" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

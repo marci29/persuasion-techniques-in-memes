@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04017.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="15" y="3" width="165" height="55">
+        <character x="15" y="5" width="46" height="52" char="1" />
+        <character x="63" y="3" width="46" height="51" char="1" />
+        <character x="110" y="3" width="70" height="55" char="2" />
+      </word>
+      <word x="127" y="237" width="360" height="93">
+        <character x="127" y="244" width="65" height="85" char="주" />
+        <character x="192" y="242" width="57" height="85" char="민" />
+        <character x="249" y="239" width="60" height="91" char="신" />
+        <character x="307" y="240" width="64" height="78" char="고" />
+        <character x="369" y="237" width="63" height="87" char="센" />
+        <character x="435" y="237" width="52" height="80" char="터" />
+      </word>
+      <word x="111" y="343" width="403" height="81">
+        <character x="111" y="348" width="56" height="76" char="만" />
+        <character x="168" y="351" width="56" height="72" char="년" />
+        <character x="223" y="347" width="61" height="74" char="자" />
+        <character x="284" y="353" width="54" height="67" char="율" />
+        <character x="335" y="345" width="64" height="74" char="방" />
+        <character x="397" y="343" width="56" height="75" char="범" />
+        <character x="454" y="343" width="60" height="75" char="대" />
+      </word>
+      <word x="151" y="423" width="322" height="55">
+        <character x="151" y="428" width="42" height="50" char="T" />
+        <character x="205" y="427" width="39" height="50" char="4" />
+        <character x="244" y="424" width="32" height="54" char="8" />
+        <character x="273" y="424" width="37" height="54" char="7" />
+        <character x="333" y="425" width="45" height="51" char="7" />
+        <character x="378" y="423" width="23" height="52" char="1" />
+        <character x="402" y="426" width="33" height="52" char="1" />
+        <character x="436" y="425" width="37" height="50" char="2" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

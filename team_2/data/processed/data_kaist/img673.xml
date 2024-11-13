@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03522.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="160" y="14" width="191" height="72">
+        <character x="160" y="16" width="57" height="65" char="입" />
+        <character x="216" y="14" width="52" height="69" char="구" />
+        <character x="281" y="22" width="21" height="61" char="I" />
+        <character x="304" y="21" width="47" height="65" char="N" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

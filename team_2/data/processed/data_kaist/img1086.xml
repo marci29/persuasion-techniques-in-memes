@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010011.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="414" y="308" width="182" height="44">
+        <character x="414" y="311" width="23" height="37" char="T" />
+        <character x="442" y="311" width="24" height="40" char="3" />
+        <character x="464" y="308" width="20" height="37" char="2" />
+        <character x="482" y="309" width="23" height="39" char="2" />
+        <character x="515" y="309" width="25" height="41" char="7" />
+        <character x="540" y="310" width="17" height="38" char="5" />
+        <character x="558" y="310" width="16" height="37" char="6" />
+        <character x="572" y="312" width="24" height="40" char="9" />
+      </word>
+      <word x="112" y="84" width="412" height="217">
+        <character x="130" y="217" width="79" height="77" char="수" />
+        <character x="213" y="213" width="82" height="85" char="선" />
+        <character x="367" y="217" width="72" height="81" char="리" />
+        <character x="449" y="223" width="75" height="78" char="폼" />
+      </word>
+      <word x="112" y="84" width="96" height="50">
+        <character x="112" y="84" width="43" height="50" char="수" />
+        <character x="154" y="86" width="54" height="43" char="야" />
+      </word>
+      <word x="250" y="95" width="139" height="121">
+        <character x="250" y="95" width="139" height="121" char="옷" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

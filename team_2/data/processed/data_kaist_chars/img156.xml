@@ -1,10 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="207" y="414" width="48" height="50" char="c" />
-        <character x="256" y="421" width="32" height="48" char="a" />
-        <character x="290" y="422" width="24" height="48" char="s" />
-        <character x="314" y="414" width="22" height="55" char="t" />
-        <character x="337" y="413" width="14" height="56" char="i" />
-        <character x="352" y="423" width="35" height="47" char="n" />
-        <character x="387" y="423" width="41" height="56" char="g" />
+    <all_chars><character x="473" y="290" width="20" height="34" char="엑" />
+      <character x="210" y="160" width="104" height="109" char="우" />
+        <character x="313" y="160" width="92" height="112" char="리" />
+        <character x="406" y="161" width="91" height="115" char="은" />
+        <character x="498" y="173" width="94" height="110" char="행" />
+      <character x="80" y="289" width="36" height="23" char="W" />
+        <character x="116" y="289" width="29" height="26" char="O" />
+        <character x="178" y="285" width="30" height="28" char="R" />
+        <character x="231" y="282" width="21" height="31" char="B" />
+        <character x="254" y="281" width="30" height="32" char="A" />
+        <character x="292" y="280" width="24" height="34" char="N" />
+        <character x="321" y="282" width="26" height="31" char="K" />
+        <character x="371" y="288" width="22" height="25" char="C" />
+        <character x="397" y="288" width="25" height="28" char="O" />
+        <character x="425" y="286" width="29" height="35" char="M" />
+        <character x="147" y="284" width="29" height="26" char="O" />
+        <character x="205" y="288" width="22" height="24" char="I" />
+      <character x="493" y="290" width="21" height="42" char="스" />
+        <character x="514" y="299" width="19" height="29" char="포" />
+        <character x="533" y="301" width="20" height="31" char="지" />
+        <character x="553" y="299" width="25" height="32" char="점" />
       </all_chars></root>

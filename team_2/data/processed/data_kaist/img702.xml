@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03620.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="82" y="62" width="74" height="58">
+        <character x="82" y="62" width="74" height="58" char="과" />
+      </word>
+      <word x="158" y="69" width="73" height="51">
+        <character x="158" y="69" width="73" height="51" char="학" />
+      </word>
+      <word x="260" y="84" width="63" height="48">
+        <character x="260" y="84" width="63" height="48" char="전" />
+      </word>
+      <word x="321" y="83" width="73" height="55">
+        <character x="321" y="83" width="73" height="55" char="문" />
+      </word>
+      <word x="412" y="96" width="55" height="43">
+        <character x="412" y="96" width="55" height="43" char="T" />
+      </word>
+      <word x="465" y="92" width="46" height="49">
+        <character x="465" y="92" width="46" height="49" char="o" />
+      </word>
+      <word x="501" y="90" width="48" height="46">
+        <character x="501" y="90" width="48" height="46" char="P" />
+      </word>
+      <word x="16" y="387" width="575" height="76">
+        <character x="16" y="387" width="97" height="67" char="정" />
+        <character x="111" y="389" width="84" height="64" char="통" />
+        <character x="194" y="390" width="80" height="63" char="한" />
+        <character x="271" y="390" width="79" height="66" char="방" />
+        <character x="348" y="395" width="84" height="61" char="화" />
+        <character x="433" y="399" width="76" height="61" char="장" />
+        <character x="506" y="398" width="85" height="65" char="품" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

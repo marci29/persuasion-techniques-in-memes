@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03414.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="43" y="253" width="459" height="160">
+        <character x="176" y="257" width="75" height="70" char="S" />
+        <character x="248" y="253" width="93" height="81" char="O" />
+        <character x="338" y="263" width="82" height="67" char="N" />
+        <character x="423" y="260" width="79" height="75" char="Y" />
+      </word>
+      <word x="43" y="346" width="378" height="67">
+        <character x="43" y="354" width="76" height="58" char="O" />
+        <character x="114" y="351" width="46" height="55" char="L" />
+        <character x="150" y="354" width="51" height="52" char="Y" />
+        <character x="200" y="352" width="59" height="57" char="M" />
+        <character x="257" y="353" width="55" height="60" char="P" />
+        <character x="313" y="352" width="48" height="56" char="U" />
+        <character x="364" y="346" width="57" height="66" char="S" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

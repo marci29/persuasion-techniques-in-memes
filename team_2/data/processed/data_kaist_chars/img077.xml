@@ -1,11 +1,30 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="101" y="225" width="63" height="105" char="T" />
-        <character x="165" y="231" width="59" height="94" char="R" />
-        <character x="218" y="228" width="58" height="109" char="E" />
-        <character x="271" y="227" width="64" height="97" char="N" />
-        <character x="328" y="223" width="79" height="89" char="D" />
-        <character x="405" y="224" width="35" height="93" char="I" />
-        <character x="439" y="202" width="75" height="105" char="C" />
-        <character x="518" y="205" width="84" height="113" char="A" />
+    <all_chars><character x="51" y="69" width="23" height="39" char="B" />
+        <character x="76" y="76" width="27" height="32" char="a" />
+        <character x="105" y="78" width="27" height="29" char="s" />
+        <character x="134" y="79" width="28" height="31" char="k" />
+        <character x="162" y="80" width="21" height="29" char="i" />
+        <character x="183" y="85" width="35" height="23" char="n" />
+        <character x="15" y="103" width="39" height="40" char="R" />
+        <character x="56" y="113" width="29" height="32" char="o" />
+        <character x="86" y="112" width="30" height="35" char="b" />
+        <character x="117" y="109" width="28" height="38" char="b" />
+        <character x="145" y="109" width="22" height="38" char="i" />
+        <character x="169" y="114" width="31" height="35" char="n" />
+        <character x="199" y="119" width="29" height="27" char="s" />
+      <character x="431" y="87" width="50" height="33" char="배" />
+        <character x="484" y="88" width="48" height="34" char="스" />
+        <character x="534" y="95" width="49" height="31" char="킨" />
+        <character x="435" y="123" width="59" height="34" char="라" />
+        <character x="496" y="122" width="56" height="36" char="빈" />
+        <character x="554" y="128" width="44" height="30" char="스" />
+      <character x="13" y="198" width="86" height="60" char="써" />
+        <character x="108" y="199" width="67" height="63" char="티" />
+        <character x="185" y="199" width="70" height="62" char="원" />
+        <character x="276" y="200" width="70" height="64" char="아" />
+        <character x="353" y="200" width="69" height="67" char="이" />
+        <character x="425" y="200" width="65" height="71" char="스" />
+        <character x="493" y="210" width="61" height="61" char="크" />
+        <character x="559" y="213" width="65" height="51" char="림" />
       </all_chars></root>

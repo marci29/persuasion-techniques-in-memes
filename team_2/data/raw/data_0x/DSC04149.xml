@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04149.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="84" y="197" width="517" height="158">
+        <character x="84" y="200" width="73" height="91" char="수" />
+        <character x="156" y="200" width="69" height="103" char="입" />
+        <character x="222" y="197" width="72" height="90" char="쇠" />
+        <character x="296" y="211" width="58" height="71" char="고" />
+        <character x="353" y="212" width="68" height="73" char="기" />
+      </word>
+      <word x="326" y="268" width="275" height="87">
+        <character x="326" y="285" width="45" height="55" char="또" />
+        <character x="370" y="284" width="43" height="52" char="또" />
+        <character x="422" y="268" width="63" height="87" char="러" />
+        <character x="484" y="268" width="57" height="76" char="브" />
+        <character x="540" y="270" width="61" height="83" char="돈" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

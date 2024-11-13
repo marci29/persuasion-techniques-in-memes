@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03912.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="182" y="38" width="326" height="341">
+        <character x="182" y="256" width="86" height="123" char="칼" />
+        <character x="268" y="267" width="80" height="102" char="슘" />
+        <character x="348" y="264" width="76" height="105" char="두" />
+        <character x="425" y="270" width="83" height="103" char="유" />
+      </word>
+      <word x="269" y="38" width="132" height="56">
+        <character x="269" y="46" width="49" height="44" char="m" />
+        <character x="316" y="46" width="29" height="43" char="a" />
+        <character x="344" y="45" width="24" height="46" char="e" />
+        <character x="367" y="38" width="19" height="52" char="i" />
+        <character x="385" y="38" width="16" height="56" char="l" />
+      </word>
+      <word x="208" y="170" width="285" height="100">
+        <character x="208" y="175" width="70" height="89" char="뼈" />
+        <character x="279" y="176" width="66" height="83" char="로" />
+        <character x="348" y="176" width="70" height="90" char="가" />
+        <character x="415" y="170" width="78" height="100" char="는" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<root><resolution x="640" y="480" />
+    <all_chars><character x="35" y="128" width="216" height="154" char="미" />
+        <character x="246" y="102" width="156" height="229" char="용" />
+        <character x="406" y="99" width="167" height="182" char="실" />
+      <character x="44" y="13" width="75" height="81" char="영" />
+        <character x="117" y="12" width="81" height="122" char="주" />
+      <character x="501" y="288" width="43" height="75" char="2" />
+        <character x="544" y="286" width="39" height="64" char="F" />
+      </all_chars></root>

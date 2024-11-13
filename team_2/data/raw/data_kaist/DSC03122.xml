@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03122.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="200" y="144" width="252" height="151">
+        <character x="224" y="199" width="33" height="38" char="M" />
+        <character x="256" y="199" width="12" height="42" char="i" />
+        <character x="268" y="204" width="21" height="32" char="n" />
+        <character x="289" y="206" width="16" height="30" char="s" />
+        <character x="305" y="207" width="21" height="26" char="o" />
+        <character x="326" y="204" width="24" height="31" char="k" />
+        <character x="349" y="202" width="20" height="32" char="o" />
+        <character x="370" y="200" width="11" height="36" char="r" />
+        <character x="379" y="200" width="13" height="33" char="i" />
+      </word>
+      <word x="200" y="144" width="252" height="43">
+        <character x="200" y="144" width="36" height="43" char="W" />
+        <character x="237" y="152" width="20" height="32" char="o" />
+        <character x="257" y="153" width="22" height="30" char="o" />
+        <character x="280" y="148" width="23" height="39" char="d" />
+        <character x="303" y="152" width="20" height="35" char="e" />
+        <character x="324" y="153" width="25" height="30" char="n" />
+        <character x="356" y="145" width="31" height="37" char="D" />
+        <character x="386" y="156" width="25" height="29" char="u" />
+        <character x="412" y="151" width="17" height="29" char="c" />
+        <character x="429" y="147" width="23" height="32" char="k" />
+      </word>
+      <word x="251" y="246" width="131" height="49">
+        <character x="251" y="249" width="33" height="42" char="민" />
+        <character x="282" y="249" width="35" height="45" char="속" />
+        <character x="318" y="248" width="29" height="47" char="오" />
+        <character x="345" y="246" width="37" height="40" char="리" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04198.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="20" y="75" width="566" height="71">
+        <character x="20" y="75" width="75" height="69" char="방" />
+        <character x="89" y="75" width="56" height="66" char="범" />
+        <character x="141" y="75" width="65" height="68" char="용" />
+        <character x="214" y="84" width="52" height="57" char="C" />
+        <character x="266" y="82" width="37" height="56" char="C" />
+        <character x="302" y="82" width="40" height="56" char="T" />
+        <character x="341" y="81" width="44" height="59" char="V" />
+        <character x="398" y="76" width="61" height="69" char="녹" />
+        <character x="456" y="79" width="59" height="66" char="화" />
+        <character x="530" y="85" width="56" height="61" char="중" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

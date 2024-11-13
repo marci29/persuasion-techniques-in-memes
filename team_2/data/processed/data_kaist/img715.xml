@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03644.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="38" y="275" width="551" height="153">
+        <character x="41" y="317" width="92" height="89" char="정" />
+        <character x="142" y="299" width="82" height="87" char="은" />
+        <character x="235" y="299" width="84" height="87" char="음" />
+        <character x="330" y="301" width="81" height="88" char="악" />
+        <character x="426" y="316" width="66" height="81" char="학" />
+        <character x="516" y="343" width="73" height="85" char="원" />
+      </word>
+      <word x="38" y="275" width="68" height="40">
+        <character x="38" y="277" width="30" height="38" char="관" />
+        <character x="71" y="275" width="35" height="38" char="인" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03432.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="55" y="355" width="525" height="89">
+        <character x="55" y="360" width="34" height="79" char="I" />
+        <character x="84" y="359" width="52" height="82" char="N" />
+        <character x="137" y="355" width="50" height="83" char="F" />
+        <character x="188" y="359" width="55" height="78" char="O" />
+        <character x="241" y="359" width="52" height="79" char="R" />
+        <character x="294" y="359" width="61" height="79" char="M" />
+        <character x="353" y="357" width="63" height="80" char="A" />
+        <character x="415" y="357" width="45" height="83" char="T" />
+        <character x="459" y="360" width="24" height="84" char="I" />
+        <character x="482" y="357" width="50" height="86" char="O" />
+        <character x="536" y="355" width="44" height="81" char="N" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

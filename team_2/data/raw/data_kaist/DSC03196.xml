@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03196.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="215" y="261" width="410" height="183">
+        <character x="215" y="261" width="74" height="132" char="I" />
+        <character x="288" y="290" width="70" height="103" char="s" />
+        <character x="359" y="290" width="87" height="100" char="a" />
+        <character x="445" y="289" width="91" height="104" char="a" />
+        <character x="538" y="286" width="87" height="105" char="c" />
+      </word>
+      <word x="236" y="390" width="375" height="54">
+        <character x="236" y="395" width="38" height="45" char="주" />
+        <character x="290" y="396" width="34" height="43" char="이" />
+        <character x="321" y="391" width="43" height="50" char="삭" />
+        <character x="366" y="390" width="31" height="46" char="토" />
+        <character x="399" y="390" width="34" height="52" char="스" />
+        <character x="434" y="397" width="44" height="38" char="트" />
+        <character x="490" y="394" width="40" height="46" char="전" />
+        <character x="532" y="390" width="38" height="54" char="문" />
+        <character x="572" y="394" width="39" height="44" char="점" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

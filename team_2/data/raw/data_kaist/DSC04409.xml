@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04409.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="144" y="145" width="403" height="98">
+        <character x="144" y="149" width="40" height="87" char="대" />
+        <character x="182" y="147" width="46" height="89" char="전" />
+        <character x="229" y="149" width="35" height="94" char="정" />
+        <character x="265" y="148" width="40" height="87" char="보" />
+        <character x="304" y="147" width="41" height="93" char="처" />
+        <character x="344" y="145" width="39" height="93" char="리" />
+        <character x="382" y="146" width="43" height="91" char="학" />
+        <character x="425" y="146" width="45" height="94" char="원" />
+        <character x="499" y="156" width="25" height="64" char="2" />
+        <character x="523" y="156" width="24" height="67" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

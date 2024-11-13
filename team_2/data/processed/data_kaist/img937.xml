@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04360.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="59" y="303" width="81" height="40">
+        <character x="59" y="303" width="21" height="35" char="Y" />
+        <character x="79" y="316" width="12" height="25" char="O" />
+        <character x="91" y="318" width="13" height="24" char="O" />
+        <character x="104" y="318" width="17" height="23" char="N" />
+        <character x="121" y="314" width="19" height="29" char="S" />
+      </word>
+      <word x="49" y="338" width="107" height="41">
+        <character x="49" y="338" width="28" height="38" char="E" />
+        <character x="77" y="348" width="16" height="31" char="N" />
+        <character x="93" y="346" width="14" height="32" char="G" />
+        <character x="106" y="347" width="13" height="28" char="L" />
+        <character x="119" y="344" width="7" height="30" char="I" />
+        <character x="126" y="345" width="12" height="30" char="S" />
+        <character x="139" y="344" width="17" height="35" char="H" />
+      </word>
+      <word x="50" y="375" width="95" height="39">
+        <character x="50" y="375" width="23" height="35" char="S" />
+        <character x="73" y="382" width="14" height="30" char="C" />
+        <character x="87" y="381" width="15" height="32" char="H" />
+        <character x="102" y="380" width="15" height="34" char="O" />
+        <character x="117" y="380" width="15" height="34" char="O" />
+        <character x="132" y="382" width="13" height="31" char="L" />
+      </word>
+      <word x="161" y="272" width="368" height="188">
+        <character x="161" y="272" width="128" height="188" char="영" />
+        <character x="289" y="275" width="109" height="183" char="어" />
+        <character x="397" y="275" width="132" height="176" char="숲" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

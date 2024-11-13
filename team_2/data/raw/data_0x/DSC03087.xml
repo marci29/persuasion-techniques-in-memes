@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03087.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="129" y="137" width="406" height="320">
+        <character x="129" y="346" width="60" height="82" char="T" />
+        <character x="180" y="376" width="41" height="54" char="e" />
+        <character x="219" y="372" width="36" height="57" char="c" />
+        <character x="255" y="358" width="44" height="78" char="h" />
+        <character x="301" y="372" width="40" height="58" char="n" />
+        <character x="343" y="375" width="42" height="52" char="o" />
+        <character x="381" y="357" width="29" height="75" char="l" />
+        <character x="410" y="375" width="39" height="54" char="o" />
+        <character x="451" y="375" width="44" height="82" char="g" />
+        <character x="494" y="376" width="41" height="78" char="y" />
+      </word>
+      <word x="235" y="137" width="175" height="92">
+        <character x="235" y="138" width="91" height="88" char="T" />
+        <character x="324" y="137" width="86" height="92" char="6" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

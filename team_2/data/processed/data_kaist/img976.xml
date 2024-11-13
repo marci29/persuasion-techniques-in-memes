@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090831010.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="53" y="276" width="505" height="67">
+        <character x="53" y="278" width="51" height="60" char="R" />
+        <character x="105" y="293" width="35" height="44" char="e" />
+        <character x="139" y="276" width="22" height="67" char="f" />
+        <character x="159" y="290" width="39" height="50" char="e" />
+        <character x="198" y="290" width="24" height="46" char="r" />
+        <character x="223" y="295" width="32" height="45" char="e" />
+        <character x="257" y="292" width="37" height="49" char="n" />
+        <character x="296" y="292" width="33" height="48" char="c" />
+        <character x="329" y="291" width="37" height="47" char="e" />
+        <character x="375" y="277" width="53" height="64" char="R" />
+        <character x="427" y="285" width="37" height="50" char="o" />
+        <character x="466" y="294" width="33" height="43" char="o" />
+        <character x="499" y="296" width="59" height="46" char="m" />
+      </word>
+      <word x="108" y="72" width="405" height="100">
+        <character x="108" y="75" width="96" height="95" char="자" />
+        <character x="275" y="84" width="86" height="77" char="료" />
+        <character x="419" y="72" width="94" height="100" char="실" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

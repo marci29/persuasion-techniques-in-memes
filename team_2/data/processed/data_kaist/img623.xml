@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03367.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="100" y="28" width="432" height="93">
+        <character x="100" y="28" width="71" height="88" char="N" />
+        <character x="169" y="34" width="76" height="80" char="A" />
+        <character x="245" y="34" width="62" height="82" char="T" />
+        <character x="306" y="31" width="76" height="86" char="U" />
+        <character x="383" y="32" width="73" height="85" char="R" />
+        <character x="455" y="32" width="77" height="89" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

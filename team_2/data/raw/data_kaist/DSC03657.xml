@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03657.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="56" y="303" width="510" height="153">
+        <character x="56" y="303" width="109" height="97" char="강" />
+        <character x="181" y="313" width="84" height="88" char="변" />
+        <character x="288" y="311" width="86" height="94" char="칼" />
+        <character x="388" y="317" width="85" height="90" char="국" />
+        <character x="483" y="317" width="83" height="97" char="수" />
+      </word>
+      <word x="246" y="419" width="162" height="37">
+        <character x="246" y="421" width="25" height="29" char="T" />
+        <character x="272" y="422" width="20" height="25" char="4" />
+        <character x="292" y="423" width="18" height="24" char="8" />
+        <character x="310" y="425" width="16" height="25" char="2" />
+        <character x="335" y="423" width="18" height="31" char="8" />
+        <character x="352" y="421" width="19" height="35" char="0" />
+        <character x="369" y="422" width="17" height="30" char="4" />
+        <character x="385" y="419" width="23" height="31" char="4" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

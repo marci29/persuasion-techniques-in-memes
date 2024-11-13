@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03164.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="74" y="75" width="492" height="190">
+        <character x="74" y="79" width="73" height="85" char="P" />
+        <character x="140" y="80" width="75" height="78" char="A" />
+        <character x="215" y="76" width="75" height="83" char="R" />
+        <character x="291" y="83" width="70" height="72" char="K" />
+        <character x="361" y="81" width="38" height="78" char="I" />
+        <character x="400" y="78" width="80" height="87" char="N" />
+        <character x="478" y="75" width="88" height="94" char="G" />
+      </word>
+      <word x="152" y="203" width="356" height="62">
+        <character x="152" y="207" width="56" height="58" char="제" />
+        <character x="206" y="206" width="53" height="58" char="한" />
+        <character x="259" y="203" width="49" height="59" char="높" />
+        <character x="305" y="206" width="54" height="57" char="이" />
+        <character x="368" y="211" width="38" height="50" char="2" />
+        <character x="419" y="211" width="31" height="51" char="1" />
+        <character x="449" y="207" width="59" height="53" char="M" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

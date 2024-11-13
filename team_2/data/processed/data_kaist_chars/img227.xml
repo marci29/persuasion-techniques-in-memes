@@ -1,8 +1,20 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="164" y="134" width="99" height="101" char="W" />
-        <character x="244" y="118" width="58" height="127" char="h" />
-        <character x="303" y="141" width="34" height="89" char="i" />
-        <character x="335" y="135" width="72" height="91" char="t" />
-        <character x="397" y="147" width="85" height="100" char="e" />
+    <all_chars><character x="1" y="195" width="72" height="90" char="세" />
+        <character x="73" y="193" width="80" height="90" char="종" />
+        <character x="154" y="195" width="81" height="79" char="타" />
+        <character x="234" y="193" width="82" height="80" char="운" />
+        <character x="326" y="187" width="66" height="67" char="공" />
+        <character x="394" y="185" width="53" height="72" char="인" />
+        <character x="453" y="176" width="50" height="77" char="중" />
+        <character x="508" y="171" width="57" height="80" char="개" />
+        <character x="571" y="168" width="57" height="72" char="사" />
+      <character x="5" y="288" width="71" height="55" char="T" />
+        <character x="102" y="286" width="65" height="49" char="8" />
+        <character x="168" y="287" width="57" height="50" char="6" />
+        <character x="230" y="286" width="57" height="47" char="2" />
+        <character x="355" y="275" width="39" height="53" char="1" />
+        <character x="401" y="272" width="64" height="55" char="2" />
+        <character x="471" y="272" width="42" height="56" char="1" />
+        <character x="522" y="269" width="66" height="55" char="2" />
       </all_chars></root>

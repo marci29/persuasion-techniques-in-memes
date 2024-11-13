@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03980.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="9" y="31" width="605" height="332">
+        <character x="157" y="31" width="87" height="103" char="대" />
+        <character x="250" y="36" width="94" height="104" char="한" />
+        <character x="343" y="39" width="87" height="103" char="검" />
+        <character x="426" y="44" width="99" height="98" char="도" />
+        <character x="524" y="45" width="90" height="105" char="회" />
+      </word>
+      <word x="153" y="126" width="451" height="65">
+        <character x="153" y="126" width="24" height="47" char="K" />
+        <character x="176" y="135" width="25" height="39" char="O" />
+        <character x="200" y="134" width="19" height="42" char="R" />
+        <character x="219" y="135" width="16" height="38" char="E" />
+        <character x="236" y="133" width="22" height="43" char="A" />
+        <character x="265" y="137" width="29" height="40" char="K" />
+        <character x="293" y="134" width="21" height="46" char="U" />
+        <character x="314" y="137" width="28" height="43" char="M" />
+        <character x="343" y="139" width="17" height="35" char="D" />
+        <character x="361" y="144" width="25" height="31" char="O" />
+        <character x="396" y="147" width="24" height="35" char="A" />
+        <character x="420" y="145" width="20" height="37" char="S" />
+        <character x="440" y="144" width="19" height="40" char="S" />
+        <character x="460" y="146" width="23" height="38" char="O" />
+        <character x="479" y="147" width="21" height="35" char="C" />
+        <character x="500" y="146" width="13" height="41" char="I" />
+        <character x="511" y="145" width="25" height="38" char="A" />
+        <character x="536" y="143" width="18" height="45" char="T" />
+        <character x="554" y="145" width="9" height="44" char="I" />
+        <character x="563" y="150" width="20" height="36" char="O" />
+        <character x="583" y="148" width="21" height="43" char="N" />
+      </word>
+      <word x="42" y="296" width="502" height="67">
+        <character x="42" y="296" width="46" height="59" char="2" />
+        <character x="88" y="306" width="38" height="45" char="층" />
+        <character x="191" y="301" width="41" height="48" char="T" />
+        <character x="245" y="303" width="38" height="45" char="8" />
+        <character x="284" y="304" width="38" height="45" char="6" />
+        <character x="318" y="306" width="34" height="47" char="1" />
+        <character x="382" y="311" width="47" height="45" char="8" />
+        <character x="426" y="312" width="38" height="51" char="9" />
+        <character x="463" y="314" width="39" height="43" char="3" />
+        <character x="503" y="316" width="41" height="44" char="9" />
+      </word>
+      <word x="9" y="203" width="589" height="110">
+        <character x="9" y="203" width="100" height="90" char="전" />
+        <character x="129" y="209" width="98" height="92" char="민" />
+        <character x="248" y="213" width="109" height="93" char="검" />
+        <character x="375" y="221" width="103" height="88" char="도" />
+        <character x="500" y="225" width="98" height="88" char="관" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

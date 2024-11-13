@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04364.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="77" y="225" width="536" height="233">
+        <character x="77" y="262" width="119" height="112" char="미" />
+        <character x="193" y="257" width="128" height="116" char="소" />
+        <character x="320" y="225" width="177" height="226" char="약" />
+        <character x="500" y="273" width="113" height="131" char="국" />
+      </word>
+      <word x="84" y="387" width="348" height="71">
+        <character x="84" y="387" width="44" height="70" char="T" />
+        <character x="146" y="392" width="36" height="63" char="8" />
+        <character x="182" y="391" width="35" height="67" char="2" />
+        <character x="216" y="389" width="38" height="64" char="3" />
+        <character x="292" y="397" width="35" height="60" char="7" />
+        <character x="326" y="392" width="38" height="65" char="5" />
+        <character x="360" y="391" width="39" height="65" char="3" />
+        <character x="397" y="390" width="35" height="67" char="3" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010113.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="52" y="82" width="573" height="157">
+        <character x="52" y="109" width="107" height="76" char="" />
+        <character x="171" y="106" width="100" height="78" char="" />
+        <character x="281" y="86" width="98" height="101" char="" />
+        <character x="391" y="82" width="105" height="105" char="" />
+        <character x="500" y="84" width="118" height="104" char="" />
+      </word>
+      <word x="122" y="204" width="219" height="34">
+        <character x="122" y="206" width="39" height="30" char="" />
+        <character x="160" y="206" width="32" height="32" char="" />
+        <character x="194" y="208" width="34" height="29" char="" />
+        <character x="234" y="207" width="35" height="29" char="" />
+        <character x="270" y="204" width="32" height="34" char="" />
+        <character x="303" y="206" width="38" height="28" char="" />
+      </word>
+      <word x="421" y="198" width="204" height="41">
+        <character x="421" y="203" width="27" height="36" char="" />
+        <character x="461" y="200" width="20" height="35" char="" />
+        <character x="483" y="198" width="20" height="37" char="" />
+        <character x="505" y="203" width="18" height="28" char="" />
+        <character x="534" y="199" width="21" height="35" char="" />
+        <character x="558" y="199" width="18" height="36" char="" />
+        <character x="577" y="199" width="19" height="36" char="" />
+        <character x="598" y="199" width="27" height="32" char="" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

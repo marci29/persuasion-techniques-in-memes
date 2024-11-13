@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04429.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="75" y="247" width="375" height="127">
+        <character x="75" y="247" width="101" height="127" char="캠" />
+        <character x="173" y="293" width="98" height="74" char="퍼" />
+        <character x="267" y="293" width="93" height="75" char="스" />
+        <character x="352" y="250" width="98" height="116" char="힐" />
+      </word>
+      <word x="171" y="247" width="181" height="57">
+        <character x="171" y="247" width="33" height="45" char="C" />
+        <character x="203" y="257" width="16" height="36" char="a" />
+        <character x="219" y="257" width="28" height="34" char="m" />
+        <character x="247" y="256" width="18" height="48" char="p" />
+        <character x="264" y="255" width="19" height="33" char="u" />
+        <character x="283" y="257" width="16" height="35" char="s" />
+        <character x="299" y="254" width="21" height="36" char="h" />
+        <character x="318" y="248" width="11" height="40" char="i" />
+        <character x="328" y="247" width="11" height="45" char="l" />
+        <character x="337" y="247" width="15" height="45" char="l" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

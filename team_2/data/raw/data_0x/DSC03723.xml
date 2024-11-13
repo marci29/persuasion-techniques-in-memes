@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03723.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="187" y="65" width="386" height="163">
+        <character x="392" y="198" width="25" height="28" char="4" />
+        <character x="416" y="198" width="23" height="30" char="8" />
+        <character x="439" y="196" width="18" height="28" char="5" />
+        <character x="477" y="200" width="21" height="24" char="4" />
+        <character x="498" y="197" width="22" height="29" char="6" />
+        <character x="519" y="198" width="21" height="28" char="5" />
+        <character x="539" y="198" width="23" height="28" char="8" />
+        <character x="187" y="67" width="64" height="108" char="수" />
+        <character x="257" y="65" width="73" height="98" char="정" />
+        <character x="335" y="70" width="70" height="100" char="헤" />
+        <character x="414" y="66" width="76" height="98" char="어" />
+        <character x="494" y="66" width="79" height="101" char="샵" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,7 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="1600" y="1200" />
-    <all_chars><character x="257" y="454" width="327" height="309" char="M" />
-        <character x="617" y="513" width="96" height="241" char="i" />
-        <character x="743" y="520" width="273" height="241" char="G" />
-        <character x="1032" y="520" width="257" height="235" char="O" />
+<root><resolution x="323" y="219" />
+    <all_chars><character x="105" y="86" width="27" height="19" char="B" />
+        <character x="132" y="86" width="21" height="18" char="E" />
+        <character x="154" y="87" width="20" height="20" char="A" />
+        <character x="177" y="90" width="24" height="24" char="N" />
+        <character x="108" y="68" width="27" height="20" char="M" />
+        <character x="135" y="66" width="16" height="24" char="E" />
+        <character x="151" y="71" width="22" height="19" char="A" />
+        <character x="177" y="64" width="24" height="30" char="N" />
       </all_chars></root>

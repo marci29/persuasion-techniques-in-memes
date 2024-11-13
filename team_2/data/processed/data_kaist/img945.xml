@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04404.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="146" y="200" width="417" height="156">
+        <character x="146" y="200" width="102" height="114" char="V" />
+        <character x="249" y="229" width="62" height="85" char="a" />
+        <character x="310" y="228" width="92" height="89" char="n" />
+        <character x="402" y="200" width="76" height="116" char="d" />
+        <character x="476" y="221" width="87" height="135" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

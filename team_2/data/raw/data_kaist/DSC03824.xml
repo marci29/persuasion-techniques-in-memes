@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03824.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="52" y="37" width="550" height="206">
+        <character x="52" y="40" width="178" height="203" char="별" />
+        <character x="249" y="37" width="183" height="206" char="밤" />
+        <character x="503" y="90" width="52" height="106" char="8" />
+        <character x="555" y="127" width="47" height="69" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

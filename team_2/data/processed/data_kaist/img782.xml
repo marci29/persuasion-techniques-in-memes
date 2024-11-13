@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03787.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="37" y="12" width="562" height="227">
+        <character x="37" y="126" width="73" height="110" char="교" />
+        <character x="107" y="126" width="62" height="113" char="육" />
+        <character x="170" y="127" width="63" height="108" char="상" />
+        <character x="234" y="128" width="63" height="106" char="담" />
+        <character x="314" y="134" width="34" height="95" char="T" />
+        <character x="360" y="140" width="36" height="88" char="4" />
+        <character x="396" y="138" width="28" height="92" char="7" />
+        <character x="422" y="136" width="34" height="88" char="7" />
+        <character x="473" y="138" width="34" height="84" char="4" />
+        <character x="508" y="135" width="29" height="89" char="8" />
+        <character x="539" y="145" width="26" height="79" char="8" />
+        <character x="567" y="139" width="32" height="91" char="4" />
+      </word>
+      <word x="164" y="12" width="396" height="106">
+        <character x="164" y="12" width="110" height="99" char="천" />
+        <character x="305" y="14" width="109" height="104" char="지" />
+        <character x="435" y="15" width="125" height="99" char="관" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

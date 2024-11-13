@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010017.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="115" y="101" width="415" height="108">
+        <character x="151" y="106" width="105" height="101" char="창" />
+        <character x="257" y="105" width="87" height="96" char="억" />
+        <character x="345" y="101" width="91" height="108" char="떡" />
+        <character x="435" y="108" width="95" height="99" char="집" />
+      </word>
+      <word x="20" y="129" width="129" height="39">
+        <character x="20" y="129" width="27" height="33" char="C" />
+        <character x="47" y="130" width="26" height="32" char="E" />
+        <character x="77" y="130" width="16" height="25" char="1" />
+        <character x="94" y="129" width="19" height="39" char="9" />
+        <character x="115" y="132" width="15" height="27" char="6" />
+        <character x="130" y="131" width="19" height="31" char="5" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

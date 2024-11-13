@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04162.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="143" y="279" width="388" height="96">
+        <character x="143" y="313" width="40" height="60" char="C" />
+        <character x="180" y="331" width="34" height="42" char="o" />
+        <character x="214" y="332" width="31" height="39" char="n" />
+        <character x="245" y="331" width="30" height="44" char="c" />
+        <character x="272" y="332" width="37" height="38" char="e" />
+        <character x="308" y="328" width="25" height="43" char="r" />
+        <character x="332" y="327" width="28" height="44" char="t" />
+        <character x="370" y="284" width="73" height="87" char="별" />
+        <character x="442" y="279" width="89" height="96" char="밤" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

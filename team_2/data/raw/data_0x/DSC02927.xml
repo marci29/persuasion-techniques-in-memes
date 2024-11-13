@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC02927.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="235" y="30" width="287" height="97">
+        <character x="235" y="42" width="74" height="85" char="착" />
+        <character x="308" y="38" width="69" height="86" char="한" />
+        <character x="376" y="35" width="72" height="90" char="가" />
+        <character x="450" y="30" width="72" height="84" char="격" />
+      </word>
+      <word x="198" y="366" width="134" height="53">
+        <character x="198" y="370" width="19" height="34" char="e" />
+        <character x="215" y="366" width="19" height="37" char="C" />
+        <character x="234" y="374" width="21" height="29" char="o" />
+        <character x="255" y="369" width="15" height="36" char="s" />
+        <character x="271" y="368" width="20" height="38" char="w" />
+        <character x="290" y="368" width="16" height="34" char="a" />
+        <character x="306" y="370" width="26" height="49" char="y" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

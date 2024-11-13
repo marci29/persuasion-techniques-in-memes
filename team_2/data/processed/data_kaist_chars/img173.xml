@@ -1,10 +1,23 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="147" y="286" width="52" height="82" char="S" />
-        <character x="199" y="301" width="33" height="64" char="c" />
-        <character x="233" y="288" width="21" height="75" char="i" />
-        <character x="255" y="300" width="31" height="63" char="e" />
-        <character x="287" y="298" width="35" height="63" char="n" />
-        <character x="322" y="298" width="36" height="63" char="c" />
-        <character x="361" y="295" width="42" height="64" char="e" />
+    <all_chars><character x="8" y="264" width="107" height="139" char="충" />
+        <character x="121" y="266" width="106" height="133" char="남" />
+        <character x="240" y="269" width="97" height="129" char="기" />
+        <character x="343" y="263" width="110" height="130" char="획" />
+      <character x="193" y="398" width="38" height="50" char="T" />
+        <character x="242" y="396" width="25" height="42" char="8" />
+        <character x="267" y="399" width="26" height="37" char="2" />
+        <character x="292" y="398" width="28" height="43" char="2" />
+        <character x="342" y="396" width="28" height="39" char="2" />
+        <character x="371" y="396" width="26" height="44" char="2" />
+        <character x="399" y="395" width="24" height="44" char="0" />
+        <character x="423" y="397" width="31" height="43" char="4" />
+      <character x="482" y="271" width="41" height="42" char="인" />
+        <character x="583" y="270" width="48" height="41" char="쇄" />
+      <character x="483" y="313" width="39" height="38" char="복" />
+        <character x="586" y="311" width="45" height="42" char="사" />
+      <character x="480" y="350" width="42" height="42" char="칼" />
+        <character x="520" y="351" width="39" height="39" char="라" />
+        <character x="560" y="350" width="33" height="42" char="출" />
+        <character x="593" y="350" width="41" height="39" char="력" />
       </all_chars></root>

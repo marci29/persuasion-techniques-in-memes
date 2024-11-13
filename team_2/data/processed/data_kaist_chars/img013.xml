@@ -1,14 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <root><resolution x="640" y="480" />
-    <all_chars><character x="460" y="217" width="46" height="61" char="B" />
-        <character x="508" y="214" width="57" height="68" char="A" />
-        <character x="566" y="214" width="45" height="71" char="R" />
-      <character x="485" y="321" width="19" height="24" char="8" />
-        <character x="502" y="321" width="17" height="22" char="6" />
-        <character x="518" y="320" width="12" height="24" char="3" />
-        <character x="530" y="326" width="7" height="14" char="-" />
-        <character x="537" y="317" width="18" height="37" char="0" />
-        <character x="555" y="324" width="15" height="23" char="4" />
-        <character x="571" y="322" width="12" height="27" char="4" />
-        <character x="583" y="318" width="19" height="31" char="4" />
+    <all_chars><character x="143" y="158" width="89" height="110" char="C" />
+        <character x="231" y="158" width="72" height="108" char="O" />
+        <character x="306" y="162" width="69" height="110" char="R" />
+        <character x="376" y="163" width="58" height="108" char="E" />
+        <character x="436" y="165" width="73" height="107" char="X" />
+        <character x="215" y="268" width="20" height="32" char="자" />
+      <character x="161" y="272" width="21" height="26" char="코" />
+        <character x="183" y="272" width="17" height="28" char="렉" />
+        <character x="202" y="270" width="15" height="30" char="스" />
+        <character x="234" y="271" width="20" height="30" char="전" />
+        <character x="255" y="277" width="17" height="24" char="거" />
+        <character x="273" y="277" width="17" height="23" char="어" />
+        <character x="292" y="273" width="12" height="28" char="은" />
+        <character x="307" y="274" width="18" height="28" char="동" />
+        <character x="326" y="274" width="14" height="27" char="대" />
+        <character x="340" y="272" width="17" height="33" char="리" />
+        <character x="356" y="273" width="22" height="27" char="점" />
+      <character x="394" y="274" width="16" height="31" char="8" />
+        <character x="412" y="277" width="12" height="29" char="6" />
+        <character x="423" y="277" width="17" height="28" char="1" />
+        <character x="449" y="279" width="16" height="24" char="0" />
+        <character x="466" y="278" width="15" height="25" char="3" />
+        <character x="482" y="278" width="15" height="27" char="8" />
+        <character x="496" y="275" width="19" height="32" char="1" />
       </all_chars></root>

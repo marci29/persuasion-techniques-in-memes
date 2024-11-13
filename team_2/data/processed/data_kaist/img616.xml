@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03330.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="58" y="142" width="231" height="298">
+        <character x="58" y="142" width="65" height="79" char="웨" />
+        <character x="122" y="157" width="53" height="71" char="딩" />
+        <character x="174" y="158" width="58" height="64" char="부" />
+        <character x="233" y="170" width="56" height="58" char="케" />
+      </word>
+      <word x="82" y="376" width="187" height="64">
+        <character x="82" y="376" width="46" height="55" char="F" />
+        <character x="128" y="394" width="23" height="42" char="L" />
+        <character x="149" y="390" width="32" height="40" char="O" />
+        <character x="182" y="395" width="20" height="36" char="T" />
+        <character x="203" y="398" width="32" height="33" char="O" />
+        <character x="235" y="400" width="21" height="40" char="P" />
+        <character x="256" y="400" width="13" height="37" char="I" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

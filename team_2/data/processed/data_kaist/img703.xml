@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03621.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="171" y="96" width="90" height="266">
+        <character x="171" y="96" width="90" height="94" char="송" />
+        <character x="174" y="191" width="81" height="85" char="가" />
+        <character x="171" y="278" width="86" height="84" char="네" />
+      </word>
+      <word x="266" y="107" width="348" height="217">
+        <character x="266" y="107" width="111" height="213" char="떡" />
+        <character x="377" y="110" width="121" height="214" char="볶" />
+        <character x="501" y="115" width="113" height="207" char="이" />
+      </word>
+      <word x="319" y="327" width="249" height="59">
+        <character x="319" y="327" width="27" height="51" char="T" />
+        <character x="355" y="331" width="27" height="47" char="4" />
+        <character x="385" y="335" width="24" height="49" char="8" />
+        <character x="413" y="329" width="22" height="55" char="6" />
+        <character x="464" y="330" width="24" height="56" char="5" />
+        <character x="490" y="333" width="24" height="48" char="9" />
+        <character x="515" y="332" width="23" height="48" char="4" />
+        <character x="539" y="335" width="29" height="50" char="9" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

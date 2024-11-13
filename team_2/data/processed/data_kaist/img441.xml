@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03004.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="292" y="154" width="340" height="253">
+        <character x="306" y="154" width="88" height="85" char="도" />
+        <character x="396" y="156" width="112" height="83" char="모" />
+      </word>
+      <word x="292" y="242" width="215" height="60">
+        <character x="292" y="247" width="41" height="46" char="로" />
+        <character x="332" y="244" width="44" height="56" char="바" />
+        <character x="373" y="242" width="46" height="52" char="다" />
+        <character x="418" y="246" width="44" height="56" char="야" />
+        <character x="460" y="249" width="47" height="41" char="끼" />
+      </word>
+      <word x="569" y="355" width="63" height="52">
+        <character x="569" y="356" width="30" height="51" char="2" />
+        <character x="600" y="355" width="32" height="51" char="F" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

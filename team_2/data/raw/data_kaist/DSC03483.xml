@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03483.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="57" y="23" width="532" height="396">
+        <character x="57" y="23" width="57" height="71" char="고" />
+        <character x="116" y="24" width="59" height="76" char="객" />
+        <character x="191" y="30" width="50" height="65" char="여" />
+        <character x="240" y="33" width="54" height="64" char="러" />
+        <character x="296" y="33" width="49" height="73" char="분" />
+        <character x="348" y="34" width="51" height="65" char="의" />
+        <character x="419" y="39" width="49" height="65" char="안" />
+        <character x="469" y="38" width="46" height="67" char="전" />
+        <character x="513" y="37" width="49" height="69" char="을" />
+      </word>
+      <word x="61" y="108" width="528" height="87">
+        <character x="61" y="108" width="48" height="76" char="위" />
+        <character x="111" y="108" width="61" height="75" char="해" />
+        <character x="184" y="114" width="57" height="63" char="쇼" />
+        <character x="242" y="115" width="42" height="69" char="핑" />
+        <character x="284" y="114" width="51" height="70" char="수" />
+        <character x="335" y="113" width="48" height="65" char="레" />
+        <character x="405" y="117" width="52" height="68" char="손" />
+        <character x="459" y="116" width="43" height="71" char="잡" />
+        <character x="501" y="114" width="44" height="70" char="이" />
+        <character x="544" y="114" width="45" height="81" char="를" />
+      </word>
+      <word x="57" y="190" width="379" height="75">
+        <character x="57" y="195" width="52" height="69" char="꼭" />
+        <character x="135" y="195" width="56" height="70" char="잡" />
+        <character x="192" y="194" width="48" height="65" char="아" />
+        <character x="241" y="190" width="54" height="74" char="주" />
+        <character x="296" y="195" width="41" height="66" char="십" />
+        <character x="337" y="196" width="52" height="67" char="시" />
+        <character x="387" y="196" width="49" height="65" char="오" />
+      </word>
+      <word x="241" y="368" width="161" height="51">
+        <character x="241" y="368" width="27" height="49" char="E" />
+        <character x="279" y="376" width="37" height="39" char="M" />
+        <character x="317" y="374" width="32" height="45" char="A" />
+        <character x="346" y="371" width="30" height="48" char="R" />
+        <character x="377" y="372" width="25" height="39" char="T" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

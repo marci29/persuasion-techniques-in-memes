@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03531.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="29" y="340" width="591" height="133">
+        <character x="29" y="340" width="72" height="65" char="신" />
+        <character x="98" y="340" width="53" height="66" char="종" />
+        <character x="151" y="342" width="56" height="67" char="인" />
+        <character x="208" y="344" width="53" height="65" char="플" />
+        <character x="260" y="345" width="57" height="64" char="루" />
+        <character x="319" y="345" width="53" height="64" char="엔" />
+        <character x="372" y="350" width="64" height="52" char="자" />
+        <character x="437" y="350" width="41" height="48" char="A" />
+        <character x="499" y="346" width="40" height="54" char="H" />
+        <character x="537" y="348" width="21" height="48" char="1" />
+        <character x="560" y="343" width="43" height="52" char="N" />
+        <character x="602" y="340" width="18" height="56" char="1" />
+      </word>
+      <word x="51" y="415" width="390" height="58">
+        <character x="51" y="422" width="43" height="42" char="에" />
+        <character x="105" y="427" width="40" height="40" char="대" />
+        <character x="145" y="430" width="39" height="36" char="한" />
+        <character x="201" y="415" width="56" height="58" char="대" />
+        <character x="257" y="415" width="57" height="55" char="처" />
+        <character x="333" y="415" width="56" height="52" char="안" />
+        <character x="391" y="415" width="50" height="49" char="내" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P1010090.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="98" y="129" width="80" height="74">
+        <character x="98" y="129" width="80" height="74" char="상" />
+      </word>
+      <word x="179" y="123" width="69" height="70">
+        <character x="179" y="123" width="69" height="70" char="희" />
+      </word>
+      <word x="291" y="124" width="74" height="69">
+        <character x="291" y="124" width="74" height="69" char="인" />
+      </word>
+      <word x="369" y="127" width="77" height="67">
+        <character x="369" y="127" width="77" height="67" char="테" />
+      </word>
+      <word x="447" y="129" width="71" height="67">
+        <character x="447" y="129" width="71" height="67" char="리" />
+      </word>
+      <word x="527" y="128" width="69" height="66">
+        <character x="527" y="128" width="69" height="66" char="어" />
+      </word>
+      <word x="196" y="197" width="293" height="39">
+        <character x="196" y="203" width="26" height="29" char="S" />
+        <character x="222" y="202" width="21" height="28" char="A" />
+        <character x="243" y="202" width="23" height="32" char="N" />
+        <character x="265" y="198" width="24" height="30" char="G" />
+        <character x="294" y="199" width="26" height="37" char="H" />
+        <character x="319" y="199" width="17" height="30" char="I" />
+        <character x="339" y="198" width="15" height="34" char="I" />
+        <character x="353" y="197" width="25" height="35" char="N" />
+        <character x="378" y="197" width="17" height="38" char="T" />
+        <character x="392" y="198" width="20" height="34" char="E" />
+        <character x="413" y="199" width="19" height="34" char="R" />
+        <character x="432" y="197" width="9" height="33" char="I" />
+        <character x="441" y="198" width="23" height="32" char="O" />
+        <character x="462" y="199" width="27" height="35" char="R" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

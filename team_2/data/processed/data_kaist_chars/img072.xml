@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<root><resolution x="385" y="212" />
-    <all_chars><character x="36" y="45" width="28" height="31" char="B" />
-        <character x="67" y="47" width="24" height="29" char="A" />
-        <character x="96" y="50" width="24" height="28" char="B" />
-        <character x="122" y="48" width="23" height="31" char="E" />
-        <character x="146" y="47" width="23" height="34" char="L" />
-        <character x="168" y="45" width="27" height="38" char="D" />
-        <character x="196" y="48" width="23" height="33" char="R" />
-        <character x="219" y="49" width="30" height="34" char="A" />
+<root><resolution x="1600" y="1200" />
+    <all_chars><character x="156" y="753" width="254" height="314" char="E" />
+        <character x="410" y="791" width="302" height="252" char="m" />
+        <character x="711" y="736" width="90" height="282" char="i" />
+        <character x="800" y="776" width="126" height="230" char="r" />
+        <character x="906" y="787" width="143" height="215" char="a" />
+        <character x="1046" y="739" width="103" height="243" char="t" />
+        <character x="1143" y="770" width="122" height="197" char="e" />
+        <character x="1267" y="749" width="101" height="219" char="s" />
       </all_chars></root>

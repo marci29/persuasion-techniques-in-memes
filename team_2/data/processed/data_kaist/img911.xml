@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC04233.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="95" y="16" width="367" height="310">
+        <character x="95" y="21" width="120" height="136" char="C" />
+        <character x="213" y="17" width="108" height="142" char="E" />
+        <character x="321" y="16" width="141" height="141" char="O" />
+      </word>
+      <word x="97" y="178" width="361" height="148">
+        <character x="97" y="179" width="113" height="147" char="인" />
+        <character x="210" y="179" width="126" height="142" char="문" />
+        <character x="335" y="178" width="123" height="139" char="학" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

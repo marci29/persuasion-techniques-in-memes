@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090903068.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="66" y="14" width="525" height="381">
+        <character x="66" y="14" width="207" height="295" char="멜" />
+        <character x="281" y="19" width="108" height="206" char="로" />
+        <character x="403" y="42" width="188" height="170" char="디" />
+      </word>
+      <word x="197" y="334" width="225" height="61">
+        <character x="197" y="334" width="50" height="57" char="V" />
+        <character x="249" y="345" width="38" height="47" char="C" />
+        <character x="287" y="343" width="39" height="48" char="앤" />
+        <character x="327" y="343" width="32" height="49" char="드" />
+        <character x="359" y="342" width="28" height="53" char="류" />
+        <character x="388" y="340" width="34" height="54" char="스" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>1</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

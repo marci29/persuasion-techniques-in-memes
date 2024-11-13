@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>P090903082.jpg</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="65" y="32" width="464" height="153">
+        <character x="65" y="33" width="121" height="146" char="P" />
+        <character x="186" y="32" width="139" height="149" char="O" />
+        <character x="326" y="32" width="92" height="148" char="P" />
+        <character x="416" y="45" width="113" height="140" char="E" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

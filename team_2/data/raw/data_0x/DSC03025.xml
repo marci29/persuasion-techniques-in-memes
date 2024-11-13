@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03025.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="166" y="123" width="217" height="80">
+        <character x="166" y="123" width="49" height="70" char="M" />
+        <character x="216" y="125" width="37" height="68" char="A" />
+        <character x="251" y="125" width="37" height="68" char="H" />
+        <character x="287" y="129" width="37" height="68" char="S" />
+        <character x="325" y="127" width="17" height="69" char="I" />
+        <character x="341" y="127" width="42" height="76" char="L" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>2</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

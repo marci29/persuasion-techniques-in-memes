@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03132.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="106" y="166" width="324" height="194">
+        <character x="137" y="168" width="31" height="47" char="T" />
+        <character x="170" y="181" width="27" height="35" char="u" />
+        <character x="198" y="178" width="13" height="38" char="r" />
+        <character x="211" y="174" width="19" height="45" char="t" />
+        <character x="230" y="172" width="11" height="46" char="l" />
+        <character x="242" y="184" width="28" height="33" char="e" />
+        <character x="282" y="166" width="30" height="54" char="S" />
+        <character x="312" y="177" width="25" height="40" char="h" />
+        <character x="337" y="175" width="11" height="41" char="i" />
+        <character x="348" y="183" width="32" height="50" char="p" />
+      </word>
+      <word x="106" y="235" width="324" height="119">
+        <character x="106" y="235" width="35" height="54" char="G" />
+        <character x="143" y="248" width="28" height="40" char="e" />
+        <character x="173" y="249" width="26" height="35" char="o" />
+        <character x="213" y="244" width="32" height="41" char="b" />
+        <character x="246" y="245" width="27" height="42" char="u" />
+        <character x="274" y="244" width="28" height="44" char="k" />
+        <character x="313" y="243" width="29" height="49" char="S" />
+        <character x="341" y="253" width="30" height="37" char="e" />
+        <character x="371" y="251" width="26" height="36" char="o" />
+        <character x="394" y="254" width="36" height="36" char="n" />
+      </word>
+      <word x="200" y="310" width="123" height="50">
+        <character x="241" y="310" width="43" height="49" char="북" />
+        <character x="284" y="311" width="39" height="49" char="선" />
+        <character x="200" y="310" width="41" height="44" char="거" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>4</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>

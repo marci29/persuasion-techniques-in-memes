@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+  <image>
+    <imageName>DSC03299.JPG</imageName>
+    <resolution x="640" y="480" />
+    <words>
+      <word x="187" y="278" width="402" height="189">
+        <character x="187" y="321" width="88" height="90" char="퀸" />
+      </word>
+      <word x="341" y="385" width="235" height="82">
+        <character x="341" y="385" width="63" height="82" char="u" />
+        <character x="399" y="386" width="56" height="73" char="e" />
+        <character x="456" y="387" width="51" height="74" char="e" />
+        <character x="507" y="387" width="69" height="74" char="n" />
+      </word>
+      <word x="324" y="278" width="265" height="95">
+        <character x="324" y="283" width="59" height="75" char="노" />
+        <character x="384" y="282" width="66" height="91" char="래" />
+        <character x="448" y="283" width="68" height="85" char="주" />
+        <character x="514" y="278" width="75" height="90" char="점" />
+      </word>
+    </words>
+    <illumination>no</illumination>
+    <difficulty>3</difficulty>
+    <tag>
+    </tag>
+  </image>
+</images>
